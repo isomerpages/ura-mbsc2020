@@ -49,7 +49,7 @@ sections:
         - title: STAR ISLAND Singapore Countdown Edition
           subtitle: The Float at Marina Bay
           description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-          image: /images/initiative-a.png
+          image: /images/rsz_mbsc2020kvl.jpg
           alt: Employees taking part in Initiative A
         - title: Let's Celebrate 2020 by Mediacorp
           subtitle: The Promontory at Marina Bay
