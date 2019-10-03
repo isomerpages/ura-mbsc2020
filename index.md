@@ -28,35 +28,4 @@ sections:
         description: Join us as we ring in the new year
         button: Find Out More 
         url: /faq/
-    - infopic:
-        title: Build A Dream
-        subtitle: A Communtiy Engagement Project
-        description: Celebrate our hopes and dreams for the future
-        button: Find Out More
-        url: /build-a-dream/
-        image: /images/kaleidoscope 3.jpg
-        alt: Build A Dream 
-    - infopic:
-        title: Celebrate in the City
-        subtitle: Year-end Events
-        description: The fun starts here
-        button: Find Out More
-        url: /events/
-        image: /kaleidoscope 3.jpg
-        alt: Celebrate in the City
-    - carousel:
-        - title: STAR ISLAND Singapore Countdown Edition 2019- 2020
-          subtitle: The Float at Marina Bay
-          description: STAR ISLAND Singapore Countdown Edition 2019- 2020
-          image:kaleidoscope 3.jpg
-          alt: STAR ISLAND Singapore Countdown Edition 2019- 2020
-        - title: Let's Celebrate 2020 by Mediacorp
-          subtitle: The Promontory at Marina Bay
-          image: /images/kaleidoscope 3.jpg
-          alt: Let's Celebrate 2020 by Mediacorp
-        - title: Ringo's Circus
-          subtitle: Bayfront Event Space
-          description: Ringo's Circus
-          image: /images/kaleidoscope 3.jpg
-          alt: Ringo's Circus
 ---
