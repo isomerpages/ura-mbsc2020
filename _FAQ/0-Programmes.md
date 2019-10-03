@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /build-a-dream/FAQ/
+permalink: /FAQ/
 ---
 
 blah blah blah
