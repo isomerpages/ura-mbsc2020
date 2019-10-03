@@ -35,7 +35,7 @@ sections:
         description: Celebrate our hopes and dreams for the future
         button: Learn More
         url: /build-a-dream/
-        image: /images/integrity.png
+        image: /images/kaleidoscope 3.png
         alt: Members of the Ministry of ABC shaking hands
     - infopic:
         title: Celebrate in the City
