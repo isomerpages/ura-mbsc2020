@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 31 December 2019
         subtitle: #MBSC2020
-        background: /images/hero-banner.png
+        background: /images/rsz_mbsc2020kvl.jpg
         url: /events/
         button: What's On
         url: /contact-us/
@@ -49,7 +49,7 @@ sections:
         - title: STAR ISLAND Singapore Countdown Edition
           subtitle: The Float at Marina Bay
           description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
-          image: /images/rsz_mbsc2020kvl.jpg
+          image:
           alt: Employees taking part in Initiative A
         - title: Let's Celebrate 2020 by Mediacorp
           subtitle: The Promontory at Marina Bay
