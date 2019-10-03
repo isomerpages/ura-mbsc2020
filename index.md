@@ -36,7 +36,7 @@ sections:
         button: Learn More
         url: /build-a-dream/
         image: /images/kaleidoscope 3.jpg
-        alt:Build A Dream 
+        alt: Build A Dream 
     - infopic:
         title: Celebrate in the City
         subtitle: Year-end Events
