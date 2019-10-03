@@ -60,4 +60,3 @@ sections:
           image: /images/kaleidoscope 3.jpg
           alt: Ringo's Circus
 ---
-
