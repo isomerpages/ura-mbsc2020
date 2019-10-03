@@ -15,7 +15,6 @@ sections:
         url: /contact-us/
         key_highlights:
             - title: Events
-              image:![firework](/image/Kaleidoscope 3.jpg)  
               description: Important highlight A is important
               url: https://google.com
             - title: Build A Dream
