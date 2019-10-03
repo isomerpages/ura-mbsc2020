@@ -1,16 +1,17 @@
 ---
 layout: homepage
-title: Ministry of ABC
-description: The Ministry of ABC is the ministry in charge of XYZ
+title: Marina Bay Singapore Countdown
+description: A Bay of Hopes and Dreams
+image: /images/isomer-logo.svg
 permalink: /
-notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
+notification: Tickets on sale now for STAR ISLAND
 sections:
     - hero:
-        title: Ministry of ABC
-        subtitle: We provide Singaporeans with XYZ services
+        title: 31 December 2019
+        subtitle: #MBSC2020
         background: /images/banner.png
-        url: /contact-us/
-        button: Contact
+        url: /events/
+        button: What's On
     - infobar:
         title: Work for the public good
         subtitle: Careers
