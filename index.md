@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 31 December 2019
         subtitle: #MBSC2020
-        background: /images/Kaleidoscope 3.jpg
+        background: /images/mbsc2020-kv-1920x720.png
         url: /events/
         button: What's On
         url: /contact-us/
