@@ -7,13 +7,13 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
+        title: 31 DECEMBER 2019
+        subtitle: #MBSC2020
         background: /images/hero-banner.png
-        button: Contact Us
+        button: What's On
         url: /contact-us/
         key_highlights:
-            - title: What's On
+            - title: Events
               description: Important highlight A is important
               url: https://google.com
             - title: Build A Dream
