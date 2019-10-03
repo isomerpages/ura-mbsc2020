@@ -1,5 +1,5 @@
 ---
-title:Jeanette
-permalink:/build-a-dream/ka-ho/
+title: Jeanette
+permalink: /build-a-dream/ka-ho/
 ---
 -
