@@ -36,7 +36,7 @@ sections:
         button: Learn More
         url: /build-a-dream/
         image: /images/kaleidoscope 3.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        alt:Build A Dream 
     - infopic:
         title: Celebrate in the City
         subtitle: Year-end Events
@@ -44,22 +44,22 @@ sections:
         button: Learn More
         url: /events/
         image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
+        alt: Celebrate in the City
     - carousel:
-        - title: STAR ISLAND Singapore Countdown Edition
+        - title: STAR ISLAND Singapore Countdown Edition 2019- 2020
           subtitle: The Float at Marina Bay
-          description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet asperiores dicta distinctio enim harum labore libero magni non tempora ullam.
+          description: STAR ISLAND Singapore Countdown Edition 2019- 2020
           image:
-          alt: Employees taking part in Initiative A
+          alt: STAR ISLAND Singapore Countdown Edition 2019- 2020
         - title: Let's Celebrate 2020 by Mediacorp
           subtitle: The Promontory at Marina Bay
           image: /images/initiative-b.png
-          alt: Employees handing out hampers to underserved citizens
+          alt: Let's Celebrate 2020 by Mediacorp
         - title: Ringo's Circus
           subtitle: Bayfront Event Space
           description: Maecenas nec pretium eros, sed gravida tortor. Cras suscipit a dolor vel vehicula.
           image: /images/initiative-c.png
-          alt: Citizens providing their feedback to grassroots leaders
+          alt: Ringo's Circus
     - resources:
         title: Media
         subtitle: Learn more
