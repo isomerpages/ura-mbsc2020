@@ -59,9 +59,5 @@ sections:
           description: Ringo's Circus
           image: /images/kaleidoscope 3.jpg
           alt: Ringo's Circus
-    - resources:
-        title: Media
-        subtitle: Find Out More
-        button: Find Out More
 ---
 
