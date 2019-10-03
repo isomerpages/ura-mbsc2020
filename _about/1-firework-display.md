@@ -1,4 +1,4 @@
 ---
-title: Firework Display
+title: Firework Display jeanette
 permalink: /about/firework-display/
 ---
