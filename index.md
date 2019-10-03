@@ -2,7 +2,7 @@
 layout: homepage
 title: Marina Bay Singapore Countdown
 description: A Bay of Hopes and Dreams
-image: /images/MBSC2020-logo-170x50.png
+image: /images/herobanner-1920x720.png
 permalink: /
 notification: Tickets on sale now for STAR ISLAND
 sections:
