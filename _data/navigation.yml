@@ -11,9 +11,9 @@ links:
     collection: about
   - title: Events
     collection: events
-  - title: Getting Around
-    url: /getting-around/
   - title: Build A Dream
     collection: build-a-dream
+  - title: Getting Around
+    url: /getting-around/
   - title: FAQ
     collection: FAQ
