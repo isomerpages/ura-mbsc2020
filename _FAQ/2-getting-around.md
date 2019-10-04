@@ -1,4 +1,4 @@
 ---
-title: Frequently Asked Questions
+title: Getting Around
 permalink: /FAQ/Getting Around
 ---
