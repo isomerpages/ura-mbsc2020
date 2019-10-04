@@ -36,4 +36,12 @@ sections:
         url: /core-values/
         image: /images/Nyan cat.gif
         alt: Nyan Cat
+    - infopic:
+        title: Nyan Cat
+        subtitle: Test
+        description: Test
+        button: Learn More
+        url: /core-values/
+        image: /images/Nyan cat.gif
+        alt: Nyan Cat
 ---
