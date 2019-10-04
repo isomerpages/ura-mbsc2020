@@ -1,0 +1,4 @@
+---
+title: Gif
+permalink: /Nyan
+---
