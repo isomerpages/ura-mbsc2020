@@ -28,4 +28,12 @@ sections:
         description: Join us as we ring in the new year
         button: Find Out More 
         url: /faq/
+        - infopic:
+        title: Nyan Cat
+        subtitle: Test
+        description: Test
+        button: Learn More
+        url: /core-values/
+        image: <img src="/images/Nyan cat.gif" alt="Nyan Cat" style="width:300px;height:200px;">
+        alt: Nyan Cat
 ---
