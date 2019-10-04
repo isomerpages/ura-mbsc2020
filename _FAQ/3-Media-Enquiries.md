@@ -1,4 +1,4 @@
 ---
-title: Frequently Asked Questions
+title: Media Enquiries
 permalink: /FAQ/Media Enquiries
 ---
