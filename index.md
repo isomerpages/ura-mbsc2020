@@ -28,7 +28,7 @@ sections:
         description: Join us as we ring in the new year
         button: Find Out More 
         url: /faq/
-        - infopic:
+    - infopic:
         title: Nyan Cat
         subtitle: Test
         description: Test
