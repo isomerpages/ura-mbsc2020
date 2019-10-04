@@ -1,4 +1,4 @@
 ---
 title: Frequently Asked Questions
-permalink: /FAQ/
+permalink: /FAQ/About MBSC
 ---
