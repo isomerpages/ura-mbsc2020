@@ -26,8 +26,8 @@ permalink: /about/acknowledgements/
     <th class="tg-9mte">Managed By</th>
   </tr>
   <tr>
-    <td class="tg-8jgo"></td>
-    <td class="tg-8jgo"></td>
+    <td class="tg-8jgo"><a href="https://www.ura.gov.sg/Corporate" target="_self"><img src="/images/URA_logo.gif" alt="Urban Redevelopment Authority" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><img src="/images/MB-logo.jpg" alt="Marina Bay" class="GeneratedImage"></a></td>
     <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="/images/Pico-logo.jpg" alt="Pico Art International" class="GeneratedImage"></a></td>
   </tr>
   <tr>
