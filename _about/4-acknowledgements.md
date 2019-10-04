@@ -6,6 +6,8 @@ permalink: /about/acknowledgements/
 ## Our Sponsors and Partners
 
 
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -26,9 +28,9 @@ permalink: /about/acknowledgements/
     <th class="tg-9mte">Managed By</th>
   </tr>
   <tr>
-    <td class="tg-8jgo"><a href="https://www.ura.gov.sg/Corporate" target="_self"><img src="/images/URA_logo.gif" alt="Urban Redevelopment Authority" class="GeneratedImage"></a></td>
-    <td class="tg-8jgo"><img src="/images/MB-logo.jpg" alt="Marina Bay" class="GeneratedImage"></a></td>
-    <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="/images/Pico-logo.jpg" alt="Pico Art International" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><a href="https://www.ura.gov.sg/Corporate" target="_self"><img src="/images/URA_logo.gif" alt="Urban Redevelopment Authority" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><img src="/images/MB-logo.jpg" alt="Marina Bay" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="/images/Pico-logo.jpg" alt="Pico Art International" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
   </tr>
   <tr>
     <td class="tg-9mte" colspan="3">Event Partners</td>
