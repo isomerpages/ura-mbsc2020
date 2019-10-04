@@ -1,4 +1,4 @@
 ---
 title: Frequently Asked Questions
-permalink: /FAQ/
+permalink: /FAQ/Getting Around
 ---
