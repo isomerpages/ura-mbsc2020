@@ -28,7 +28,7 @@ permalink: /about/acknowledgements/
   <tr>
     <td class="tg-8jgo"></td>
     <td class="tg-8jgo"></td>
-    <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="images/Pico-logo.jpg" alt="Pico Art International" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="/images/Pico-logo.jpg" alt="Pico Art International" class="GeneratedImage"></a></td>
   </tr>
   <tr>
     <td class="tg-9mte" colspan="3">Event Partners</td>
