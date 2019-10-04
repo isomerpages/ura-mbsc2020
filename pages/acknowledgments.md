@@ -1,4 +1,0 @@
----
-title: Acknowledgments
-permalink: /acknowledgments/
----
