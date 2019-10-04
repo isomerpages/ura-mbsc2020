@@ -34,6 +34,6 @@ sections:
         description: Test
         button: Learn More
         url: /core-values/
-        image: <img src="/images/Nyan cat.gif" alt="Nyan Cat" style="width:300px;height:200px;">
+        image: /images/Nyan cat.gif
         alt: Nyan Cat
 ---
