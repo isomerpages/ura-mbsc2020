@@ -25,7 +25,7 @@ permalink: /events/celebrate-in-the-city/
        <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Christmas at Art Science Museum <font color="red"> (FULL)</font></b>
+      <b>Christmas at Art Science Museum <font color="red">
       <br>30 November 2019-5 January 2020
       <br>  
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
@@ -37,7 +37,7 @@ permalink: /events/celebrate-in-the-city/
        <a href="www.esplanade.com/voices"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Esplanade presents: Voices - A Festival of Songs <font color="red"> (FULL)</font></b>
+      <b>Esplanade presents: Voices - A Festival of Songs <font color="red">
       <br>6-8 December 2019 
       <br>   
       <br>The seventh edition of Voices – A Festival of Song will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.</a>
@@ -48,7 +48,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
     </td>
     <td>
-      <b>Esplanade Presents:Come Together<font color="red"> (FULL)</font></b>
+      <b>Esplanade Presents:Come Together<font color="red">
       <br>1-31 December 2019
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
@@ -60,7 +60,7 @@ permalink: /events/celebrate-in-the-city/
       <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>#futuretogether-Sneak Preview <font color="red"> (FULL)</font></b>
+      <b>#futuretogether-Sneak Preview <font color="red">
       <br>15 December 2019-14 January 2020
       <br>  
       <br>TBC
@@ -72,7 +72,7 @@ permalink: /events/celebrate-in-the-city/
       <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_wonderland.jpg" /></a>
     </td>
     <td>
-      <b>Christmas Wonderland<font color="blue"> (Free Entry)</font></b>
+      <b>Christmas Wonderland<font color="blue">
       <br>29 November 2019-26 December 2019
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
@@ -84,7 +84,7 @@ permalink: /events/celebrate-in-the-city/
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Charitrees<font color="red"> (FULL)</font></b>
+      <b>Charitrees<font color="red">
       <br>TBC
       <br>  
       <br>TBC
@@ -96,7 +96,7 @@ permalink: /events/celebrate-in-the-city/
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Uncle Ringo's Circus<font color="red"> (FULL)</font></b>
+      <b>Uncle Ringo's Circus<font color="red">
       <br>22-31 December 2019  
       <br>  
       <br>TBC 
