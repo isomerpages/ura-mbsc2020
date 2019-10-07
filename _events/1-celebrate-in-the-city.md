@@ -4,7 +4,6 @@ permalink: /events/celebrate-in-the-city/
 ---
 
 # Celebrate In The City
-
 <font color="orangered"><i><b>List of events for Celebrate In The City!</b></i></font>
 
 <table>
@@ -13,11 +12,11 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
+      <font color="orangered"><b>Poinsettia Wishes Floral Display</font>
       <font color="orangered"><br>8 November 2019-5 January 2020</b></font>
       <br>  
       <br>TBC
-      <font color="orangered"><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></font>
           
 <tr>
     <td>
@@ -28,7 +27,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>30 November 2019-5 January 2020</b></font>
       <br>
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
-      <font color="orangered"><br><a href="www.marinabaysands.com/artsciencemuseum">Find out more</a></b></font>
+      <font color="orangered"><br><a href="www.marinabaysands.com/artsciencemuseum">Find out more</a></font>
       <br>       
 <tr>
     <td>
