@@ -39,7 +39,7 @@ permalink: /events/celebrate-in-the-city/
       Esplanade presents: Voices - A Festival of Songs <font color="red"> (FULL)</font></b>
       <br>6-8 December 2019 
       <br>Esplanade-Theatres on the bay, 1 Esplanade Drive (S038981) 
-      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music to be held from 6 – 8 Dec 2019. Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us. Voices 2019 will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more 
+      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Voices 2019 will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more 
       <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
 </tr>
@@ -51,7 +51,7 @@ permalink: /events/celebrate-in-the-city/
       <b>Esplanade Presents:Come Together<font color="red"> (FULL)</font></b>
       <br>1-31 December 2019 , Timing TBC
       <br>Esplanade-Theatres on the bay, 1 Esplanade Drive (S038981) 
-      <br> Celebrate friendships old and new as artists and kindered spirits Come Together for a time of collaboration, reflection and revelry. In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.Apart from live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays.Special weekend pop-up performances around the centre also await you at Come Together
+      <br> Celebrate friendships old and new as artists and kindered spirits Come Together for a time of collaboration, reflection and revelry. In the spirit of our theme, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.Apart from live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays as well
       <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
     </td>
 </tr>  
