@@ -14,7 +14,7 @@ permalink: /events/celebrate-in-the-city/
     </td>
     <td>
       <b>Poinsettia Wishes Floral Display
-      <br>8 Novermber 2019-5 January 2020
+      <br>8 November 2019-5 January 2020
       <br>  
       <br>TBC
       <br><a href="https://www.gardensbythebay.com.sg/">Click here to find out more.</a>
