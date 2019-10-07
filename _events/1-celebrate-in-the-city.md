@@ -69,7 +69,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="www.christmaswonderland.sg"> <img src="/images/Christmas Wonderland 2019.jpg" /></a>
+     <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_Wonderland_2019.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
