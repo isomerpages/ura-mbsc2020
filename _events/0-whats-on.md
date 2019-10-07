@@ -10,35 +10,40 @@ permalink: /events/whats-on/
 <table>
 <tr>
     <td>
-      <a href="https://star-island.sg/"> <img src="Voices (Esplanade).jpg" /></a>
-    </td>
-    <td>
-      <b>Star Island<font color="red"> (FULL)</font></b>
-      <br>31 December 2019 (Tue), 5.00pm – 11.50pm 
-      <br> This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances.
-      <br><a href="https://star-island.sg/">Click here to find out more.</a>
-    </td>
-</tr>  
-<tr>
-    <td>
       <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Come Together<font color="red"> (FULL)</font></b>
-      <br>1-31 December 2019,6.00pm – 11.00pm 
-      <br>In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.  
+      <b>Esplanade Presents: Come Together<font color="red"> (FULL)</font></b>
+      <br>1 Dec 2019 - 31 Dec 2019
+      <br>Before we count down to new beginnings in Dec, watch as artists and kindred spirits Come Together to celebrate friendships and fresh collaborations together with reunion shows. 
+Apart from free live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays. To add on, there will be special weekend pop-up performances near the centre of Esplanade. 
       <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
     </td>
-</tr>  
+</tr>
 <tr>
     <td>
       <a href="www.esplanade.com/voices"> <img src="Voices-Esplanade.jpg" /></a>
     </td>
     <td>
-      <b>Voices-A Festival of Songs</b>
-      <br>6-8 December 2019 (Tue), 9.00am - 10.30am or 11.00am - 12.30pm
-      <br>Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us.
+      <b>Esplanade Presents: Voices-A Festival of Songs</b>
+      <br>6 Dec 2019 - 8 Dec 2019
+      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music.
+        
+Voices invites you to create magical connections by joining voices with fellow singers and through the coming together of music and words - creates a beautiful weave of two elements. 
+
+Voices 2019 will feature a diverse range of styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more. 
       <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
+    </td>
+  </tr>
+ <tr>
+    <td>
+      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Picture1.jpg" /></a>
+    </td>
+    <td>
+      <b>Uncle Ringo's Circus<font color="red"> (FULL)</font></b>
+      <br>22-31 December 2019, 4.00pm - 2.00am   
+      <br>TBC 
+      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
   </tr>
 <tr>
@@ -85,17 +90,6 @@ permalink: /events/whats-on/
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
-  <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Picture1.jpg" /></a>
-    </td>
-    <td>
-      <b>Uncle Ringo's Circus<font color="red"> (FULL)</font></b>
-      <br>22-31 December 2019, 4.00pm - 2.00am   
-      <br>TBC 
-      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
-    </td>
-  </tr>  
   <tr>
     <td> 
       <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/Picture1.jpg" /></a>
