@@ -70,7 +70,7 @@ permalink: /events/celebrate-in-the-city/
   </tr>  
 <tr>
     <td>
-      <a href="www.christmaswonderland.sg"> <img src="/images/Picture1.jpg" /></a>
+      <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_wonderland.jpg" /></a>
     </td>
     <td>
       <b>Christmas Wonderland<font color="blue"> (Free Entry)</font></b>
