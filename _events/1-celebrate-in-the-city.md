@@ -15,7 +15,7 @@ permalink: /events/celebrate-in-the-city/
     <td>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
       <font color="orangered"><br>8 November 2019-5 January 2020</b></font>
-      <font color="orangered"><br>  
+      <br>  
       <br>TBC
       <font color="orangered"><br><a href="https://www.gardensbythebay.com.sg/">Click here to find out more.</a></b></font>
           
@@ -24,19 +24,22 @@ permalink: /events/celebrate-in-the-city/
        <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
     </td>
     <td>
-      <b>Christmas at Art Science Museum
-      <br>30 November 2019-5 January 2020
-      <br>  
+      <font color="orangered"><b>Christmas at Art Science Museum</b></font>
+      <font color="orangered"><br>30 November 2019-5 January 2020</b></font>
+      <br>
+      <br>
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
-      <br><a href="www.marinabaysands.com/artsciencemuseum">Click here to find out more.</a>  
+      <font color="orangered"><br><a href="www.marinabaysands.com/artsciencemuseum">Find out more.</a></b></font>
+      <br>
+      <br>
           
 <tr>
     <td>
        <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg" /></a>
     </td>
     <td>
-      <b>Esplanade presents: Voices - A Festival of Songs
-      <br>6-8 December 2019 
+      <font color="orangered"><b>Esplanade presents: Voices - A Festival of Song</b></font>
+      <font color="orangered"><br>6-8 December 2019</b></font>
       <br>   
       <br>The seventh edition of Voices – A Festival of Song will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
         <br><a href="www.esplanade.com/voices">Click here to find out more.</a> 
