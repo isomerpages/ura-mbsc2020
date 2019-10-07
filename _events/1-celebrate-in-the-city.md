@@ -105,47 +105,6 @@ permalink: /events/celebrate-in-the-city/
   </tr>  
   <tr>
     <td> 
-      <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/Picture1.jpg" /></a>
-    </td>
-    <td>
-      <b>Learning Journey to MOE Heritage Centre<font color="red"> (FULL)</font></b>
-      <br>5 July 2019 (Fri), 2.30pm - 4.00pm
-      <br>Find out more about the Singapore Education Story and its role in nation-building.
-      <br><a href="/events/learning-journeys/event-details/LJ_moeheritage">Click here to find out more.</a>
-    </td>
-  </tr>  
-  <tr>
-     <td>
-      <a href="/events/learning-journeys/event-details/LJ_momservice"> <img src="/images/Picture1.jpg" /></a>
-    </td>
-    <td>
-      <b>The Ministry of Manpower's (MOM) Service Transformation Journey<font color="red"> (FULL)</font></b>
-      <br>5 July 2019 (Fri), 3.00pm - 5.30pm
-      <br>Discover how MOM has used data analytics, design thinking, behavioural insights and technology to transform public service delivery for citizens and fellow colleagues. 
-      <br><a href="/events/learning-journeys/event-details/LJ_momservice">Click here to find out more.</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LJ_sensoriot"> <img src="/images/Picture1.jpg" /></a>
-    </td>
-    <td>
-      <b>Leveraging Digital Technologies such as Sensors and Internet of Things (IoT) for Greater Impact <font color="red"> (FULL)</font></b>
-      <br>5 July 2019 (Fri), 3.00pm - 5.00pm
-      <br>Come find out from GovTech how technologies such as Sensors, IoT and robotics are being applied in the Public Service.
-      <br><a href="/events/learning-journeys/event-details/LJ_sensoriot">Click here to find out more.</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse"> <img src="/images/Picture1.jpg" /></a>
-    </td>
-    <td>
-      <b>Learning Journey to the Parliament House<font color="red"> (FULL)</font></b>
-      <br>5 July 2019 (Fri), 4.00pm - 5.00pm
-      <br>Familiarise yourself with the functions of Parliament, an integral part of the Legislature of Singapore, through this tour.        <br><a href="/events/learning-journeys/event-details/LJ_ ParliamentHouse">Click here to find out more.</a>
-    </td>
-  </tr>
 </table>
-<br> Click [here](/events/learning-festival/faq) if you have any questions. 
+<br> Click [here](https://ura-mbsc2020-staging.netlify.com/faq/about%20mbsc) if you have any questions. 
 
