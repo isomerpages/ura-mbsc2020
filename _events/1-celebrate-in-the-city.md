@@ -13,7 +13,7 @@ permalink: /events/celebrate-in-the-city/
     </td>
     <td>
         <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
-      <font color="orangered"><br>8 November 2019 - 5 January 2020</font>
+        <font color="orangered"><br>8 November 2019 - 5 January 2020</b></font>
       <br>  
       <br>TBC
       <br>
