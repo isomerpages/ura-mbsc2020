@@ -95,6 +95,7 @@ permalink: /events/celebrate-in-the-city/
       <br>  
       <br>TBC 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
+    
     </td>
   </tr>
 </table>
