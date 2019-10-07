@@ -3,22 +3,20 @@ title: Celebrate In The City
 permalink: /events/celebrate-in-the-city/
 ---
 
-# Whats On
+# Celebrate In The City
 
-<font color="orangered"><i><b>Wave 3 List of event for Marina Bay Singapore Countdown!</b></i></font>
+<font color="orangered"><i><b>Wave 3 List of events for Celebrate In The City!</b></i></font>
 
 <table>
 <tr>
     <td>
-      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019  
-"> <img src="Voices (Esplanade).jpg" /></a>
+      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="Voices (Esplanade).jpg" /></a>
     </td>
     <td>
       <b>Esplanade Presents:Come Together<font color="red"> (FULL)</font></b>
-      <br>1-31 December 2019 , 5.00pm – 11.50pm 
-      <br> This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances.
-      <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019  
-">Click here to find out more.</a>
+      <br>1-31 December 2019 , Timing TBC 
+      <br> Celebrate friendships old and new as artists and kindered spirits Come Together for a time of collaboration, reflection and revelry. In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.Apart from live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays.Special weekend pop-up performances around the centre also await you at Come Together
+      <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
     </td>
 </tr>  
 <tr>
