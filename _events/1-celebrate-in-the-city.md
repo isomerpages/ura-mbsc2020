@@ -91,14 +91,12 @@ permalink: /events/celebrate-in-the-city/
     </td>
     <td>
       <b>Uncle Ringo's Circus
-      <br>22-31 December 2019  
-      <br>  
-      <br>TBC 
-      <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
+      <br>22-31 December 2019
+      <br> 
+      <br>TBC
+      <br><a href="https://ura-mbsc2020-staging.netlify.com/faq/about%20mbsc">Click here to find out more.</a>
     </td>
   </tr>
 </table>
 <br> Click [here](https://ura-mbsc2020-staging.netlify.com/faq/about%20mbsc) if you have any questions. 
-
-
-
+     
