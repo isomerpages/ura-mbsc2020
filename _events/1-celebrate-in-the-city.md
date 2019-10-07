@@ -22,23 +22,25 @@ permalink: /events/celebrate-in-the-city/
 </tr>  
 <tr>
     <td>
-       <b>Esplanade presents: Voices - A Festival of Songs <font color="red"> (FULL)</font></b>
-      <br>6-8 December 2019 
-      <br>Esplanade-Theatres on the bay, 1 Esplanade Drive (S038981) 
-      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music to be held from 6 – 8 Dec 2019. Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us. Voices 2019 will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more 
-      <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
+       <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Picture1.jpg" /></a>
+    </td>
+    <td>
+      <b>Christmas at Art Science Museum <font color="red"> (FULL)</font></b>
+      <br>30 November 2019-5 January 2020
+      <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. Tap Santa and watch him deliver presents! 
+      <br><a href="www.marinabaysands.com/artsciencemuseum">Click here to find out more.</a>
     </td>
 </tr>  
 <tr>
     <td>
-       <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+       <a href="www.esplanade.com/voices"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Esplanade Presents:Come Together<font color="red"> (FULL)</font></b>
-      <br>1-31 December 2019 , Timing TBC
+      Esplanade presents: Voices - A Festival of Songs <font color="red"> (FULL)</font></b>
+      <br>6-8 December 2019 
       <br>Esplanade-Theatres on the bay, 1 Esplanade Drive (S038981) 
-      <br> Celebrate friendships old and new as artists and kindered spirits Come Together for a time of collaboration, reflection and revelry. In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.Apart from live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays.Special weekend pop-up performances around the centre also await you at Come Together
-      <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
+      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music to be held from 6 – 8 Dec 2019. Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us. Voices 2019 will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more 
+      <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
 </tr>
 <tr>
