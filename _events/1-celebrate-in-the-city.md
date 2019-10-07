@@ -22,57 +22,63 @@ permalink: /events/celebrate-in-the-city/
 </tr>  
 <tr>
     <td>
-      <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="/images/Picture1.jpg" /></a>
+      <a href="www.esplanade.com/voices"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Come Together<font color="red"> (FULL)</font></b>
-      <br>1-31 December 2019,6.00pm – 11.00pm 
-      <br>In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.  
-      <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
+      <b>Esplanade presents: Voices - A Festival of Songs <font color="red"> (FULL)</font></b>
+      <br>6-8 December 2019 
+      <br>Esplanade-Theatres on the bay, 1 Esplanade Drive (S038981) 
+      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music to be held from 6 – 8 Dec 2019. Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us. Voices 2019 will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more 
+      <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
 </tr>  
 <tr>
     <td>
-      <a href="www.esplanade.com/voices"> <img src="Voices-Esplanade.jpg" /></a>
+      <a href="www.marinabaysands.com/artsciencemuseum"> <img src="Voices-Esplanade.jpg" /></a>
     </td>
     <td>
-      <b>Voices-A Festival of Songs</b>
-      <br>6-8 December 2019 (Tue), 9.00am - 10.30am or 11.00am - 12.30pm
-      <br>Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us.
-      <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
+      <b>Christmas at Art Science Museum</b>
+      <br>30 November 2019-5 January 2020, 10am-7pm daily
+      <br>Art Science Museum (S018956)
+      <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. Tap Santa and watch him deliver presents! 
+      <br><a href="www.marinabaysands.com/artsciencemuseum">Click here to find out more.</a>
     </td>
   </tr>
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour"> <img src="/images/Picture1.jpg" /></a>
+      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Civic District<font color="red"> (FULL)</font></b>
+      <b>Poinsettia Wishes Floral Display <font color="red"> (FULL)</font></b>
+      <br>8 Novermber 2019-5 January 2020
+      <br>Gardens By The Bay
       <br>TBC
-      <br>TBC
-      <br><a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour">Click here to find out more.</a>
+      <br><a href="https://www.gardensbythebay.com.sg/">Click here to find out more.</a>
     </td>
 </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Picture1.jpg" /></a>
+      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Bazaar</b>
+      <b>#futuretogether-Sneak Preview <font color="red"> (FULL)</font></b>
+      <br>15 December 2019-14 January 2020
+      <br>Gardens By The Bay
       <br>TBC
-      <br>TBC
-      <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
+      <br><a href="https://www.gardensbythebay.com.sg/">Click here to find out more.</a>
     </td>
   </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LJ_SGOEngage"> <img src="/images/Picture1.jpg" /></a>
+      <a href="www.christmaswonderland.sg"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Lets Celebrate 2020<font color="blue"> (Free Entry)</font></b>
-      <br>31 December 2019 (Tue), Doors open at 7.00pm, Show starts at 9.30pm - 12.00am
-      <br>Ring in the New Yea at the Promontory with Mediacorp's Let's Celebrate 2020 countdown show. Enjoy live performances by Taufik Batisah, Gentle Bones, Joanna Dong and many more
-      <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
+      <b>Christmas Wonderland<font color="blue"> (Free Entry)</font></b>
+      <br>29 November 2019-26 December 2019 , 4pm-11pm daily
+      <br>Gardens By The Bay
+      <br>Prices
+      <br>TBC
+      <br><a href="www.christmaswonderland.sg">Click here to find out more.</a>
     </td>
 </tr>  
 <tr>
@@ -80,9 +86,9 @@ permalink: /events/celebrate-in-the-city/
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Build-A-Dream<font color="red"> (FULL)</font></b>
-      <br>26-31 December 2019, 8.00pm - 11.30pm
-      <br>From 26th-31st December 2019, artworks created by students will from these organisations will be transformed into light projections on Marina Bay's iconic landmarks - The Fullerton Hotel, Art Science Museum and The Merlion.
+      <b>CherriTrees<font color="red"> (FULL)</font></b>
+      <br>TBC
+      <br>TBC
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
