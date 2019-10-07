@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 31 December 2019
         subtitle: #MBSC2020
-        background: /images/fireworks.gif
+        background: /images/MBSC2020.gif
         button: What's On
         url: /contact-us/
         key_highlights:
