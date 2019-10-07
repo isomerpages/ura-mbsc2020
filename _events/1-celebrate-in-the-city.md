@@ -13,11 +13,11 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Poinsettia Wishes Floral Display
-      <font color="orangered"><br>8 November 2019-5 January 2020
+      <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
+      <font color="orangered"><br>8 November 2019-5 January 2020</b></font>
       <font color="orangered"><br>  
       <br>TBC
-      <font color="orangered"><br><a href="https://www.gardensbythebay.com.sg/">Click here to find out more.</a>
+      <font color="orangered"><br><a href="https://www.gardensbythebay.com.sg/">Click here to find out more.</a></b></font>
           
 <tr>
     <td>
