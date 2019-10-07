@@ -104,6 +104,6 @@ permalink: /events/celebrate-in-the-city/
     </td>
   </tr>
 </table>
-<br> Click [here](/events/learning-festival/faq) if you have any questions.
+<br> Click [here](https://ura-mbsc2020-staging.netlify.com/faq/about%20mbsc) if you have any questions.
 
 
