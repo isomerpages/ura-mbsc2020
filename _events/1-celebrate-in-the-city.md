@@ -96,7 +96,6 @@ permalink: /events/celebrate-in-the-city/
       <br>TBC 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     
-    </td>
   </tr>
 </table>
 <br> Click [here](https://ura-mbsc2020-staging.netlify.com/faq/about%20mbsc) if you have any questions.
