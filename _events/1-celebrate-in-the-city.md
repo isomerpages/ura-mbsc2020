@@ -5,7 +5,7 @@ permalink: /events/celebrate-in-the-city/
 
 # Celebrate In The City
 
-<font color="orangered"><i><b>Wave 3 List of events for Celebrate In The City!</b></i></font>
+<font color="orangered"><i><b>List of events for Celebrate In The City!</b></i></font>
 
 <table>
 <tr>
