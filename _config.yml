@@ -1,6 +1,6 @@
 title: Title
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /images/MBSC2020-logo-170x50.png
+logo: /images/MBSC2020logo-170x50.svg
 
 collections:
   about:
