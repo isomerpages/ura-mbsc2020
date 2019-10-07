@@ -21,7 +21,7 @@ permalink: /events/celebrate-in-the-city/
           
 <tr>
     <td>
-       <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Picture1.jpg" /></a>
+       <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
     </td>
     <td>
       <b>Christmas at Art Science Museum
@@ -32,7 +32,7 @@ permalink: /events/celebrate-in-the-city/
           
 <tr>
     <td>
-       <a href="www.esplanade.com/voices"> <img src="/images/Picture1.jpg" /></a>
+       <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices – A_Festival_of_Song.jpg" /></a>
     </td>
     <td>
       <b>Esplanade presents: Voices - A Festival of Songs
@@ -65,7 +65,7 @@ permalink: /events/celebrate-in-the-city/
    
 <tr>
     <td>
-      <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_wonderland.jpg" /></a>
+      <a href="www.christmaswonderland.sg"> <img src="/images/Christmas Wonderland 2019.jpg" /></a>
     </td>
     <td>
       <b>Christmas Wonderland
