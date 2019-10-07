@@ -24,7 +24,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Christmas at Art Science Museum</b></font>
+      <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
       <font color="orangered"><br>30 November 2019 - 5 January 2020</font>
       <br>  
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
@@ -48,19 +48,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Esplanade Presents:Come Together</b></font>
-      <font color="orangered"><br>1-31 December 2019</font>
-      <br>  
-      <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
-      <br>
-      <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find out more.</a></b></font>
-      <br>
-<tr>
-    <td>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
-    </td>
-    <td>
-      <font color="orangered"><b>Esplanade Presents:Come Together</b></font>
+      <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1-31 December 2019</font>
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
@@ -81,7 +69,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="www.christmaswonderland.sg"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="www.christmaswonderland.sg"> <img src="/images/Christmas Wonderland 2019.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
