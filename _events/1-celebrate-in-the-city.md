@@ -24,7 +24,9 @@ permalink: /events/celebrate-in-the-city/
        <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
+      <b>Christmas at Art Science Museum <font color="red"> (FULL)</font></b>
       <br>30 November 2019-5 January 2020
+      <br>  
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. Tap Santa and watch him deliver presents! 
       <br><a href="www.marinabaysands.com/artsciencemuseum">Click here to find out more.</a>
     </td>
