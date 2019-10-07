@@ -14,7 +14,8 @@ permalink: /events/celebrate-in-the-city/
     </td>
     <td>
       <b>Esplanade Presents:Come Together<font color="red"> (FULL)</font></b>
-      <br>1-31 December 2019 , Timing TBC 
+      <br>1-31 December 2019 , Timing TBC
+      <br>Esplanade-Theatres on the bay, 1 Esplanade Drive (S038981) 
       <br> Celebrate friendships old and new as artists and kindered spirits Come Together for a time of collaboration, reflection and revelry. In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.Apart from live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays.Special weekend pop-up performances around the centre also await you at Come Together
       <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
     </td>
