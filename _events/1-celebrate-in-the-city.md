@@ -101,10 +101,9 @@ permalink: /events/celebrate-in-the-city/
       <br>22-31 December 2019, 4.00pm - 2.00am   
       <br>TBC 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
-    </td>
-  </tr>  
-  <tr>
-    <td> 
+       </td>
+  </tr>
 </table>
 <br> Click [here](https://ura-mbsc2020-staging.netlify.com/faq/about%20mbsc) if you have any questions. 
+
 
