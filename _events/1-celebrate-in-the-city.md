@@ -86,7 +86,7 @@ permalink: /events/celebrate-in-the-city/
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>CherriTrees<font color="red"> (FULL)</font></b>
+      <b>Charitrees<font color="red"> (FULL)</font></b>
       <br>TBC
       <br>TBC
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
