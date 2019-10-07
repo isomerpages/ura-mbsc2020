@@ -10,7 +10,7 @@ permalink: /events/celebrate-in-the-city/
 <table>
 <tr>
     <td>
-      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="Voices (Esplanade).jpg" /></a>
+      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
     </td>
     <td>
       <b>Esplanade Presents:Come Together<font color="red"> (FULL)</font></b>
@@ -22,7 +22,7 @@ permalink: /events/celebrate-in-the-city/
 </tr>  
 <tr>
     <td>
-      <a href="www.esplanade.com/voices"> <img src="/images/Picture1.jpg" /></a>
+      <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices-A_Festival_of_Song.jpg" /></a>
     </td>
     <td>
       <b>Esplanade presents: Voices - A Festival of Songs <font color="red"> (FULL)</font></b>
