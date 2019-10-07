@@ -69,13 +69,13 @@ permalink: /events/celebrate-in-the-city/
   </tr>  
 <tr>
     <td>
-      <a href="www.christmaswonderland.sg"> <img src="/images/Picture1.jpg" /></a>
+      <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_wonderland.jpg" /></a>
     </td>
     <td>
       <b>Christmas Wonderland<font color="blue"> (Free Entry)</font></b>
       <br>29 November 2019-26 December 2019
+      <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
-      <br>TBC
       <br><a href="www.christmaswonderland.sg">Click here to find out more.</a>
     </td>
 </tr>  
