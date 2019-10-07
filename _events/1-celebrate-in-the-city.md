@@ -32,7 +32,7 @@ permalink: /events/celebrate-in-the-city/
           
 <tr>
     <td>
-       <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices – A_Festival_of_Song.jpg" /></a>
+       <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg" /></a>
     </td>
     <td>
       <b>Esplanade presents: Voices - A Festival of Songs
