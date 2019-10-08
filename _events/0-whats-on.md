@@ -27,8 +27,8 @@ permalink: /events/whats-on/
     </td>
     <td>
       <b>Voices-A Festival of Songs</b>
-      <br>6-8 December 2019 (Tue), 9.00am - 10.30am or 11.00am - 12.30pm
-      <br>Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us.
+      <br>6 Dec 2019 - 8 December 2019
+      <br>Esplanade - Theatres on the Bay proudly presents the seventh edition of Voices - A festival of song, a three-day celebration of vocal music. Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements.
       <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
   </tr>
@@ -94,7 +94,7 @@ permalink: /events/whats-on/
     <td>
       <b>Lets Celebrate 2020<font color="blue"> (Free Entry)</font></b>
       <br>31 December 2019 (Tue), Doors open at 7.00pm, Show starts at 9.30pm - 12.00am
-      <br>Ring in the New Yea at the Promontory with Mediacorp's Let's Celebrate 2020 countdown show. Enjoy live performances by Taufik Batisah, Gentle Bones, Joanna Dong and many more
+      <br>Let’s Celebrate 2020 by Mediacorp is the biggest party in town, located at The Promontory@Marina Bay. There will be music, dance and fashion, showcasing Singapore’s best talents. Line up includes, Jasmine Sokko, Benjamin Kheng, Dru Chen, Glen Wee, Astronauts and more. 
       <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
     </td>
 </tr>    
