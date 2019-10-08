@@ -18,34 +18,30 @@ permalink: /events/whats-on/
       <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
       <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
     </td>
-</tr>
+</tr>  
 <tr>
     <td>
       <a href="www.esplanade.com/voices"> <img src="Voices-Esplanade.jpg" /></a>
     </td>
     <td>
-      <b>Esplanade Presents: Voices-A Festival of Songs</b>
-      <br>6 Dec 2019 - 8 Dec 2019
-      <br>Esplanade – Theatres on the Bay is proud to present the seventh edition of Voices – A Festival of Song, a three-day celebration of vocal music.
-        
-Voices invites you to create magical connections by joining voices with fellow singers and through the coming together of music and words - creates a beautiful weave of two elements. 
-
-Voices 2019 will feature a diverse range of styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more. 
+      <b>Voices-A Festival of Songs</b>
+      <br>6-8 December 2019 (Tue), 9.00am - 10.30am or 11.00am - 12.30pm
+      <br>Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us.
       <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
-</tr>
+  </tr>
 <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
       <b>Uncle Ringo's Circus<font color="red"> (FULL)</font></b>
-      <br>22-31 December 2019, 4.00pm - 2.00am   
-      <br>TBC 
+      <br>22 Dec 2019 - 24 March 2020
+      <br>25 Dec 2019 - 31 Dec 2019 4pm - 2am
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
- </tr>
- <tr>
+  </tr>  
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
     </td>
@@ -55,8 +51,8 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>From 26th-31st December 2019, artworks created by students will from these organisations will be transformed into light projections on Marina Bay's iconic landmarks - The Fullerton Hotel, Art Science Museum and The Merlion.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
- </tr>
- <tr>
+  </tr>
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Picture1.jpg" /></a>
     </td>
@@ -66,8 +62,8 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>TBC
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
-  </tr>      
-  <tr>
+  </tr>  
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour"> <img src="/images/Picture1.jpg" /></a>
     </td>
@@ -77,8 +73,8 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>TBC
       <br><a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour">Click here to find out more.</a>
     </td>
-  </tr>  
-  <tr>
+</tr>  
+<tr>
     <td>
       <a href="https://star-island.sg/"> <img src="Voices (Esplanade).jpg" /></a>
     </td>
@@ -99,7 +95,7 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>Ring in the New Yea at the Promontory with Mediacorp's Let's Celebrate 2020 countdown show. Enjoy live performances by Taufik Batisah, Gentle Bones, Joanna Dong and many more
       <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
     </td>
-</tr>  
+</tr>    
 <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
