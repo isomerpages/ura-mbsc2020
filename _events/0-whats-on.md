@@ -99,9 +99,9 @@ permalink: /events/whats-on/
       <font color="orangered"><b>Star Island Singapore Countdown Edition 2019 - 2020</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <br>  
-      <br>tbc
+      <br>Star Island is back in Singapore at The Float @ Marina Bay with a new theme - “A Space Odyssey”. This year’s show will feature the debut of a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of elements.
       <br>
-      <font color="orangered"><b><br><a href="www.christmaswonderland.sg">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://star-island.sg/">Find out more</a></b></font>
       <br>
     </td>
   </tr>
