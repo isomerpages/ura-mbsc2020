@@ -50,7 +50,7 @@ permalink: /events/whats-on/
     <td>
       <b>Build-A-Dream<font color="red"> (FULL)</font></b>
       <br>26-31 December 2019, 8.00pm - 11.30pm
-      <br>From 26th-31st December 2019, artworks created by students will from these organisations will be transformed into light projections on Marina Bay's iconic landmarks - The Fullerton Hotel, Art Science Museum and The Merlion.
+      <br>From 26th-31st December 2019, artworks created by people from these organisations - Yishun Community Hospital, Tan Guan Chee's Old Folks Home and Children's Home, will be transformed into light projections on Marina Bay's iconic landmarks - The Fullerton Hotel, Art Science Museum and The Merlion.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
   </tr>
