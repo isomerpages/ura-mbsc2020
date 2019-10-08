@@ -9,7 +9,7 @@ permalink: /events/whats-on/
 
 <table>
 <tr>
-    <td>
+    <td style="width:400px">
       <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
