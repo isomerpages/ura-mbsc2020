@@ -55,8 +55,8 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>From 26th-31st December 2019, artworks created by students will from these organisations will be transformed into light projections on Marina Bay's iconic landmarks - The Fullerton Hotel, Art Science Museum and The Merlion.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
-</tr>
-<tr>
+ </tr>
+ <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Picture1.jpg" /></a>
     </td>
@@ -67,7 +67,7 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br><a href="/events/learning-journeys/event-details/LJ_OJoTSaVS">Click here to find out more.</a>
     </td>
   </tr>      
-<tr>
+  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour"> <img src="/images/Picture1.jpg" /></a>
     </td>
@@ -77,8 +77,8 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>TBC
       <br><a href="/events/learning-journeys/event-details/LJ_TelokBlangahTour">Click here to find out more.</a>
     </td>
-</tr>  
-<tr>
+  </tr>  
+  <tr>
     <td>
       <a href="https://star-island.sg/"> <img src="Voices (Esplanade).jpg" /></a>
     </td>
