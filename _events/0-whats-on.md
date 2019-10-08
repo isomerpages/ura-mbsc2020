@@ -15,8 +15,7 @@ permalink: /events/whats-on/
     <td>
       <b>Esplanade Presents: Come Together<font color="red"> (FULL)</font></b>
       <br>1 Dec 2019 - 31 Dec 2019
-      <br>Before we count down to new beginnings in Dec, watch as artists and kindred spirits Come Together to celebrate friendships and fresh collaborations together with reunion shows. 
-Apart from free live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays. To add on, there will be special weekend pop-up performances near the centre of Esplanade. 
+      <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
       <br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Click here to find out more.</a>
     </td>
 </tr>
