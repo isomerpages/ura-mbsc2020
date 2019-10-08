@@ -33,8 +33,8 @@ Voices invites you to create magical connections by joining voices with fellow s
 Voices 2019 will feature a diverse range of styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more. 
       <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
-  </tr>
- <tr>
+</tr>
+<tr>
     <td>
       <a href="/events/learning-journeys/event-details/LA_DWP"> <img src="/images/Picture1.jpg" /></a>
     </td>
@@ -44,7 +44,7 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>TBC 
       <br><a href="/events/learning-journeys/event-details/LA_DWP">Click here to find out more.</a>
     </td>
-  </tr>
+ </tr>
  <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
@@ -55,7 +55,7 @@ Voices 2019 will feature a diverse range of styles of singing, including choral,
       <br>From 26th-31st December 2019, artworks created by students will from these organisations will be transformed into light projections on Marina Bay's iconic landmarks - The Fullerton Hotel, Art Science Museum and The Merlion.
       <br><a href="/events/learning-journeys/event-details/LC_FC_HDB">Click here to find out more.</a>
     </td>
-  </tr>
+</tr>
 <tr>
     <td>
       <a href="/events/learning-journeys/event-details/LJ_OJoTSaVS"> <img src="/images/Picture1.jpg" /></a>
