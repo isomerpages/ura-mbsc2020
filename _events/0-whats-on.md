@@ -98,10 +98,6 @@ permalink: /events/whats-on/
       <br><a href="/events/learning-journeys/event-details/LJ_SGOEngage">Click here to find out more.</a>
     </td>
 </tr>    
-<tr>
-    <td>
-      <a href="/events/learning-journeys/event-details/LC_FC_HDB"> <img src="/images/Picture1.jpg" /></a>
-    </td>
   <tr>
     <td> 
       <a href="/events/learning-journeys/event-details/LJ_moeheritage"> <img src="/images/Picture1.jpg" /></a>
