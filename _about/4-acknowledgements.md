@@ -13,8 +13,8 @@ permalink: /about/acknowledgements/
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-9mte{font-weight:bold;font-size:16px;font-family:serif !important;;border-color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-8ceb{font-size:16px;font-family:Georgia, serif !important;;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-9mte{font-weight:bold;font-size:16px;font-family:Arial, sans-serif !important;;border-color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-8ceb{font-size:16px;font-family:Arial, sans-serif!important;;border-color:#ffffff;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
@@ -28,16 +28,17 @@ permalink: /about/acknowledgements/
     <th class="tg-9mte">Managed By</th>
   </tr>
   <tr>
-    <td class="tg-8jgo"><a href="https://www.ura.gov.sg/Corporate" target="_self"><img src="/images/URA_logo.gif" alt="Urban Redevelopment Authority" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><a href="https://www.ura.gov.sg/Corporate" target="_self"><img src="/images/URALogo.svg" alt="Urban Redevelopment Authority" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
     <td class="tg-8jgo"><img src="/images/MB-logo.jpg" alt="Marina Bay" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
-    <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="/images/Pico-logo.jpg" alt="Pico Art International" style="width:300px;height:200px;" class="GeneratedImage"></td>
+    <td class="tg-8jgo"><a href="https://www.pico.com/en/" target="_self"><img src="/images/PicoProLogo.svg" alt="Pico Pro" style="width:300px;height:200px;" class="GeneratedImage"></td>
   </tr>
   <tr>
-    <td class="tg-9mte" colspan="3">Event Partners</td>
+    <td class="tg-9mte" colspan="3">Community Partners</td>
   </tr>
   <tr>
-    <td class="tg-8ceb"></td>
-    <td class="tg-8ceb"></td>
-    <td class="tg-8ceb"></td>
+<tr>
+    <td class="tg-8jgo"><a href="https://www.ura.gov.sg/Corporate" target="_self"><img src="/images/NVPC_Logo.svg" alt="NVPC" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
+    <td class="tg-8jgo"><img src="/images/ToteBoardLogo.svg" alt="ToteBoard" style="width:300px;height:200px;" class="GeneratedImage"></a></td>
+  </tr>
   </tr>
 </table>
