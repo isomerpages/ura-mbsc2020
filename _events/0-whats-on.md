@@ -7,7 +7,7 @@ permalink: /events/whats-on/
 
 <font color="orangered"><i><b>Wave 3 List of event for Marina Bay Singapore Countdown!</b></i></font>
 
-<table>
+<table style="width:80%">
 <tr>
     <td style="width:400px">
       <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="/images/Picture1.jpg" /></a>
