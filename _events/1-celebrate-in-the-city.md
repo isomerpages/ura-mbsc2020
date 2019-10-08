@@ -104,4 +104,3 @@ permalink: /events/celebrate-in-the-city/
       <br>
     </td>
   </tr>
-</table>
