@@ -7,11 +7,11 @@ permalink: /about/acknowledgements/
 <table>
 <table style="width:80%">
 <tr>
-  <td>
+    <td>
       <font color="orangered"><b>Presented by</b></font>
       <br>
-  </td>
-  <td>
+    </td>
+    <td>
      <a href="http://www.ura.gov.sg"> <img src="/images/URALogo.svg" /></a>
     </td>
   </tr>
