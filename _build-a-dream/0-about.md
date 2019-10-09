@@ -15,4 +15,3 @@ permalink: /build-a-dream/about/
       <br>
       <font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Find out more</a></b></font>
       <br>
-</table>
