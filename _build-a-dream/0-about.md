@@ -8,9 +8,6 @@ permalink: /build-a-dream/about/
 <table>
       <tr>
     <td>
-     <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
-    </td>
-    <td>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
       <font color="orangered"><br>30 November 2019 - 5 January 2020</font>
       <br>  
