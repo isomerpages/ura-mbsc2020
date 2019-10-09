@@ -18,7 +18,7 @@ sections:
         description: TBC
         button: Learn More
         url: /events/celebrate-in-the-city/
-        <div id="CitcCarousel" class="carousel slide" data-ride="carousel">
+        image: <div id="CitcCarousel" class="carousel slide" data-ride="carousel">
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img class="d-block w-100" src="/images/Esplanade_Presents_Come_Together.jpg" alt="First slide">
