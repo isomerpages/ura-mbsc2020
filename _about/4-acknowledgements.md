@@ -12,6 +12,6 @@ permalink: /about/acknowledgements/
       <br>
     </td>
     <td>
-     <a href="http://www.ura.gov.sg"> <img src="/images/URALogo.svg" /></a>
+     <a href="http://www.ura.gov.sg"> <img src="/images/URALogo.svg"/></a>
     </td>
   </tr>
