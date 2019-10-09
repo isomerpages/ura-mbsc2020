@@ -6,14 +6,26 @@ image: /images/
 permalink: /
 notification: Tickets on sale now for STAR ISLAND Singapore Countdown Edition 2019 - 2020 
 sections:
-    - video:
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/KYo6lUn25gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
     - hero:
         title: 31 December 2019
         subtitle: Join us as we ring in the new year
         background: /images/MBSCHB4.gif
         button: Find Out More
         url: /events/whats-on/
+    - carousel:
+       - title: Celebrate In The City
+         subtitle: TBC
+         description: From now till New Year’s Eve, Marina Bay will be pulsating with activities as Celebrate in the City, an exciting line-up of events and experiences, brings the public together to usher in 2020!Revelers can look forward to eight marquee events catering to all ages and interests, culminating in the Marina Bay Singapore Countdown on 31 December 2019.
+         image: /images/Esplanade_Presents_Come_Together.jpg
+         alt: Celebrate In The City
+       - title: Christmas At ArtScience Museum   
+         subtitle: TBC
+         description: TBC
+         image: /images/Christmas_At_ArtScience_Museum.jpg
+         alt: Christmas At ArtScience Museum
+       - title: Christmas Wonderland 2019
+         subtitle: TBC
+         description: TBC
+         image: /images/Christmas_Wonderland_2019.jpg
+         alt: Christmas Wonderland 2019
 ---
