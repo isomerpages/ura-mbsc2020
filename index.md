@@ -11,7 +11,7 @@ sections:
         subtitle: as we ring in the new year
         background: /images/MBSCHB4.gif
         button: Find Out More
-        url: /event/whats-on/
+        url: /events/whats-on/
         key_highlights:
             - title: Events
               description: Important highlight A is important
