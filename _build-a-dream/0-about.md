@@ -8,8 +8,10 @@ permalink: /build-a-dream/about/
 <table>
       <tr>
     <td>
-      <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
-      <font color="orangered"><br>30 November 2019 - 5 January 2020</font>
+      <font color="orangered"><b>Be a builder of dreams this festive season.</b></font>
+      <br>
+      <br>
+      <font color="orangered"><br>About</font>
       <br>  
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
       <br>
