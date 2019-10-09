@@ -12,25 +12,20 @@ sections:
         background: /images/MBSCHB4.gif
         button: Find Out More
         url: /events/whats-on/
-- infopic:
-        title: Celebrate In The City
-        subtitle: TBC
-        description: TBC
-        button: Learn More
-        carousel:
-       - title: Seoul
-         subtitle: 2018 Prize Laureate
-         description: Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.
-         image: /images/carousel/Esplanade_Presents_Come_Together.jpg
-         alt: Seoullo 7017
-       - title: Medellín  
-         subtitle: 2016 Prize Laureate
-         description: Medellín is recognised for its success in overcoming challenges of uncontrolled urban expansion and year of violence due to social inequalities.
+    - carousel:
+       - title: Celebrate In The City
+         subtitle: TBC
+         description: From now till New Year’s Eve, Marina Bay will be pulsating with activities as Celebrate in the City, an exciting line-up of events and experiences, brings the public together to usher in 2020!Revelers can look forward to eight marquee events catering to all ages and interests, culminating in the Marina Bay Singapore Countdown on 31 December 2019.
+         image: /images/Esplanade_Presents_Come_Together.jpg
+         alt: Celebrate In The City
+       - title: Christmas At ArtScience Museum   
+         subtitle: TBC
+         description: TBC
+         image: /images/Christmas_At_ArtScience_Museum.jpg
+         alt: Christmas At ArtScience Museum
+       - title: Christmas Wonderland 2019
+         subtitle: TBC
+         description: TBC
          image: /images/Christmas_Wonderland_2019.jpg
-         alt: Medellín MetroCable
-       - title: Suzhou
-         subtitle: 2014 Prize Laureate
-         description: Suzhou is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage. 
-         image: /images/carousel/Esplanade_Presents_Come_Together.jpg
-         alt: Suzhou  
+         alt: Christmas Wonderland 2019
 ---
