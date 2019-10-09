@@ -19,7 +19,7 @@ sections:
         button: Learn More
         url: /events/celebrate-in-the-city/
         image: /images/Nyan cat.gif
-        alt: Nyan Cat
+        alt: Celebrate In The City
     - infopic:
         title: Nyan Cat
         subtitle: Test
