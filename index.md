@@ -7,11 +7,11 @@ permalink: /
 notification: Tickets on sale now for STAR ISLAND Singapore Countdown Edition 2019 - 2020 
 sections:
     - hero:
-        title: 31 December 2019
-        subtitle: #MBSC2020
+        title: Join Us
+        subtitle: as we ring in the new year
         background: /images/MBSCHB4.gif
-        button: What's On
-        url: /contact-us/
+        button: Find Out More
+        url: /whats-on/
         key_highlights:
             - title: Events
               description: Important highlight A is important
