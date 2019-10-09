@@ -6,6 +6,7 @@ image: /images/
 permalink: /
 notification: Tickets on sale now for STAR ISLAND Singapore Countdown Edition 2019 - 2020 
 sections:
+    - video:
 <div class="bp-youtube">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/KYo6lUn25gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
