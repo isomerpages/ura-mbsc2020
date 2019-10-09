@@ -15,5 +15,4 @@ sections:
         background: /images/MBSCHB4.gif
         button: Find Out More
         url: /events/whats-on/
-   
 ---
