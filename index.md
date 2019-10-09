@@ -18,8 +18,21 @@ sections:
         description: TBC
         button: Learn More
         url: /events/celebrate-in-the-city/
-        image: /images/Nyan cat.gif
-        alt: Nyan Cat
+        carousel:
+  - title: Christmas At Art Science Musuem
+    subtitle: TBC
+    description: TBC
+    image: /images/Christmas_At_ArtScience_Museum.jpg
+    alt: Christmas At Art Science Musuem
+  - title: Esplanade Presents: Come Together
+    subtitle: TBC
+    image: /images/Esplanade_Presents_Come_Together.jpg
+    alt: Esplanade Presents Come Together
+  - title: Christmas Wonderland 2019
+    subtitle: TBC
+    description: TBC
+    image: /images/Christmas_Wonderland_2019.jpg
+    alt: Christmas Wonderland 2019
     - infopic:
         title: Nyan Cat
         subtitle: Test
