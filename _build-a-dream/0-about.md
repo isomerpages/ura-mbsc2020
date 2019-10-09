@@ -8,7 +8,7 @@ permalink: /build-a-dream/about/
 <table>
       <tr>
     <td>
-      <font color="orangered">##<b>Be a builder of dreams this festive season.</b></font>
+      <font color="orangered"><b>Be a builder of dreams this festive season.</b></font>
       <br>
       <br>
       <font color="orangered"><b>About</b></font>
