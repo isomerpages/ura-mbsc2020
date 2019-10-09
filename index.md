@@ -18,36 +18,8 @@ sections:
         description: TBC
         button: Learn More
         url: /events/celebrate-in-the-city/
-<div class="slideshow-container">
-      <div class="mySlides fade">
-        <div class="numbertext">1 / 5</div>
-        <img src="/images/Esplanade_Presents_Come_Together.jpg" style="width:100%;height:500px;">
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">2 / 5</div>
-        <img src="/images/Christmas_Wonderland_2019.jpg" style="width:100%;height:500px;">
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">3 / 5</div>
-        <img src="img/Tart.jpg" style="width:100%;height:500px">
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">4 / 5</div>
-        <img src="img/Scones.jpg" style="width:100%;height:500px">
-      </div>
-      <div class="mySlides fade">
-        <div class="numbertext">5 / 5</div>
-        <img src="img/Cremebule.jpg" style="width:100%;height:500px;">
-      </div>
-    </div>
-    <br>
-    <div style="text-align:center">
-      <span class="dot"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-      <span class="dot"></span>
-    </div>
+        image: /images/Nyan cat.gif
+        alt: Nyan Cat
     - infopic:
         title: Nyan Cat
         subtitle: Test
