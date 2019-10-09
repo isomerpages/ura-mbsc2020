@@ -12,7 +12,12 @@ sections:
         background: /images/MBSCHB4.gif
         button: Find Out More
         url: /events/whats-on/
-    - carousel:
+- infopic:
+        title: Celebrate In The City
+        subtitle: TBC
+        description: TBC
+        button: Learn More
+        carousel:
        - title: Seoul
          subtitle: 2018 Prize Laureate
          description: Seoul is recognised for its successful transformation from a bureaucratic top-down city into the inclusive, socially stable and highly innovative city we see today.
