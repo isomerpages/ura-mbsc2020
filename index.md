@@ -18,19 +18,8 @@ sections:
         description: TBC
         button: Learn More
         url: /events/celebrate-in-the-city/
-        <div id="CitcCarousel" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img class="d-block w-100" src="/images/Esplanade_Presents_Come_Together.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="/images/Christmas_At_ArtScience_Museum.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="/images/Christmas_Wonderland_2019.jpg" alt="Third slide">
-            </div>
-          </div>
-        </div>
+        image: /images/Nyan cat.gif
+        alt: Nyan Cat
     - infopic:
         title: Nyan Cat
         subtitle: Test
