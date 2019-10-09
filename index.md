@@ -18,7 +18,7 @@ sections:
         description: TBC
         button: Learn More
         url: /events/celebrate-in-the-city/
-        carousel:
+- carousel:
   - title: Christmas At Art Science Musuem
     subtitle: TBC
     description: TBC
@@ -33,12 +33,4 @@ sections:
     description: TBC
     image: /images/Christmas_Wonderland_2019.jpg
     alt: Christmas Wonderland 2019
-    - infopic:
-        title: Nyan Cat
-        subtitle: Test
-        description: Test
-        button: Learn More
-        url: /core-values/
-        image: /images/Nyan cat.gif
-        alt: Nyan Cat
 ---
