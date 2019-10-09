@@ -12,6 +12,14 @@ sections:
         background: /images/MBSCHB4.gif
         button: Find Out More
         url: /events/whats-on/
+    - infopic:
+        title: Celebrate In The City
+        subtitle: TBC
+        description: TBC
+        button: Learn More
+        url: /events/celebrate-in-the-city/
+        image: /images/Christmas_Wonderland_2019.jpg
+        alt: Christmas Wonderland 2019
     - carousel:
        - title: Seoul
          subtitle: 2018 Prize Laureate
@@ -27,13 +35,5 @@ sections:
          subtitle: 2014 Prize Laureate
          description: Suzhou is recognised for its success in meeting the multiple challenges of balancing economic growth with protection of cultural and built heritage. 
          image: /images/carousel/suzhou.jpg
-         alt: Suzhou 
-    - infopic:
-        title: Celebrate In The City
-        subtitle: TBC
-        description: TBC
-        button: Learn More
-        url: /events/celebrate-in-the-city/
-        image: /images/Christmas_Wonderland_2019.jpg
-        alt: Christmas Wonderland 2019
+         alt: Suzhou  
 ---
