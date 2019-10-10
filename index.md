@@ -24,19 +24,16 @@ sections:
           description: News and Latest Updates 
     - carousel:
        - title: Celebrate In The City
-         subtitle: TBC
-         description: From now till New Year’s Eve, Marina Bay will be pulsating with activities as Celebrate in the City, an exciting line-up of events and experiences, brings the public together to usher in 2020!Revelers can look forward to eight marquee events catering to all ages and interests, culminating in the Marina Bay Singapore Countdown on 31 December 2019.
+         subtitle: Esplanade Presents Come Together
          image: /images/EsplanadePresentsComeTogether(C).jpg
-         alt: Celebrate In The City
-       - title: Christmas Wonderland 2019   
-         subtitle: TBC
-         description: TBC
+         alt: Esplanade Presents Come Together
+       - title: Celebrate In The City 
+         subtitle: Christmas Wonderland 2019
          image: /images/ChristmasWonderland(C).jpg
-         alt: Christmas At ArtScience Museum
-       - title: Esplanade Presents Voices - A Festival of Song
-         subtitle: TBC
-         description: TBC
+         alt: Christmas Wonderland 2019
+       - title: Celebrate In The City
+         subtitle: Esplanade Presents Voices - A Festival of Song
          image: /images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg
          alt: Christmas Wonderland 2019
-     - image: /images/Christmas_At_ArtScience_Museum.jpg
+   - image: /images/sponsors_logo.jpg
 ---
