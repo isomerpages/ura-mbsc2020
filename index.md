@@ -14,14 +14,11 @@ sections:
         url: /events/whats-on/
         key_highlights:
         - title: Celebrate In The City
-          description: List of events happening at Celebrate In The City
           url: /events/celebrate-in-the-city/
         - title: Build A Dream
-          description: Find out what Build A Dream is about
           url: /build-a-dream/about/
-        - title: Getting Around
-          description: Information on how to get to Marina Bay
-          url: /getting-around/
+        - title: News
+          url: 	/about/news/
     - carousel:
        - title: Celebrate In The City
          subtitle: TBC
@@ -38,4 +35,5 @@ sections:
          description: TBC
          image: /images/Christmas_Wonderland_2019.jpg
          alt: Christmas Wonderland 2019
+         image: /images/Christmas_At_ArtScience_Museum.jpg
 ---
