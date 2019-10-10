@@ -20,7 +20,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="www.therice.sg"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.therice.sg"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>ChariTrees</b></font>
@@ -28,11 +28,11 @@ permalink: /events/celebrate-in-the-city/
       <br>  
       <br>ChariTrees 2019 is organised by not-for-profit arts organisation and charity, The RICE Company Limited. ChariTrees celebrates Singapore’s community heroes and is also a fundraiser for The Business Times Budding Artists Fund and several-other charities.
       <br>
-      <font color="orangered"><b><br><a href="www.therice.sg">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.therice.sg">Find out more</a></b></font>
       <br>
 <tr>
     <td>
-     <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_Wonderland_2019.jpg" /></a>
+     <a href="https://www.christmaswonderland.sg"> <img src="/images/Christmas_Wonderland_2019.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
@@ -40,11 +40,11 @@ permalink: /events/celebrate-in-the-city/
       <br>  
       <br>Revel in the festivities at Singapore’s most popular year-end event, Christmas Wonderland at Gardens by the Bay! Magical luminarie lights transform the fairground into a stunning wonderland complete with Yuletide favourites and festive fun for everyone. Meet Santa, experience ‘snow’ in the tropics, enjoy carnival games and rides, shop at the charming Christmas Village and so much more!
       <br>
-      <font color="orangered"><b><br><a href="www.christmaswonderland.sg">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.christmaswonderland.sg">Find out more</a></b></font>
       <br>
 <tr>
     <td>
-     <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
+     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
@@ -52,7 +52,7 @@ permalink: /events/celebrate-in-the-city/
       <br>  
       <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
       <br>
-      <font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Find out more.</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.marinabaysands.com/artsciencemuseum">Find out more.</a></b></font>
       <br>
 <tr>
     <td>
@@ -68,7 +68,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg" /></a>
+     <a href="https://www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Esplanade presents: Voices - A Festival of Songs</b></font>
@@ -76,7 +76,7 @@ permalink: /events/celebrate-in-the-city/
       <br>  
       <br>The seventh edition of Voices – A Festival of Song will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
       <br>
-      <font color="orangered"><b><br><a href="www.esplanade.com/voices">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.esplanade.com/voices">Find out more</a></b></font>
       <br>
 <tr>
     <td>
