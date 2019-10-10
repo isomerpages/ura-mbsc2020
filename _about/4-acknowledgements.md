@@ -5,7 +5,36 @@ permalink: /about/acknowledgements/
 
 ## Our Sponsors and Partners
 <br>
-<font color="orangered"><b>Presented by</b></font>
-<br>
-<a href="http://www.ura.gov.sg"> <img src="/images/DBS_logo_140x50-min.png"/></a>
-<br>
+<table class="table-v">
+  <tr>
+    <td><font color="orangered"><b>Presented by</b></font></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/URAlogo_140x50.png"/></a></td>
+  </tr>
+  <tr>
+    <td><font color="orangered"><b>Managed by</b></font></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/picopro_logo_140x50.png"/></a></td>
+  </tr>
+  <tr>
+    <td><font color="orangered"><b>Held in</b></font></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/MarinaBaylogo_140x50.png"/></a></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/STBlogo_140x50.png"/></a></td>
+  </tr>
+  <tr>
+    <td>In conjunction with</td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/CitC_logo_140x50.png"/></a></td>
+  </tr>
+  <tr>
+    <td>Community Partners</td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/NVPC_logo_140x50.png"/></a></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/Tote Board_logo_140x50.png"/></a></td>
+  </tr>
+    <tr>
+    <td>Principle Sponsors</td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/DBS_logo_140x50.png"/></a></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/Fullerton_logo_140x50.png"/></a></td>
+  </tr>
+    <tr>
+    <td>Prime Sponsors</td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/MBS_logo_140x50.png"/></a></td>
+  </tr>
+</table>
