@@ -38,7 +38,9 @@ sections:
          description: TBC
          image: /images/Christmas_Wonderland_2019.jpg
          alt: Christmas Wonderland 2019
-
-# Sponsors
-      -image: /images/images/sponsor's logo.jpg
+<tr>
+    # Sponsors
+    <td>
+    <img src="/images/sponsor's logo.jpg" />
+    </td>
 ---
