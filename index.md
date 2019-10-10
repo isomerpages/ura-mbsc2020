@@ -15,10 +15,13 @@ sections:
         key_highlights:
         - title: Celebrate In The City
           url: /events/celebrate-in-the-city/
+          description: List of Events
         - title: Build A Dream
           url: /build-a-dream/about/
-        - title: News
+          description: Be Builder of Dreams
+        - title: Media
           url: 	/about/news/
+          description: News and Latest Updates 
     - carousel:
        - title: Celebrate In The City
          subtitle: TBC
@@ -35,5 +38,5 @@ sections:
          description: TBC
          image: /images/Christmas_Wonderland_2019.jpg
          alt: Christmas Wonderland 2019
-         image: /images/Christmas_At_ArtScience_Museum.jpg
+     - image: /images/Christmas_At_ArtScience_Museum.jpg
 ---
