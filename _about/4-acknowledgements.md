@@ -5,7 +5,7 @@ permalink: /about/acknowledgements/
 
 ## Our Sponsors and Partners
 <table>
-<table style="width:20%">
+<table style="width:10%">
 <tr>
     <td>
       <font color="orangered"><b>Presented by</b></font>
