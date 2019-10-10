@@ -36,7 +36,7 @@ permalink: /events/celebrate-in-the-city/
     </td>
     <td>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
-      <font color="orangered"><br>1-31 December 2019</font>
+      <font color="orangered"><br>29 November 2019 - 26 December 2019</font>
       <br>  
       <br>Revel in the festivities at Singapore’s most popular year-end event, Christmas Wonderland at Gardens by the Bay! Magical luminarie lights transform the fairground into a stunning wonderland complete with Yuletide favourites and festive fun for everyone. Meet Santa, experience ‘snow’ in the tropics, enjoy carnival games and rides, shop at the charming Christmas Village and so much more!
       <br>
