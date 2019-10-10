@@ -10,12 +10,12 @@ sections:
         title: 31 December 2019
         subtitle: Join us as we ring in the new year
         background: /images/MBSCHB4.gif
-        button: Find Out More
+        button: What's On
         url: /events/whats-on/
         key_highlights:
-        - title: Media Room 
+        - title: Media Room  
           url: /about/news/
-          description: News & Latest Update
+          description: Media Releases & Latest Update
         - title: Build A Dream
           url: /build-a-dream/about/
           description: Be Builder of Dreams
