@@ -24,15 +24,19 @@ sections:
           description: News and Latest Updates 
     - carousel:
        - title: Celebrate In The City
+         subtitle: Christmas At ArtScience Museum
+         image: /images/ChristmasAtArtScienceMuseum(C).jpg
+         alt: 
+         - title: Celebrate In The City 
          subtitle: Esplanade Presents Come Together
          image: /images/EsplanadePresentsComeTogether(C).jpg
          alt: Esplanade Presents Come Together
        - title: Celebrate In The City 
          subtitle: Christmas Wonderland 2019
-         image: /images/ChristmasWonderland(C).jpg
+         image: /images/ChristmasWonderland2019(C).jpg
          alt: Christmas Wonderland 2019
        - title: Celebrate In The City
          subtitle: Esplanade Presents Voices - A Festival of Song
-         image: /images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg
-         alt: Christmas Wonderland 2019
+         image: /images/EsplanadePresentsVoices(C).jpg
+         alt: Esplanade Presents Voices - A Festival of Song
 ---
