@@ -40,5 +40,5 @@ sections:
          alt: Christmas Wonderland 2019
 
 # Sponsors
-      image: /images/images/sponsor's logo.jpg
+      -image: /images/images/sponsor's logo.jpg
 ---
