@@ -35,5 +35,4 @@ sections:
          subtitle: Esplanade Presents Voices - A Festival of Song
          image: /images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg
          alt: Christmas Wonderland 2019
-   - image: /images/sponsors_logo.jpg
 ---
