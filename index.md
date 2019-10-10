@@ -39,5 +39,4 @@ sections:
          subtitle: Esplanade Presents Voices - A Festival of Song
          image: /images/EsplanadePresentsVoices(C).jpg
          alt: Esplanade Presents Voices - A Festival of Song
-         ![alt text - this is a description of what is in the image for people with visual impairments using screen readers](/images/sponsors_logo.jpg)
 ---
