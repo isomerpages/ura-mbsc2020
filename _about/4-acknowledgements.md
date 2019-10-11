@@ -4,16 +4,17 @@ permalink: /about/acknowledgements/
 ---
 
 ## Our Sponsors and Partners
-<br>
 <table class="table-v">
   <table style="width:50%">
   <tr>
     <td><font color="orangered"><b>Presented by</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/URAlogo_140x50.png"/></a></td>
+    <td><img src="/images/Blank.JPG"/></a></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Managed by</b></font></td>
     <td><a href="https://www.pico.com/en/"> <img src="/images/picopro_logo_140x50.png"/></a></td>
+    <td><img src="/images/Blank.JPG"/></a></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Held in</b></font></td>
@@ -23,6 +24,7 @@ permalink: /about/acknowledgements/
   <tr>
     <td><font color="orangered"><b>In conjunction with</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/CitC_logo_140x50.png"/></a></td>
+    <td><img src="/images/Blank.JPG"/></a></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Community Partners</b></font></td>
@@ -37,5 +39,6 @@ permalink: /about/acknowledgements/
     <tr>
     <td><font color="orangered"><b>Prime Sponsors</b></font></td>
     <td><a href="https://www.marinabaysands.com/"> <img src="/images/MBS_logo_140x50.png"/></a></td>
+    <td><img src="/images/Blank.JPG"/></a></td>
   </tr>
 </table>
