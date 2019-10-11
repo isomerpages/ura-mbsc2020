@@ -29,7 +29,7 @@ sections:
          button: Find Out More
          url: /events/celebrate-in-the-city/
          alt: Christmas At ArtScience Museum
-         - title: Celebrate In The City 
+       - title: Celebrate In The City 
          subtitle: Esplanade Presents Come Together
          image: /images/EsplanadePresentsComeTogether(C).jpg
          alt: Esplanade Presents Come Together
