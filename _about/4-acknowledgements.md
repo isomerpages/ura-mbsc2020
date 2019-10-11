@@ -20,6 +20,7 @@ permalink: /about/acknowledgements/
     <td><font color="orangered"><b>Held in</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/MarinaBaylogo_140x50.png"/></a></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/STBlogo_140x50.png"/></a></td>
+    <td><img src="/images/Whitenewblank.JPG"/></td><br>
   </tr>
   <tr>
     <td><font color="orangered"><b>In conjunction with</b></font></td>
