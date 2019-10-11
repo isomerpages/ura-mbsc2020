@@ -40,6 +40,7 @@ sections:
          image: /images/EsplanadePresentsVoices(C).jpg
          alt: Esplanade Presents Voices - A Festival of Song
     - infopic:
+        title: Sponsors
         image: /images/Sponsor'sLogo.jpg
         alt: Members of the Ministry of ABC shaking hands
 ---
