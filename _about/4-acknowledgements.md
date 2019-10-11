@@ -9,14 +9,12 @@ permalink: /about/acknowledgements/
   <tr>
     <td><font color="orangered"><b>Presented by</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/URAlogo_140x50.png"/></a></td>
-    <td><img src="/images/Whiteblank.jpg"/></td>
-    <br>
+    <td><img src="/images/Whiteblank.jpg"/></td><br>
   </tr>
   <tr>
     <td><font color="orangered"><b>Managed by</b></font></td>
     <td><a href="https://www.pico.com/en/"> <img src="/images/picopro_logo_140x50.png"/></a></td>
-    <td><img src="/images/Whiteblank.jpg"/></td>
-    <br>
+    <td><img src="/images/Whiteblank.jpg"/></td><br>
   </tr>
   <tr>
     <td><font color="orangered"><b>Held in</b></font></td>
