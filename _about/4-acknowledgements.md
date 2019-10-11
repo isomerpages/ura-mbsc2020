@@ -6,7 +6,7 @@ permalink: /about/acknowledgements/
 ## Our Sponsors and Partners
 <br>
 <table class="table-v">
-  <table style="align center""width:50%">
+  <table style="width:80%">
   <tr>
     <br>
     <td><font color="orangered"><b>Presented by</b></font></td>
