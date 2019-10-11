@@ -25,9 +25,9 @@ sections:
     - carousel:
        - title: Celebrate In The City
          subtitle: Christmas At ArtScience Museum
-         image: /images/ChristmasAtArtScienceMuseum(C).jpg
          button: Find Out More
          url: /events/celebrate-in-the-city/
+         image: /images/ChristmasAtArtScienceMuseum(C).jpg
          alt: Christmas At ArtScience Museum
        - title: Celebrate In The City 
          subtitle: Esplanade Presents Come Together
