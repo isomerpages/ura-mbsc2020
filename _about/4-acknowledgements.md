@@ -6,6 +6,7 @@ permalink: /about/acknowledgements/
 ## Our Sponsors and Partners
 <br>
 <table class="table-v">
+  <table style="width:30%">
   <tr>
     <td><font color="orangered"><b>Presented by</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/URAlogo_140x50.png"/></a></td>
