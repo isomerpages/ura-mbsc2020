@@ -4,7 +4,9 @@ permalink: /events/whats-on/
 ---
 
 # Whats On
+<br>
 <font color="orangered"><b>Join us as we ring in the new year!</b></font>
+<br>
 <table>
 <tr>
     <td>
