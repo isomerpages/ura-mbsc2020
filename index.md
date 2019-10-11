@@ -26,6 +26,7 @@ sections:
        - title: Celebrate In The City
          subtitle: Christmas At ArtScience Museum
          image: /images/ChristmasAtArtScienceMuseum(C).jpg
+         url: https://www.esplanade.com/festivals-and-series/come-together/2019
          alt: 
          - title: Celebrate In The City 
          subtitle: Esplanade Presents Come Together
