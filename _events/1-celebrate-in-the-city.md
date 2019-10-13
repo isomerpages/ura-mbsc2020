@@ -22,7 +22,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.therice.sg"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.therice.sg"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>ChariTrees</b></font>
@@ -35,7 +35,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.christmaswonderland.sg"> <img src="/images/Christmas_Wonderland_2019.jpg" /></a>
+     <a href="https://www.christmaswonderland.sg"> <img src="/images/ChristmasWonderland(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
@@ -48,7 +48,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas_At_ArtScience_Museum.jpg" /></a>
+     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas@ASM(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
@@ -61,7 +61,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
@@ -74,7 +74,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Voices-A_Festival_Of_Song.jpg" /></a>
+     <a href="https://www.esplanade.com/voices"> <img src="/images/EsplanadePresentsVoice(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Esplanade presents: Voices - A Festival of Songs</b></font>
