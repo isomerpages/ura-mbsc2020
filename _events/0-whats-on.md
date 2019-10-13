@@ -61,7 +61,7 @@ permalink: /events/whats-on/
       <br>
 <tr>
     <td>
-     <a href="www.esplanade.com/voices"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="www.esplanade.com/voices"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Esplanade presents: Come Together</b></font>
