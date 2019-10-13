@@ -22,7 +22,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.therice.sg"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
+     <a href="https://www.therice.sg"> <img src="/images/EsplanadePresentsComeTogeer(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>ChariTrees</b></font>
