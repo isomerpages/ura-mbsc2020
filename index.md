@@ -13,15 +13,15 @@ sections:
         button: What's On
         url: /events/whats-on/
         key_highlights:
-        - title: Media Room  
+        - title: Celebrate in the City 
           url: /about/news/
-          description: Media Releases & Latest Update
+          description: Event Listings
         - title: Build A Dream
           url: /build-a-dream/about/
-          description: Be Builder of Dreams
-        - title: Newletter
+          description: Be A Builder Of Dreams
+        - title: Media Room 
           url: 	/about/news/
-          description: Subscribe to URA's monthly updates 
+          description: Media Releases
     - carousel:
        - title: Celebrate In The City
          subtitle: Christmas At ArtScience Museum
