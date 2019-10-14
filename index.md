@@ -13,9 +13,9 @@ sections:
         button: What's On
         url: /events/whats-on/
         key_highlights:
-        - title: Celebrate in the City 
-          url: /about/news/
-          description: Event Listings
+        - title: Event Listings  
+          url: /events/whats-on/marina-bay
+          description: at Marina Bay
         - title: Build A Dream
           url: /build-a-dream/about/
           description: Be A Builder Of Dreams
