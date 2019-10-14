@@ -1,6 +1,6 @@
 ---
 title: Getting Around
-permalink: /getting/
+permalink: /getting-around/
 ---
 
 <table>
