@@ -23,13 +23,13 @@ sections:
           url: 	/about/news/
           description: Media Releases
     - carousel:
-         - image: /images/CelebrateInTheCity(C).jpg
+        - image: /images/CelebrateInTheCity(C).jpg
          alt: Celebrate-In-The-City 
-       - title: Poinsettia Wishes Floral Display
+        - title: Poinsettia Wishes Floral Display
          subtitle: Gardens By The Bay
          image: /images/PoinsettiaWishes(C).jpg
          alt: Poinsettia Wishes Floral Display
-       - title: ChariTrees 2019
+        - title: ChariTrees 2019
          subtitle: Marina Bay Precinct
          image: /images/CheriTrees2019(C).jpg
          alt: ChariTrees-2019
