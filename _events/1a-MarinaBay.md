@@ -4,7 +4,7 @@ permalink: /events/whats-on/marina-bay
 third_nav_title: New Years Eve
 ---
 
-# Whats On
+# Marina Bay
 <font color="orangered"><b>Join us as we ring in the new year!</b></font>
 <br>
 <table>
