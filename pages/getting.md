@@ -1,5 +1,5 @@
 ---
-title: Getting
+title: Getting There
 permalink: /getting/
 ---
 
