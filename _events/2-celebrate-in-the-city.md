@@ -87,7 +87,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/#futuretogether(M).jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/futuretogether(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>#futuretogether</b></font>
