@@ -59,6 +59,6 @@ sections:
          alt: Ringo's Circus
     - infopic:
         title: Sponsors
-        image: /images/Sponsor(M).jpg
+        image: /images/
         alt: Sponsor's logo 
 ---
