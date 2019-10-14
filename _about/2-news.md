@@ -1,5 +1,5 @@
 ---
-title: News & Latest Updates
+title: Media Room
 permalink: /about/news/
 ---
 
