@@ -15,7 +15,7 @@ sections:
         key_highlights:
         - title: Event Listings  
           url: /events/whats-on/marina-bay
-          description: at Marina Bay
+          description: At Marina Bay
         - title: Build A Dream
           url: /build-a-dream/about/
           description: Be A Builder Of Dreams
