@@ -57,8 +57,4 @@ sections:
          subtitle: Bayfront Event Space 
          image: /images/
          alt: Ringo's Circus
-    - infopic:
-        title: Sponsors
-        image: /images/
-        alt: Sponsor's logo 
 ---
