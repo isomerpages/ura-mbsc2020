@@ -9,7 +9,7 @@ permalink: /events/celebrate-in-the-city/
 <table>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/PoinsettiaWishes(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
@@ -22,7 +22,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.therice.sg"> <img src="/images/EsplanadePresentsComeTogeer(M).jpg" /></a>
+     <a href="https://www.therice.sg"> <img src="/images/CheriTrees2019(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>ChariTrees</b></font>
@@ -87,10 +87,10 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/#futuretogether(M).jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>#futuretogether-Sneak Preview</b></font>
+      <font color="orangered"><b>#futuretogether</b></font>
       <font color="orangered"><br>15 December 2019 - 14 January 2020</font>
       <font color="orangered"><br> Gardens By The Bay </font>
       <br>  
