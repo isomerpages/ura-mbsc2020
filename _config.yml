@@ -9,6 +9,8 @@ collections:
     output: true
   build-a-dream:
     output: true
+  getting-around:
+    output: true
   FAQ:
     output: true
 
