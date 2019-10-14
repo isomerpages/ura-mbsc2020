@@ -23,26 +23,43 @@ sections:
           url: 	/about/news/
           description: Media Releases
     - carousel:
-       - title: Celebrate In The City
-         subtitle: Christmas At ArtScience Museum
-         button: Find Out More
+       - title: Poinsettia Wishes Floral Display
+         subtitle: Gardens By The Bay
+         url: /events/celebrate-in-the-city/
+         image: /images/
+         alt: Poinsettia Wishes Floral Display
+       - title: ChariTrees 2019
+         subtitle: Marina Bay Precinct
+         url: /events/celebrate-in-the-city/
+         image: /images/
+         alt: ChariTrees 2019
+       - title: Christmas Wonderland 2019
+         subtitle: Gardens By The Bay 
+         image: /images/ChristmasWonderland2019(C).jpg
+         alt: Christmas Wonderland 2019
+       - title: Christmas At ArtScience Museum
+         subtitle: ArtScience Museum 
          url: /events/celebrate-in-the-city/
          image: /images/ChristmasAtArtScienceMuseum(C).jpg
          alt: Christmas At ArtScience Museum
-       - title: Celebrate In The City 
-         subtitle: Esplanade Presents Come Together
-         image: /images/EsplanadePresentsComeTogether(C).jpg
+       - title: Esplanade Presents Come Together 
+         subtitle: Esplanade - Theatres By The Bay, Singapore 
+         image: /images/
          alt: Esplanade Presents Come Together
-       - title: Celebrate In The City 
-         subtitle: Christmas Wonderland 2019
-         image: /images/ChristmasWonderland2019(C).jpg
-         alt: Christmas Wonderland 2019
-       - title: Celebrate In The City
-         subtitle: Esplanade Presents Voices - A Festival of Song
+       - title: Esplanade Presents Voices - A Festival of Song
+         subtitle: Esplanade - Theatres By The Bay, Singapore 
          image: /images/EsplanadePresentsVoices(C).jpg
          alt: Esplanade Presents Voices - A Festival of Song
+       - title: #futuretogether
+         subtitle: Gardens By The Bay 
+         image: /images/
+         alt: #futuretogether
+       - title: Ringo's Circus
+         subtitle: Bayfront Event Space 
+         image: /images/
+         alt: Ringo's Circus
     - infopic:
         title: Sponsors
         image: /images/LightProjectionShow@ASM.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        alt: Sponsor's logo 
 ---
