@@ -23,7 +23,7 @@ sections:
           url: 	/about/news/
           description: Media Releases
     - carousel:
-        - image: /images/CelebrateInTheCity(C).jpg
+      - image: /images/CelebrateInTheCity(C).jpg
          alt: Celebrate-In-The-City 
         - title: Poinsettia Wishes Floral Display
          subtitle: Gardens By The Bay
