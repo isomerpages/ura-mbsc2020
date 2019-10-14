@@ -1,7 +1,7 @@
 ---
 title: Marina Bay
 permalink: /events/whats-on/marina-bay
-third_nav_title: Whats On
+third_nav_title: New Years Eve
 ---
 
 # Whats On
