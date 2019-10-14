@@ -1,7 +1,7 @@
 ---
 title: Civic District
 permalink: /events/whats-on/civic-district
-third_nav_title: News Year Eve
+third_nav_title: New Years Eve
 ---
 
 <table>
