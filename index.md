@@ -51,7 +51,7 @@ sections:
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
        - title: futuretogether
          subtitle: Gardens By The Bay 
-         image: /images/#futuretogether(C).jpg
+         image: /images/futuretogether(C).jpg
          alt: #futuretogether
        - title: Ringo's Circus
          subtitle: Bayfront Event Space 
