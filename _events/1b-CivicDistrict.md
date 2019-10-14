@@ -4,6 +4,8 @@ permalink: /events/whats-on/civic-district
 third_nav_title: New Years Eve
 ---
 
+# Civic District
+<br>
 <table>
 <tr>
     <td>
