@@ -23,7 +23,7 @@ sections:
           url: 	/about/news/
           description: Media Releases
     - carousel:
-           - image: /images/sponsorlogo(C).jpg
+        - image: /images/sponsorlogo(C).jpg
          alt: Celebrate-In-The-City 
     - infopic:
         title: Sponsors
