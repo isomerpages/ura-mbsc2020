@@ -23,42 +23,10 @@ sections:
           url: 	/about/news/
           description: Media Releases
     - carousel:
-       - image: /images/CelebrateInTheCity(C).jpg
+           - image: /images/sponsorlogo(C).jpg
          alt: Celebrate-In-The-City 
-       - title: Poinsettia Wishes Floral Display
-         subtitle: Gardens By The Bay
-         image: /images/PoinsettiaWishes(C).jpg
-         alt: Poinsettia Wishes Floral Display
-       - title: ChariTrees 2019
-         subtitle: Marina Bay Precinct
-         image: /images/CheriTrees2019(C).jpg
-         alt: ChariTrees-2019
-       - title: Christmas Wonderland 2019
-         subtitle: Gardens By The Bay 
-         image: /images/ChristmasWonderland2019(C).jpg
-         alt: Christmas-Wonderland-2019
-       - title: Christmas At ArtScience Museum
-         subtitle: ArtScience Museum 
-         image: /images/ChristmasAtArtScienceMuseum(C).jpg
-         alt: Christmas-At-ArtScience-Museum
-       - title: Esplanade Presents Come Together 
-         subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/EsplandePresentsComeTogether(C).jpg
-         alt: Esplanade-Presents-Come-Together
-       - title: Esplanade Presents Voices - A Festival of Song
-         subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/EsplanadePresentsVoices(C).jpg
-         alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: futuretogether
-         subtitle: Gardens By The Bay 
-         image: /images/futuretogether(C).jpg
-         alt: #futuretogether
-       - title: Ringo's Circus
-         subtitle: Bayfront Event Space 
-         image: /images/
-         alt: Ringo's Circus
     - infopic:
         title: Sponsors
-        image: /images/LightProjectionShow@ASM.jpg
+        image: /images/Sponsor(M).jpg
         alt: Sponsor's logo 
 ---
