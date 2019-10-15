@@ -6,6 +6,6 @@ permalink: /getting-around/
 <table>
 <tr>
     <td>
-     <img src="/images/festivalmap-test.PNG" />
+     <img src="/images/SampleMap.jpg" />
     </td>
   </tr>
