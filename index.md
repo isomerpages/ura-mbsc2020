@@ -50,7 +50,7 @@ sections:
          subtitle: Esplanade - Theatres By The Bay, Singapore 
          image: /images/EsplanadePresentsVoices(C).jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: futuretogether
+       - title: "#futuretogether"
          subtitle: Gardens By The Bay 
          image: /images/futuretogether(C).jpg
          alt: #futuretogether
