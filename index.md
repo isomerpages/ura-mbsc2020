@@ -59,9 +59,9 @@ sections:
          image: /images/
          alt: Ringo's Circus
     - infopic:
-     title: Sponsors
-     button: Learn More
-     url: /about/acknowledgements/
-     image: /images/sponsorlogo(C).jpg
-     alt: Sponsors  
+         title: Sponsors
+         button: Learn More
+         url: /about/acknowledgements/
+         image: /images/sponsorlogo(C).jpg
+         alt: Sponsors  
 ---
