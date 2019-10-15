@@ -19,8 +19,8 @@ sections:
         - title: Build A Dream
           url: /build-a-dream/about/
           description: Be A Builder Of Dreams
-        - title: Media Room 
-          url: 	/about/news/
+        - title: Latest Update  
+          url: 	href="https:/https://www.facebook.com/marinabaysg/?ref=br_rs
           description: Media Releases
     - carousel:
        - title: 
