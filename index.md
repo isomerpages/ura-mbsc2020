@@ -24,27 +24,27 @@ sections:
           description: Press Release
     - carousel:
        - title: 
-         image: /images/CelebrateInTheCity(C).jpg
+         image: /images/CitC(CF).png
          alt: Celebrate-In-The-City 
        - title: Poinsettia Wishes Floral Display
          subtitle: Gardens By The Bay
-         image: /images/PoinsettiaWishes(C).jpg
+         image: /images/PoinsettiaWishes(CF).png
          alt: Poinsettia Wishes Floral Display
        - title: ChariTrees 2019
          subtitle: Marina Bay Precinct
-         image: /images/CheriTrees2019(C).jpg
+         image: /images/ChariTrees2019(CF).png
          alt: ChariTrees-2019
        - title: Christmas Wonderland 2019
          subtitle: Gardens By The Bay 
-         image: /images/CheriTrees2019(M).jpg
+         image: /images/ChristmasWonderland2019.png
          alt: Christmas-Wonderland-2019
        - title: Christmas At ArtScience Museum
          subtitle: ArtScience Museum 
-         image: /images/ChristmasAtArtScienceMuseum(C).jpg
+         image: /images/ChristmasAtASM.png
          alt: Christmas-At-ArtScience-Museum
        - title: Esplanade Presents Come Together 
          subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/EsplandePresentsComeTogether(C).jpg
+         image: /images/EsplanadePresentsComeTogether(CF).png
          alt: Esplanade-Presents-Come-Together
        - title: Esplanade Presents Voices - A Festival of Song
          subtitle: Esplanade - Theatres By The Bay, Singapore 
