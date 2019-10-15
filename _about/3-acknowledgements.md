@@ -9,10 +9,12 @@ permalink: /about/acknowledgements/
   <tr>
     <td><font color="orangered"><b>Presented by</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/URA170x50.png"/></a></td>
+    <td><img src="/images/Blank.jpg"/></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Managed by</b></font></td>
     <td><a href="https://www.pico.com/en/"> <img src="/images/picopro170x50.png"/></a></td>
+    <td><img src="/images/Blank.jpg"/></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Held in</b></font></td>
@@ -22,6 +24,7 @@ permalink: /about/acknowledgements/
   <tr>
     <td><font color="orangered"><b>In conjunction with</b></font></td>
     <td><a href="http://www.ura.gov.sg"> <img src="/images/CitC_logo_170x50.png"/></a></td>
+    <td><img src="/images/Blank.jpg"/></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Community Partners</b></font></td>
@@ -36,5 +39,6 @@ permalink: /about/acknowledgements/
     <tr>
     <td><font color="orangered"><b>Prime Sponsors</b></font></td>
     <td><a href="https://www.marinabaysands.com/"> <img src="/images/MBS170x50.png"/></a></td>
+    <td><img src="/images/Blank.jpg"/></td>
   </tr>
 </table>
