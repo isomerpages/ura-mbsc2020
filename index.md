@@ -36,7 +36,7 @@ sections:
          alt: ChariTrees-2019
        - title: Christmas Wonderland 2019
          subtitle: Gardens By The Bay 
-         image: /images/CheriTrees2019(M).jpg
+         image: /images/ChristmasWonderland2019(C).jpg
          alt: Christmas-Wonderland-2019
        - title: Christmas At ArtScience Museum
          subtitle: ArtScience Museum 
