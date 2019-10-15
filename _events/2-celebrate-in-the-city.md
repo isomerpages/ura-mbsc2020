@@ -16,7 +16,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>8 November 2019 - 5 January 2020</font>
       <font color="orangered"><br> Gardens By The Bay </font>
       <br>  
-      <br>TBC
+      <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called Nisse adds to the festive cheer.
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
@@ -94,7 +94,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>15 December 2019 - 14 January 2020</font>
       <font color="orangered"><br> Gardens By The Bay </font>
       <br>  
-      <br>tbc
+      <br>Take a peek into the #futuretogether – a digital art exhibition presented by Gardens by the Bay and designed by teamLab in support of the Singapore Bicentennial. Expect the magical interactivity that Japan’s teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
