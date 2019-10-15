@@ -18,10 +18,10 @@ sections:
           description: At Marina Bay
         - title: Build A Dream
           url: /build-a-dream/about/
-          description: Be A Builder Of Dreams
-        - title: Latest Update  
+          description: Be a builder of Dreams
+        - title: Media Room 
           url: /about/news/
-          description: Follow us for more updates
+          description: Press Release
     - carousel:
        - title: 
          image: /images/CelebrateInTheCity(C).jpg
@@ -36,7 +36,7 @@ sections:
          alt: ChariTrees-2019
        - title: Christmas Wonderland 2019
          subtitle: Gardens By The Bay 
-         image: /images/ChristmasWonderland2019(C).jpg
+         image: /images/CheriTrees2019(M).jpg
          alt: Christmas-Wonderland-2019
        - title: Christmas At ArtScience Museum
          subtitle: ArtScience Museum 
@@ -62,6 +62,6 @@ sections:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
-         image: /images/sponsorlogo(C).jpg
+         image: /images/Sponsor(M).jpg
          alt: Sponsors  
 ---
