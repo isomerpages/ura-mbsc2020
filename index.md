@@ -21,7 +21,7 @@ sections:
           description: Be A Builder Of Dreams
         - title: Latest Update  
           url: "https:/https://www.facebook.com/marinabaysg/?ref=br_rs"
-          description: Media Releases
+          description: Follow us for more updates
     - carousel:
        - title: 
          image: /images/CelebrateInTheCity(C).jpg
