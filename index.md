@@ -28,31 +28,31 @@ sections:
          alt: Celebrate-In-The-City 
        - title: Poinsettia Wishes Floral Display
          subtitle: Gardens By The Bay
-         image: /images/PoinsettiaWishes(CF).png
+         image: /images/PoinsettiaWishes(C).jpg
          alt: Poinsettia Wishes Floral Display
        - title: ChariTrees 2019
          subtitle: Marina Bay Precinct
-         image: /images/ChariTrees2019(CF).png
+         image: /images/ChariTrees2019(C).jpg
          alt: ChariTrees-2019
        - title: Christmas Wonderland 2019
          subtitle: Gardens By The Bay 
-         image: /images/ChristmasWonderland2019.png
+         image: /images/ChristmasWonderland(C).jpg
          alt: Christmas-Wonderland-2019
        - title: Christmas At ArtScience Museum
          subtitle: ArtScience Museum 
-         image: /images/ChristmasAtASM.png
+         image: /images/ChristmasAtASM(C).jpg
          alt: Christmas-At-ArtScience-Museum
        - title: Esplanade Presents Come Together 
          subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/EsplanadePresentsComeTogether(CF).png
+         image: /images/ComeTogether(C).jpg
          alt: Esplanade-Presents-Come-Together
        - title: Esplanade Presents Voices - A Festival of Song
          subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/EsplanadePresentsVoices.png
+         image: /images/Voices(C).jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
        - title: "#futuretogether"
          subtitle: Gardens By The Bay 
-         image: /images/futuretogether.png
+         image: /images/futuretogether(C).jpg
          alt: #futuretogether
        - title: Ringo's Circus
          subtitle: Bayfront Event Space 
