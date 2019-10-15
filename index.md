@@ -48,11 +48,11 @@ sections:
          alt: Esplanade-Presents-Come-Together
        - title: Esplanade Presents Voices - A Festival of Song
          subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/EsplanadePresentsVoices(C).jpg
+         image: /images/EsplanadePresentsVoices.png
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
        - title: "#futuretogether"
          subtitle: Gardens By The Bay 
-         image: /images/futuretogether(C).jpg
+         image: /images/futuretogether.png
          alt: #futuretogether
        - title: Ringo's Circus
          subtitle: Bayfront Event Space 
