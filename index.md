@@ -20,7 +20,7 @@ sections:
           url: /build-a-dream/about/
           description: Be A Builder Of Dreams
         - title: Latest Update  
-          url: "https:/https://www.facebook.com/marinabaysg/?ref=br_rs"
+          url: /about/news/
           description: Follow us for more updates
     - carousel:
        - title: 
