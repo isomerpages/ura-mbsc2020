@@ -5,11 +5,16 @@ third_nav_title: About Build A Dream
 ---
 # I hope to be an artist.  
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/JiaEn1.jpg" /></a>
-# Jia En's Story 
-Etc 
+# Jia En's Story
 
+Etc.. 
 
-<font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Pledge to Donate</a></b>
-<br>
+      <br>
+      <font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge to Donate</a></b></font>
+      <br>
+      
+
   # About Shine Children and Youth Services 
-Etc 
+  
+Etc..
+
