@@ -21,7 +21,7 @@ permalink: /about/acknowledgements/
   </tr>
   <tr>
     <td><font color="orangered"><b>In conjunction with</b></font></td>
-    <td><a href="http://www.ura.gov.sg"> <img src="/images/CitC_logo_170x50.png.png"/></a></td>
+    <td><a href="http://www.ura.gov.sg"> <img src="/images/CitC_logo_170x50.png"/></a></td>
   </tr>
   <tr>
     <td><font color="orangered"><b>Community Partners</b></font></td>
