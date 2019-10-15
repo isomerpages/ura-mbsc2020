@@ -24,7 +24,7 @@ sections:
           description: Press Release
     - carousel:
        - title: 
-         image: /images/CitC(CF).png
+         image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City 
        - title: Poinsettia Wishes Floral Display
          subtitle: Gardens By The Bay
