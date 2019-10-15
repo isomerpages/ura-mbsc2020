@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 31 December 2019
         subtitle: Join us as we ring in the new year
-        background: /images/MBSCHB4.gif
+        background: /images/HeroBanner2.gif
         button: What's On
         url: /events/whats-on/
         key_highlights:
