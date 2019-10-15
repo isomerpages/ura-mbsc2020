@@ -10,6 +10,6 @@ Etc
 
 
 <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Pledge to Donate</a></b>
-  
-# About Shine Children and Youth Services 
+<br>
+  # About Shine Children and Youth Services 
 Etc 
