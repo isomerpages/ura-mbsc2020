@@ -21,7 +21,7 @@ sections:
           description: Be a builder of Dreams
         - title: Media Room 
           url: /about/news/
-          description: Press Release
+          description: Press Release & Updates
     - carousel:
        - title: 
          image: /images/CitC(C).jpg
