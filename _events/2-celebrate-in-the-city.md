@@ -77,7 +77,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/voices"> <img src="/images/EsplanadePresentsVoice(M).jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Esplanade presents: Voices - A Festival of Songs</b></font>
+      <font color="orangered"><b>Esplanade presents: Voices - A Festival of Song</b></font>
       <font color="orangered"><br>6 - 8 December 2019</font>
       <font color="orangered"><br> Esplanade - Theatres By The Bay, Singapore </font>
       <br>  
