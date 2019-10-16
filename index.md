@@ -17,7 +17,7 @@ sections:
           url: /events/whats-on/marina-bay
           description: At Marina Bay
         - title: Build A Dream
-          url: /build-a-dream/about/
+          url: /build-a-dream/about/overview
           description: Be a builder of Dreams
         - title: Media Room 
           url: /about/news/
