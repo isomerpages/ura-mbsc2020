@@ -4,7 +4,7 @@ title: Marina Bay Singapore Countdown
 description: A Bay of Hopes and Dreams
 image: /images/
 permalink: /
-notification: Tickets on sale now for STAR ISLAND Singapore Countdown Edition 2019 - 2020 
+notification: Check out our Events Page for more details 
 sections:
     - hero:
         title: 31 December 2019
