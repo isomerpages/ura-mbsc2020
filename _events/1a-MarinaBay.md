@@ -10,14 +10,14 @@ third_nav_title: New Year's Eve
 <table>
 <tr>
       <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Ringo's Circus</b></font>
-      <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
-      <font color="orangered"><br> Bayfront Event Space </font>
+      <font color="orangered"><b>Fireworks</b></font>
+      <font color="orangered"><br>31 December 2019</font>
+      <font color="orangered"><br> Around Marina Bay </font>
       <br>  
-      <br>tbc
+      <br>Info about best Vantage Points
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
