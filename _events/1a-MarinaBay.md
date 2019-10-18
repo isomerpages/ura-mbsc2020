@@ -26,11 +26,11 @@ third_nav_title: New Year's Eve
      <a href="www.esplanade.com/voices"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Esplanade presents: Come Together</b></font>
-      <font color="orangered"><br>1 - 31 December 2019</font>
-      <font color="orangered"><br> Esplanade - Theatres By The Bay, Singapore </font>
+      <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
+      <font color="orangered"><br>1 - 5 & 9 - 31 December 2019</font>
+      <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
       <br>  
-      <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
+      <br>Celebrate friendships old and new as artists and kindred spirits _*Come Together*_ for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
       <br>
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find out more</a></b></font>
       <br>
@@ -66,11 +66,11 @@ third_nav_title: New Year's Eve
      <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_Wonderland_2019.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Star Island Singapore Countdown Edition 2019 - 2020</b></font>
+      <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>  
-      <br>Star Island is back in Singapore at The Float @ Marina Bay with a new theme - “A Space Odyssey”. This year’s show will feature the debut of a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of elements.
+      <br>STAR ISLAND is back in Singapore at The Float @ Marina Bay with a new theme - “A Space Odyssey”. This year’s show will feature the debut of a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of elements.
       <br>
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find out more</a></b></font>
       <br>
