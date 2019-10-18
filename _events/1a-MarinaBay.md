@@ -30,7 +30,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>1 - 5 & 9 - 31 December 2019</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
       <br>  
-      <br>Celebrate friendships old and new as artists and kindred spirits _*Come Together*_ for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
+      <br>Celebrate friendships old and new as artists and kindred spirits  _*Come Together*_  for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
       <br>
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find out more</a></b></font>
       <br>
