@@ -11,7 +11,6 @@ third_nav_title: New Year's Eve
 <tr>
       <td>
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
-    </td>
     <td>
       <font color="orangered"><b>New Year's Eve@Asian Civilisations Museum</b></font>
       <font color="orangered"><br>31 December 2019</font>
