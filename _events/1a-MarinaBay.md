@@ -57,7 +57,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
-      <br>tbc
+      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
