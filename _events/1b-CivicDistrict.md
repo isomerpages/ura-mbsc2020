@@ -48,5 +48,18 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
 <tr>
+    <td>
+    <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+    </td>
+    <td>
+      <font color="orangered"><b>The Arts House (TBC)</b></font>
+      <font color="orangered"><br>31 December 2019</font>
+      <font color="orangered"><br> The Arts House </font>
+      <br>  
+      <br>TBC
+      <br>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <br>
+<tr>
     </td>
   </tr>
