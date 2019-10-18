@@ -9,6 +9,19 @@ third_nav_title: New Year's Eve
 <br>
 <table>
 <tr>
+      <td>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+    </td>
+    <td>
+      <font color="orangered"><b>Ringo's Circus</b></font>
+      <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
+      <font color="orangered"><br> Bayfront Event Space </font>
+      <br>  
+      <br>tbc
+      <br>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <br>
+<tr>
     <td>
      <a href="www.esplanade.com/voices"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
     </td>
