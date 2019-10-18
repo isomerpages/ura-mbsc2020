@@ -13,15 +13,15 @@ sections:
         button: What's On
         url: /events/whats-on/
         key_highlights:
-        - title: Event Listings  
+        - title: Fireworks 
           url: /events/whats-on/marina-bay
-          description: At Marina Bay
+          description: Click here for vantage points
         - title: Build A Dream
           url: /build-a-dream/about/overview
-          description: Be a builder of Dreams
-        - title: Media Room 
-          url: /about/news/
-          description: Press Release & Updates
+          description: Be a Builder of Dreams
+        - title: Events 
+          url: /events/whats-on/marina-bay
+          description:        
     - carousel:
        - title: 
          image: /images/CitC(C).jpg
