@@ -13,7 +13,7 @@ third_nav_title: About Build A Dream
     <td>
       <font color="orangered"><b>About Build a Dream</b></font>
       <br>
-      <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
+      <br> "Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer."
       <br>
       <font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Find out more</a></b></font>
       <br>
