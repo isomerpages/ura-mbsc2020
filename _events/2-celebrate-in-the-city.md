@@ -14,7 +14,7 @@ permalink: /events/celebrate-in-the-city/
     <td>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
       <font color="orangered"><br>8 November 2019 - 5 January 2020</font>
-      <font color="orangered"><br> Gardens By The Bay </font>
+      <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
       <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called Nisse adds to the festive cheer.
       <br>
@@ -29,7 +29,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>15 November 2019 - 26 December 2019</font>
       <font color="orangered"><br> Marina Bay Precinct </font>
       <br>  
-      <br>ChariTrees 2019 is organised by not-for-profit arts organisation and charity, The RICE Company Limited. ChariTrees celebrates Singapore’s community heroes and is also a fundraiser for The Business Times Budding Artists Fund and several-other charities.
+      <br>ChariTrees 2019 is organised by not-for-profit arts organisation and charity, The RICE Company Limited. ChariTrees celebrates Singapore’s community heroes and is also a fundraiser for The Business Times Budding Artists Fund and several other charities.
       <br>
       <font color="orangered"><b><br><a href="https://www.therice.sg">Find out more</a></b></font>
       <br>
@@ -40,7 +40,7 @@ permalink: /events/celebrate-in-the-city/
     <td>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
       <font color="orangered"><br>29 November 2019 - 26 December 2019</font>
-      <font color="orangered"><br> Gardens By The Bay </font>
+      <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
       <br>Revel in the festivities at Singapore’s most popular year-end event, Christmas Wonderland at Gardens by the Bay! Magical luminarie lights transform the fairground into a stunning wonderland complete with Yuletide favourites and festive fun for everyone. Meet Santa, experience ‘snow’ in the tropics, enjoy carnival games and rides, shop at the charming Christmas Village and so much more!
       <br>
@@ -66,7 +66,7 @@ permalink: /events/celebrate-in-the-city/
     <td>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1-31 December 2019</font>
-      <font color="orangered"><br> Esplanade - Theatres By The Bay, Singapore </font>
+      <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits Come Together for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
       <br>
@@ -77,9 +77,9 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/voices"> <img src="/images/EsplanadePresentsVoice(M).jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Esplanade presents: Voices - A Festival of Song</b></font>
+      <font color="orangered"><b>Esplanade Presents: Voices - A Festival of Song</b></font>
       <font color="orangered"><br>6 - 8 December 2019</font>
-      <font color="orangered"><br> Esplanade - Theatres By The Bay, Singapore </font>
+      <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
       <br>The seventh edition of Voices – A Festival of Song will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
       <br>
@@ -92,9 +92,9 @@ permalink: /events/celebrate-in-the-city/
     <td>
       <font color="orangered"><b>#futuretogether</b></font>
       <font color="orangered"><br>15 December 2019 - 14 January 2020</font>
-      <font color="orangered"><br> Gardens By The Bay </font>
+      <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
-      <br>Take a peek into the #futuretogether – a digital art exhibition presented by Gardens by the Bay and designed by teamLab in support of the Singapore Bicentennial. Expect the magical interactivity that Japan’s teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.
+      <br>Take a peek into the #futuretogether – a digital art exhibition presented by Gardens by the Bay and designed by teamLab in support of the Singapore Bicentennial. Experience the magical interactivity that Japan’s teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
