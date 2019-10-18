@@ -1,7 +1,7 @@
 ---
-title: Overview
-permalink: /build-a-dream/about/overview
-third_nav_title: About Build A Dream
+title: About
+permalink: /build-a-dream/about/About
+third_nav_title: Build A Dream
 ---
 
 # Be a builder of dreams this festive season.
