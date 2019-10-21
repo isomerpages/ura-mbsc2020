@@ -20,7 +20,7 @@ Answer: There are activities catered to people of different profiles, interests 
 
 #### 4. Is Celebrate in the City ticketed? 
 
-Charges may apply for selected events. Click <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/about/marina-bay-singapore-countdown/">here</a></b></font> for the full list of events and activities.
+Charges may apply for selected events. Click <a href="https://ura-mbsc2020-staging.netlify.com/about/marina-bay-singapore-countdown/">here</a> for the full list of events and activities.
 
 ## Marina Bay Singapore Countdown
 #### 1.  Is there an age limit for the Countdown activities?
