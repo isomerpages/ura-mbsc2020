@@ -11,7 +11,7 @@ sections:
         subtitle: Join us as we ring in the new year
         background: /images/HeroBanner2.gif
         button: What's On
-        url: /events/whats-on/
+        url: /events/whats-on/marina-bay
         key_highlights:
         - title: Fireworks 
           url: /events/fireworks%20display/
