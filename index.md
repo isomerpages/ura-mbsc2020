@@ -17,7 +17,7 @@ sections:
           url: /events/fireworks%20display/
           description: Click here for vantage points
         - title: Build A Dream
-          url: /build-a-dream/about/overview
+          url: /build-a-dream/about/about
           description: Be a Builder of Dreams
         - title: Events 
           url: /events/whats-on/marina-bay
