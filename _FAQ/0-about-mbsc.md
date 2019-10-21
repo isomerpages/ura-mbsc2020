@@ -13,4 +13,4 @@ With the theme "Bay of Hopes & Dreams", MBSC 2020 also presents the Build A Drea
 
 #### 2. What is Celebrate in the City?
 
-Celebrate in the City is an integrated campaign highlighting the many events and activities that the public can enjoy in Marina Bay during the year-end season - a one-stop shop for festive offerings in the city! This year's campaign features 9 marquee events starting in November and culminating in the Marina Bay Singapore Countdown on 31 December. Click <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/events/celebrate-in-the-city/">here</a></b></font> for the full list of events and activities.
+Celebrate in the City is an integrated campaign highlighting the many events and activities that the public can enjoy in Marina Bay during the year-end season - a one-stop shop for festive offerings in the city! This year's campaign features 9 marquee events starting in November and culminating in the Marina Bay Singapore Countdown on 31 December. Click <a href="https://ura-mbsc2020-staging.netlify.com/events/celebrate-in-the-city/">here</a> for the full list of events and activities.
