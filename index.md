@@ -25,7 +25,8 @@ sections:
     - carousel:
        - title: 
          image: /images/CitC(C).jpg
-         alt: Celebrate-In-The-City 
+         alt: Celebrate-In-The-City
+         url: /events/celebrate-in-the-city/
        - title: Poinsettia Wishes Floral Display
          subtitle: Gardens By The Bay
          image: /images/PoinsettiaWishes(C).jpg
