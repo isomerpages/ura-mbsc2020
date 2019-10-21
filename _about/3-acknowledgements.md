@@ -32,7 +32,7 @@ permalink: /about/acknowledgements/
     <td><a href="https://www.toteboard.gov.sg/"> <img src="/images/ToteBoard170x50.png"/></a></td>
   </tr>
     <tr>
-    <td><font color="orangered"><b>Principle Sponsors</b></font></td>
+    <td><font color="orangered"><b>Principal Sponsors</b></font></td>
     <td><a href="https://www.dbs.com/default.page"> <img src="/images/DBS170x50.png"/></a></td>
     <td><a href="https://www.fullertonhotels.com/"> <img src="/images/Fullerton170x50.png"/></a></td>
   </tr>
