@@ -23,8 +23,7 @@ sections:
           url: /events/whats-on/marina-bay
           description:        
     - carousel:
-       - title: Celebrate In The City
-         subtitle: Gardens By The Bay
+       - title:  
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
