@@ -24,7 +24,7 @@ sections:
           description:        
     - carousel:
        - title:  
-         image: <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/CitC(C).jpg" /></a>
+         image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
        - title: Poinsettia Wishes Floral Display
