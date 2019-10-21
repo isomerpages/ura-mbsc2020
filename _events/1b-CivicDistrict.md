@@ -30,7 +30,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Victoria Theatre and Concert Hal </font>
       <br>  
-      <br>TBC
+      <br> *insert description*
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
@@ -43,7 +43,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Red Dot Design Museum </font>
       <br>  
-      <br>TBC
+      <br> *insert description*
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
@@ -56,7 +56,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Arts House </font>
       <br>  
-      <br>TBC
+      <br> *insert description*
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
