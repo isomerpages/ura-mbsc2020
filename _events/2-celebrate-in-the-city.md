@@ -81,7 +81,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>6 - 8 December 2019</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
-      <br>The seventh edition of *Voices – A Festival of Song* will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
+        <br>The seventh edition of <i>Voices – A Festival of Song</i> will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
       <br>
       <font color="orangered"><b><br><a href="https://www.esplanade.com/voices">Find out more</a></b></font>
       <br>
