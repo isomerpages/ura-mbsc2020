@@ -4,7 +4,7 @@ title: Marina Bay Singapore Countdown
 description: A Bay of Hopes and Dreams
 image: /images/
 permalink: /
-notification: Check out our Events Page for more details 
+notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Events</a> Page for more details 
 sections:
     - hero:
         title: 31 December 2019
