@@ -10,7 +10,7 @@ The first event to kick off Celebrate in the City will be Poinsettia Wishes Flor
 
 #### 2. What are some events to look forward to under Celebrate in the City?
 
-The 9 events under Celebrate in the City include; Poinsettia Wishes Floral Display, ChariTrees 2019, Christmas Wonderland 2019, Christmas at ArtScience Museum, Esplanade Presents: Come Together, Esplanade Presents: Voices - A Festival of Song, #futuretogether, Uncle Ringo Presents: The Great European Circus, and last but not least, the Marina Bay Singapore Countdown. Click here for the full list of events and activities.
+The 9 events under Celebrate in the City include; Poinsettia Wishes Floral Display, ChariTrees 2019, Christmas Wonderland 2019, Christmas at ArtScience Museum, *Esplanade Presents: Come Together*, *Esplanade Presents: Voices - A Festival of Song*, #futuretogether, Uncle Ringo Presents: The Great European Circus, and last but not least, the Marina Bay Singapore Countdown. Click here for the full list of events and activities.
 
 #### 3. Is there an age limit for Celebrate in the City activities?
 
