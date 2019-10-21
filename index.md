@@ -14,7 +14,7 @@ sections:
         url: /events/whats-on/
         key_highlights:
         - title: Fireworks 
-          url: https://ura-mbsc2020-staging.netlify.com/events/fireworks%20display/
+          url: /events/fireworks%20display/
           description: Click here for vantage points
         - title: Build A Dream
           url: /build-a-dream/about/overview
