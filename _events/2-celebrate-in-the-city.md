@@ -103,7 +103,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Uncle Ringo Presents The Great Circus of Europe</b></font>
+      <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
