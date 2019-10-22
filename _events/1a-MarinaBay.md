@@ -66,7 +66,7 @@ third_nav_title: New Year's Eve
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
     </td>
     <td>
-      <font color="orangered"><b>The Great Circus of Europe</b></font>
+      <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
