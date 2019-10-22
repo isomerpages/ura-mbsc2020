@@ -60,6 +60,5 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
-<tr>
-    </td>
-  </tr>
+     </td>
+    </tr>
