@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  Newsletter one
+layout: resources-alt
+title: Resources
 permalink: "/about/news/"
-image: 
+breadcrumb: News
 ---
