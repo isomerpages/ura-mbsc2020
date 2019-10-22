@@ -1,9 +1,6 @@
 ---
-title: Media Room
-permalink: /about/news/
+layout: post
+title:  Newsletter one
+permalink: "/about/news/"
+image: 
 ---
-
-
-<i>test<i/>
-  
-*test*
