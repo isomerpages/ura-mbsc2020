@@ -1,4 +1,4 @@
 ---
 title: Dispersal
-permalink: /_visitors-information/
+permalink: /_visitors-information/dispersal
 ---
