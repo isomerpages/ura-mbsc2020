@@ -27,7 +27,7 @@ sections:
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title: <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a>
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
          subtitle: Gardens By The Bay
          image: /images/PoinsettiaWishes(C).jpg
          alt: Poinsettia Wishes Floral Display
