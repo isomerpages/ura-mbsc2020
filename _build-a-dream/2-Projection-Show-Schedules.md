@@ -9,38 +9,37 @@ permalink: /build-a-dream/projection-show-schedules/
 <table>
 <tr>
     <td>
-     <a href="https://www.marinabaysands.com/museum.html"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
+     <font color="orangered"><b>The Fullerton Hotel</b></font>
+     <br>
+     <font color="orangered"><b>Singapore</b></font>
     </td>
     <td>
-      <font color="orangered"><b>Projection Shows @Fullerton Hotel</b></font>
-      <font color="orangered"><br>25th December 2019 - 28th December 2019</font>
-      <font color="orangered"><br>2PM - 10PM</font>
+      <font color="orangered"><br>26 - 30 December 2019</font>
+      <font color="orangered"><br>8PM - 10.30PM</font>
       <br>  
-      <font color="orangered"><br>30th Decmeber 2019 - 31st December 2019</font>
-      <font color="orangered"><br>2PM - 10PM</font>
+      <font color="orangered"><br>31 December 2019</font>
+      <font color="orangered"><br>8PM - 11.30PM</font>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Know more about the artist</a></b></font>
       <br>
 <tr>
     <td>
-     <a href="https://www.marinabaysands.com/museum.html"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
+     <font color="orangered"><b>The Merlion</b></font>
     </td>
     <td>
-      <font color="orangered"><b>Projection Shows @ Merlion</b></font>
-      <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
-      <font color="orangered"><br>2PM - 10PM</font>
+      <font color="orangered"><br>29 - 30 December 2019</font>
+      <font color="orangered"><br>8PM - 10.30PM</font>
       <br>  
-      <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
-      <font color="orangered"><br>2PM - 10PM</font>
+      <font color="orangered"><br>31 December 2019</font>
+      <font color="orangered"><br>8PM - 11.30PM</font>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Know more about the artist</a></b></font>
       <br>
 <tr>
     <td>
-     <a href="https://www.marinabaysands.com/museum.html"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
+     <font color="orangered"><b>Artscience Museum</b></font>
     </td>
     <td>
-      <font color="orangered"><b>Projection Shows @ Artscience Museum</b></font>
-      <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
-      <font color="orangered"><br>2PM - 10PM</font>
+      <font color="orangered"><br>29 - 31 December 2019</font>
+      <font color="orangered"><br>8PM - 10.30PM</font>
       <br>  
       <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
       <font color="orangered"><br>2PM - 10PM</font>
