@@ -69,9 +69,9 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Arts House </font>
       <br>  
-      <br> *insert description*
+      <br> What better way to usher in the New Year than to acknowledge the pioneering efforts of Singapore's heritage conservation at the Marjorie Doggett Exhibition! The Arts House's opening hours has been extended to midnight on 31 December 2019. 
       <br>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition">Find out more</a></b></font>
       <br>
      </td>
     </tr>
