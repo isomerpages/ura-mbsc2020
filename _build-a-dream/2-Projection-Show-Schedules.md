@@ -7,7 +7,7 @@ permalink: /build-a-dream/projection-show-schedules/
 
 <br>
 <table class="table-v">
-<table style="width:200%">
+<table style="width:100%">
 <tr>
     <td>
      <font color="orangered"><b>The Fullerton Hotel</b></font>
