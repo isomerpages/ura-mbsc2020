@@ -62,7 +62,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-    <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+    <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/HeroBanner2.gif" /></a>
     </td>
     <td>
       <font color="orangered"><b>The Arts House (TBC)</b></font>
