@@ -6,7 +6,8 @@ permalink: /build-a-dream/projection-show-schedules/
 # Schedule for Build A Dream Projections
 
 <br>
-<table>
+<table class="table-v">
+<table style="width:60%">
 <tr>
     <td>
      <font color="orangered"><b>The Fullerton Hotel</b></font>
