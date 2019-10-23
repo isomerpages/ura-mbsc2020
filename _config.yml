@@ -13,7 +13,7 @@ collections:
     output: true
   FAQ:
     output: true
-  resources_2-News-and-Updates:
+  resources_News:
     output: true
 
 google-analytics: UA-56383423-1
