@@ -23,7 +23,7 @@ sections:
           url: /events/whats-on/marina-bay
           description:        
     - carousel:
-       - title:  
+       - title:
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
