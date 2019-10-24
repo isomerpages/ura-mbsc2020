@@ -10,7 +10,7 @@ third_nav_title: New Year's Eve
 <table>
 <tr>
       <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/MBSC2020KV.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Fireworks</b></font>
@@ -24,11 +24,11 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
       <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
     </td>
     <td>
-      <font color="orangered"><b>Fireworks</b></font>
-      <font color="orangered"><br>31 December 2019</font>
+      <font color="orangered"><b>Build a Dream Light Projections</b></font>
+      <font color="orangered"><br>December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
       <br>  
       <br>Info about best Vantage Points
@@ -37,7 +37,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-     <a href="www.christmaswonderland.sg"> <img src="/images/Christmas_Wonderland_2019.jpg" /></a>
+     <a href="www.christmaswonderland.sg"> <img src="/images/" /></a>
     </td>
     <td>
       <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020</b></font>
@@ -77,7 +77,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/uncleringoC.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
@@ -90,7 +90,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-    <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+    <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/RedDot.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
