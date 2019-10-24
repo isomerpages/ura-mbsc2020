@@ -27,37 +27,30 @@ sections:
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
-         subtitle: Gardens By The Bay
-         image: /images/PoinsettiaWishes(C).jpg
+       - subtitle: Poinsettia Wishes Floral Display
+         image: /images/PoinsettiaWishesC.jpg
          alt: Poinsettia Wishes Floral Display
-       - title: ChariTrees 2019
-         subtitle: Marina Bay Precinct
-         image: /images/ChariTrees2019(C).jpg
+       - subtitle: ChariTrees 2019
+         image: /images/ChariTreesC.jpg
          alt: ChariTrees-2019
-       - title: Christmas Wonderland 2019
-         subtitle: Gardens By The Bay 
+       - subtitle: Christmas Wonderland 2019
          image: /images/ChristmasWonderland(C).jpg
          alt: Christmas-Wonderland-2019
-       - title: Christmas At ArtScience Museum
-         subtitle: ArtScience Museum 
-         image: /images/ChristmasAtASM(C).jpg
+       - subtitle: Christmas At ArtScience Museum
+         image: /images/AsmC.jpg
          alt: Christmas-At-ArtScience-Museum
-       - title: Esplanade Presents Come Together 
-         subtitle: Esplanade - Theatres By The Bay, Singapore 
+       - subtitle: Esplanade Presents Come Together 
          image: /images/ComeTogether(C).jpg
          alt: Esplanade-Presents-Come-Together
-       - title: Esplanade Presents Voices - A Festival of Song
-         subtitle: Esplanade - Theatres By The Bay, Singapore 
+       - subtitle: Esplanade Presents Voices - A Festival of Song
          image: /images/Voices(C).jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
        - title: "#futuretogether"
          subtitle: Gardens By The Bay 
          image: /images/futuretogether(C).jpg
          alt: #futuretogether
-       - title: Ringo's Circus
-         subtitle: Bayfront Event Space 
-         image: /images/
+       - subtitle: Uncle Ringo Presents: The Great Circus of Europe
+         image: /images/uncleringoC.jpg
          alt: Ringo's Circus
     - infopic:
          title: Sponsors
