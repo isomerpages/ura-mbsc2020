@@ -19,4 +19,4 @@ links:
   - title: FAQ
     collection: FAQ
   - title: News
-    collection: news
+    resource-room: true
