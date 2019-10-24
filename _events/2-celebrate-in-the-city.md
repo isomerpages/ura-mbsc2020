@@ -22,7 +22,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.therice.sg"> <img src="/images/CheriTrees2019(M).jpg" /></a>
+     <a href="https://www.therice.sg"> <img src="/images/ChariTrees2019(M).jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>ChariTrees</b></font>
@@ -48,7 +48,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/Christmas@ASM(M).jpg" /></a>
+     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/ASM.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
@@ -74,7 +74,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.esplanade.com/voices"> <img src="/images/EsplanadePresentsVoice(M).jpg" /></a>
+     <a href="https://www.esplanade.com/voices"> <img src="/images/Voices.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Esplanade Presents: Voices - A Festival of Song</b></font>
@@ -100,7 +100,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
 <tr>
     <td>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/Esplanade_Presents_Come_Together.jpg" /></a>
+     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/UncleRingoGCE.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
