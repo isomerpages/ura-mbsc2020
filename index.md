@@ -27,29 +27,36 @@ sections:
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - subtitle: Poinsettia Wishes Floral Display
+       - title:
+         subtitle: Poinsettia Wishes Floral Display
          image: /images/PoinsettiaWishesC.jpg
          alt: Poinsettia Wishes Floral Display
-       - subtitle: ChariTrees 2019
+       - title:
+         subtitle: ChariTrees 2019
          image: /images/ChariTreesC.jpg
          alt: ChariTrees-2019
-       - subtitle: Christmas Wonderland 2019
+       - title:
+         subtitle: Christmas Wonderland 2019
          image: /images/ChristmasWonderland(C).jpg
          alt: Christmas-Wonderland-2019
-       - subtitle: Christmas At ArtScience Museum
+       - title:
+         subtitle: Christmas At ArtScience Museum
          image: /images/AsmC.jpg
          alt: Christmas-At-ArtScience-Museum
-       - subtitle: Esplanade Presents Come Together 
+       - title:
+         subtitle: Esplanade Presents Come Together 
          image: /images/ComeTogether(C).jpg
          alt: Esplanade-Presents-Come-Together
-       - subtitle: Esplanade Presents Voices - A Festival of Song
+       - title:
+         subtitle: Esplanade Presents Voices - A Festival of Song
          image: /images/Voices(C).jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: "#futuretogether"
-         subtitle: Gardens By The Bay 
+       - title:
+         subtitle: "#futuretogether"
          image: /images/futuretogether(C).jpg
          alt: #futuretogether
-       - subtitle: Uncle Ringo Presents: The Great Circus of Europe
+       - title:
+         subtitle: Uncle Ringo Presents: The Great Circus of Europe
          image: /images/uncleringoC.jpg
          alt: Ringo's Circus
     - infopic:
