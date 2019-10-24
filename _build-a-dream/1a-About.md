@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /build-a-dream/about/
+permalink: /build-a-dream/
 third_nav_title: Build A Dream
 ---
 
