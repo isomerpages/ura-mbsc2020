@@ -15,7 +15,7 @@ permalink: /build-a-dream/projection-show-schedules/
      <font color="orangered"><b>Singapore</b></font>
     </td>
     <td>
-      <font color="orangered"><br>26 - 30 December 2019</font>
+      <font color="orangered">26 - 30 December 2019</font>
       <font color="orangered"><br>8PM - 10.30PM</font>
       <br>  
       <font color="orangered"><br>31 December 2019</font>
