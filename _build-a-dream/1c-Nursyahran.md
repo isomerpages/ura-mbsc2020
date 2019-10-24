@@ -7,7 +7,7 @@ third_nav_title: Build A Dream
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaD3.jpg" /></a>
 # Nursyahran's story
 
-Etc.. 
+Etc... 
 
 <br>
 <font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge to Donate</a></b></font>
