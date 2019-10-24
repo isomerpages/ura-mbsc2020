@@ -77,7 +77,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/uncleringoC.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/UncleRingoGCE.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
