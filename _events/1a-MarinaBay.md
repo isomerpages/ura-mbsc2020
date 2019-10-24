@@ -21,6 +21,7 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">PDF</a></b></font>
       <br>
+      <br>
 <tr>
       <td>
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
