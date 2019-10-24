@@ -63,6 +63,6 @@ sections:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
-         image: /images/SponsorLogo(H).png
+         image: /images/logo(m).png
          alt: Sponsors  
 ---
