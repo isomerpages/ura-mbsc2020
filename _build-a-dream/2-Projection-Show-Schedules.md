@@ -27,7 +27,7 @@ permalink: /build-a-dream/projection-show-schedules/
      <font color="orangered"><b>The Merlion</b></font>
     </td>
     <td>
-      <font color="orangered"><br>29 - 30 December 2019</font>
+      <font color="orangered">29 - 30 December 2019</font>
       <font color="orangered"><br>8PM - 10.30PM</font>
       <br>  
       <font color="orangered"><br>31 December 2019</font>
@@ -39,7 +39,7 @@ permalink: /build-a-dream/projection-show-schedules/
      <font color="orangered"><b>Artscience Museum</b></font>
     </td>
     <td>
-      <font color="orangered"><br>29 - 31 December 2019</font>
+      <font color="orangered">29 - 31 December 2019</font>
       <font color="orangered"><br>8PM - 10.30PM</font>
       <br>  
       <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
