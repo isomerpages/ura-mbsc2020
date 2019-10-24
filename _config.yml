@@ -1,5 +1,5 @@
 title: MBSC 2020
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.marinabaycountdown.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/MBSC2020logo-170x50.svg
 
 collections:
@@ -13,10 +13,10 @@ collections:
     output: true
   FAQ:
     output: true
-  resources_News:
-    output: true
-
+resources_name: news
 google-analytics: UA-56383423-1
+
+
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
