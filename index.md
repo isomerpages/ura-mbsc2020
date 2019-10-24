@@ -21,7 +21,7 @@ sections:
           description: Be a Builder of Dreams
         - title: Events 
           url: /events/whats-on/marina-bay
-          description:        
+          description:
     - carousel:
        - title:
          image: /images/CitC(C).jpg
@@ -44,7 +44,7 @@ sections:
          image: /images/AsmC.jpg
          alt: Christmas-At-ArtScience-Museum
        - title:
-         subtitle: Esplanade Presents Come Together 
+         subtitle: Esplanade Presents Come Together
          image: /images/ComeTogether(C).jpg
          alt: Esplanade-Presents-Come-Together
        - title:
@@ -63,6 +63,6 @@ sections:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
-         image: /images/
+         image: /images/logo(m).png
          alt: Sponsors  
 ---
