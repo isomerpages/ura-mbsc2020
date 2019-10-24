@@ -10,7 +10,7 @@ third_nav_title: New Year's Eve
 <table>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
     </td>
     <td>
       <font color="orangered"><b>Empress Lawn</b></font>
@@ -23,7 +23,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
     </td>
     <td>
       <font color="orangered"><b>Connaught Drive</b></font>
@@ -36,7 +36,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/HeroBanner2.gif" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/ACM.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>New Year's Eve@Asian Civilisations Museum</b></font>
@@ -49,7 +49,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-     <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/HeroBanner2.gif" /></a>
+     <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/Victoria.jpg" /></a>
     </td>
     <td>
       <font color="orangered"><b>Victoria Theatre and Concert Hall (TBC)</b></font>
@@ -62,7 +62,7 @@ third_nav_title: New Year's Eve
       <br>
 <tr>
     <td>
-    <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/HeroBanner2.gif" /></a>
+    <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/" /></a>
     </td>
     <td>
       <font color="orangered"><b>The Arts House (TBC)</b></font>
