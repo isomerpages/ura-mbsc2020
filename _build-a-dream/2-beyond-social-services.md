@@ -6,7 +6,7 @@ permalink: /build-a-dream/about/beyond-social-services
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaD3.jpg" /></a>
 
 ## About Nursyahran
-*Nursyahran, 6 years old*<b> 
+<b>*Nursyahran, 6 years old* 
 <br>
 The second youngest of five siblings, Nursyahran is excited to start primary school next year, and wants to be a policeman when he grows up to help people and keep Singapore safe. For seven years now, Nursyahran’s family has been with Beyond Social Services. Despite numerous challenges over the years, Nursyahran’s parents have provided for their family as best they can. Responsive to their children’s educational needs, they work closely with Beyond Social Services to get support whenever there are learning opportunities, for both their children and themselves. Currently, Nursyahran is with Healthy Start Children Development Centre, where children like him are provided with the care and education they need through personalised education plans. 
 <br>
