@@ -7,12 +7,9 @@ third_nav_title: New Year's Eve
 # Civic District
 
 <br>
-<table>
-<tr>
-    <td>
+
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
-    </td>
-    <td>
+
       <font color="orangered"><b>Empress Lawn</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Empress Lawn </font>
@@ -21,11 +18,9 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
-<tr>
-    <td>
+
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
-    </td>
-    <td>
+
       <font color="orangered"><b>Connaught Drive</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Connaught Drive </font>
@@ -34,11 +29,9 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
-<tr>
-    <td>
+
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/ACM.jpg" /></a>
-    </td>
-    <td>
+
       <font color="orangered"><b>New Year's Eve@Asian Civilisations Museum</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Asian Civilisations Museum </font>
@@ -47,11 +40,9 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
-<tr>
-    <td>
+
      <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/Victoria.jpg" /></a>
-    </td>
-    <td>
+
       <font color="orangered"><b>Victoria Theatre and Concert Hall (TBC)</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Victoria Theatre and Concert Hal </font>
@@ -60,11 +51,9 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://www.sistic.com.sg/events/nye1219">Find out more</a></b></font>
       <br>
-<tr>
-    <td>
+
     <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/" /></a>
-    </td>
-    <td>
+
       <font color="orangered"><b>The Arts House (TBC)</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Arts House </font>
@@ -75,5 +64,4 @@ third_nav_title: New Year's Eve
       <br>
       <font color="orangered"><b><br><a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition">Find out more</a></b></font>
       <br>
-     </td>
-    </tr>
+
