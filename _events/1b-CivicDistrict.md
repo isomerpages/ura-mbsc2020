@@ -71,6 +71,7 @@ third_nav_title: New Year's Eve
       <br>  
       <br> What better way to usher in the New Year than to acknowledge the pioneering efforts of Singapore's heritage conservation at the Marjorie Doggett Exhibition! The Arts House's opening hours has been extended to midnight on 31 December 2019. 
       <br>
+      <br> Images courtesy of National Archives of Singapore. Copyright 2019 National Archives of Singapore.
       <font color="orangered"><b><br><a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition">Find out more</a></b></font>
       <br>
      </td>
