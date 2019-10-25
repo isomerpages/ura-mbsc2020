@@ -1,7 +1,6 @@
 ---
 title: Nursyahran
 permalink: /build-a-dream/about/nursyahran
-third_nav_title: Build A Dream
 ---
 # Title here.  
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaD3.jpg" /></a>
