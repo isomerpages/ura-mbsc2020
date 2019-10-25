@@ -11,7 +11,8 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b>Fireworks</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
-      <br>Info about best Vantage Points
+      <br>
+      Info about best Vantage Points
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">PDF</a></b></font>
       <br>
       <br>
@@ -30,7 +31,6 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>  
       <br>STAR ISLAND is back in Singapore at The Float @ Marina Bay with a new theme - “A Space Odyssey”. This year’s show will feature the debut of a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of elements.
-      <br>
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find out more</a></b></font>
       <br>
       <br>
