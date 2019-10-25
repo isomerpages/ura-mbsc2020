@@ -7,14 +7,15 @@ third_nav_title: New Year's Eve
 # Civic District
 
 <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
+      <br>
+      <br>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/ACM.jpg" /></a>
       <font color="orangered"><b>Empress Lawn</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> Empress Lawn </font>
-      <br>  
+      <font color="orangered"><br>Empress Lawn</font>  
       <br>TBC
-      <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <br>
       <br>
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
       <font color="orangered"><b>Connaught Drive</b></font>
