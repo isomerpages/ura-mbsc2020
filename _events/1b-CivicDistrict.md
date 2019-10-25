@@ -15,7 +15,7 @@ third_nav_title: New Year's Eve
       <br>TBC
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
-      <br>
+      <br />
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/ACM.jpg" /></a>
       <font color="orangered"><b>Connaught Drive</b></font>
       <font color="orangered"><br>31 December 2019</font>
