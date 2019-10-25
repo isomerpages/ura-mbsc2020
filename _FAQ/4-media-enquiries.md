@@ -5,14 +5,12 @@ permalink: /FAQ/Media Enquiries
 
 #### For media enquiries, please contact
 <br>
-<br>
-## Cheralyn Tan<br>
+# Cheralyn Tan<br>
 Tate Anzur<br>
 cheralyn.tan@tateanzur.com<br>
 +65 9117 0494
 <br>
-<br>
-## Jamie Tay<br>
+# Jamie Tay<br>
 Tate Anzur<br>
 jamie.tay@tateanzur.com<br>
  +65 9339 4459<br>
