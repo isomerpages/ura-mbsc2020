@@ -17,9 +17,9 @@ permalink: /about/acknowledgements/
 
 <div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/citc.jpg" alt="celebrate-in-the-city" /></a></div>
 
-**Community Partners**
+**Community Partner**
 
-<div style="width:50%"><a href="https://www.google.com"><img src="/images/logos/nvpc-singpools.png" alt="nvpc-singpools" /></a></div>
+<div style="width:50%"><a href="https://www.google.com"><img src="/images/logos/NVPC.png" alt="NVPC" /></a></div>
 
 **Principal Sponsors**
 
@@ -28,6 +28,8 @@ permalink: /about/acknowledgements/
 **Prime Sponsor**
 
 <div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/mbs.png" alt="marina bay sands" /></a></div>
+</div>
 
+**Major Supporter**
 
-
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/OUE.png" alt="OUE" /></a></div>
