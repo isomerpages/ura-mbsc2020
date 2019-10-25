@@ -3,7 +3,7 @@ title: About MBSC & Celebrate In The City
 permalink: /FAQ/About MBSC
 ---
 
-#### 1. What is Marina Bay Singapore Countdown? 
+#### 1. What is the Marina Bay Singapore Countdown? 
 
 Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has become the nation’s largest and most spectacular New Year’s Eve celebration. 
 
