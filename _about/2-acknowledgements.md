@@ -11,7 +11,9 @@ permalink: /about/acknowledgements/
 <div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/pico.png" alt="pico" /></a></div>
 
 **Held in**
-<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/mb-sponsor-logo.png" alt="marina" /></a></div></div>
+<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/mb-sponsor-logo.png" alt="marina" /></a></div>
+
+***and***
 <div style="width:30%"><a href="https://www.youtube.com/"><img src="/images/logos/stb-sponsor-logo.png" alt="sg-passion" /></a></div>
 
 **In conjunction with**
