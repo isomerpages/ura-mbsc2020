@@ -20,7 +20,7 @@ permalink: /build-a-dream/projection-show-schedules/
       <br>  
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>8PM - 11.30PM</font>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Know more about the artist</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
 <tr>
     <td>
@@ -32,7 +32,7 @@ permalink: /build-a-dream/projection-show-schedules/
       <br>  
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>8PM - 11.30PM</font>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Know more about the artist</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
 <tr>
     <td>
@@ -44,7 +44,7 @@ permalink: /build-a-dream/projection-show-schedules/
       <br>  
       <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
       <font color="orangered"><br>2PM - 10PM</font>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Know more about the artist</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
      </td>
     </tr>
