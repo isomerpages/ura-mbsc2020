@@ -12,6 +12,7 @@ permalink: /about/acknowledgements/
 
 **Held in**
 <div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/mb-sponsor-logo.png" alt="marina" /></a></div>
+<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/stb-sponsor-logo.png" alt="marina" /></a></div>
 
 **In conjunction with**
 
