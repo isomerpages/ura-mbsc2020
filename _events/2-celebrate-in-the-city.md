@@ -12,7 +12,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>8 November 2019 - 5 January 2020</font>
       <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
-      <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called Nisse adds to the festive cheer.
+      <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called nisse adds to the festive cheer.
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
       <br>
@@ -25,7 +25,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
       <br>Marina Bay comes aglow with over 150 specially-designed physical and digital Christmas trees in celebration of community heroes at ChariTrees 2019. 
       <br>
-      <br>Be dazzeld by Luminous, Art and Traditional ChristmasTrees as well as Augmented Reality Christmas Trees of different themes.  Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
+      <br>Be dazzeld by Luminous, Art and Traditional Christmas Trees as well as Augmented Reality Christmas Trees of different themes.  Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
       <br>
       <br>ChariTrees 2019 is organised by The RICE Company Ltd and is a fundraiser for The Business Times Budding Artists Fund.
       <font color="orangered"><b><br><a href="https://www.therice.sg">Find out more</a></b></font>
@@ -45,7 +45,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>30 November 2019 - 5 January 2020</font>
       <font color="orangered"><br> ArtScience Museum </font>
       <br>  
-      <br>Celebrate this festive season with a special interactive installation in Future World: Where Art Meets Science - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
+      <br>Celebrate this festive season with a special interactive installation in <i>Future World: Where Art Meets Science</i> - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
       <font color="orangered"><b><br><a href="https://www.marinabaysands.com/artsciencemuseum">Find out more.</a></b></font>
       <br>
       <br>
@@ -72,7 +72,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>15 December 2019 - 14 January 2020</font>
       <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
-      <br>Take a peek into the #futuretogether – a digital art exhibition presented by Gardens by the Bay and designed by teamLab in support of the Singapore Bicentennial. Experience the magical interactivity that Japan’s teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.
+      <br>Take a peek into #futuretogether – a digital art exhibition presented by Gardens by the Bay and designed by teamLab in support of the Singapore Bicentennial. Experience the magical interactivity that Japan’s teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
       <br>
@@ -81,7 +81,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
-      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
+      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find out more</a></b></font>
       <br>
 
