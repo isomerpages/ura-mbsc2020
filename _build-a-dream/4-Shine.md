@@ -1,4 +1,3 @@
-
 ---
 title: SHINE Children and Youth Services
 permalink: /build-a-dream/about/shine
