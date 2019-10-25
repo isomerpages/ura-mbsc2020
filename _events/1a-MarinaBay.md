@@ -7,7 +7,6 @@ third_nav_title: New Year's Eve
 # Marina Bay
 <font color="orangered"><b>Join us as we ring in the new year!</b></font>
 <br>      
-      <br>
     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/MBSC2020KV.jpg" /></a>
       <font color="orangered"><b>Fireworks</b></font>
       <font color="orangered"><br>31 December 2019</font>
