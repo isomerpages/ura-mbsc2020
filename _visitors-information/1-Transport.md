@@ -1,6 +1,6 @@
 ---
 title: Transport
-permalink: /_visitor-information/transport
+permalink: /_visitors-information/transport
 ---
 
 # Event Map  
