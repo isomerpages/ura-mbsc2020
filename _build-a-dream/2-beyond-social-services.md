@@ -10,7 +10,7 @@ The second youngest of five siblings, Nursyahran is excited to start primary sch
 <br>
 <br>
 Like many children his age, Nursyahran dreams of going on holiday with his family. More importantly, he also hopes to be able to enroll in university in future. Help Nursyahran and other kids like him achieve their dreams by making a festive donation today! 
-<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge to Donate</a></b></font>
+<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge a Donation</a></b></font>
 <br>
       
 # About Beyond Social Services
