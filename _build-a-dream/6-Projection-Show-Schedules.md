@@ -1,9 +1,9 @@
 ---
-title: Projection Show Schedules
-permalink: /build-a-dream/projection-show-schedules/
+title: Projection Show Schedule
+permalink: /build-a-dream/projection-show-schedule/
 ---
 
-# Schedule for Build A Dream Projections
+# Schedule for Build a Dream Light Projection Shows
 
 <br>
 <table class="table-v">
@@ -36,7 +36,7 @@ permalink: /build-a-dream/projection-show-schedules/
       <br>
 <tr>
     <td>
-     <font color="orangered"><b>Artscience Museum</b></font>
+     <font color="orangered"><b>ArtScience Museum</b></font>
     </td>
     <td>
       <font color="orangered">29 - 31 December 2019</font>
