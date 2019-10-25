@@ -24,6 +24,7 @@ sections:
           description:
     - carousel:
        - title:
+         subtitle: 
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
@@ -51,10 +52,10 @@ sections:
          subtitle: Esplanade Presents Voices - A Festival of Song
          image: /images/Voices(C).jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title:
+       - title:#futuretogether
          subtitle: "#futuretogether"
          image: /images/futuretogether(C).jpg
-         alt: #futuretogether
+         alt: future-together
        - title:
          subtitle: Uncle Ringo Presents: The Great Circus of Europe
          image: /images/uncleringoC.jpg
