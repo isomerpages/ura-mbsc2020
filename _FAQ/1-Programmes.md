@@ -16,7 +16,7 @@ Click <a href="https://ura-mbsc2020-staging.netlify.com/about/marina-bay-singapo
 
 #### 3. Is there an age limit for Celebrate in the City activities?
 
-Answer: There are activities catered to people of different profiles, interests and demographics. Restrictions may apply for certain activities, such as height restrictions for specific rides at Uncle Ringo Presents: The Great European Circus, and age restrictions for the purchase and consumption of alcohol. 
+There are activities catered to people of different profiles, interests and demographics. Restrictions may apply for certain activities, such as height restrictions for specific rides at Uncle Ringo Presents: The Great European Circus, and age restrictions for the purchase and consumption of alcohol. 
 
 #### 4. Is Celebrate in the City ticketed? 
 
