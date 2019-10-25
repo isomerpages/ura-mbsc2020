@@ -1,4 +1,4 @@
 ---
 title: Road Closures
-permalink: /_visitors-information/road-closures
+permalink: /_visitor-information/road-closures
 ---
