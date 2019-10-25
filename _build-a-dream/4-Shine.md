@@ -4,8 +4,8 @@ permalink: /build-a-dream/about/shine
 ---
 # “My hope is for youths in Singapore to be able to achieve their dreams.”   
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Jia_En.jpg" /></a>
-# About Jia En
-**Jia En,14 years old**
+# Jia En,14 years old
+**About Jia En**
 
 > **My hope is for youths in Singapore to be able to achieve their dreams**
 
