@@ -14,7 +14,7 @@ Xuan Ying joined the Dyslexia Association of Singapore (DAS) in 2015, which prov
 <br>
 <br>
 If you want to help Xuan Ying and many others with different learning needs grow in confidence, make a donation today!
-<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge to Donate</a></b></font>
+<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge a Donation</a></b></font>
 <br>
       
 # About Dyslexia Association of Singapore 
