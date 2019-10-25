@@ -31,7 +31,6 @@ permalink: /about/acknowledgements/
 **Prime Sponsor**
 
 <div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/mbs.png" alt="marina bay sands" /></a></div>
-</div>
 
 **Major Supporter**
 
