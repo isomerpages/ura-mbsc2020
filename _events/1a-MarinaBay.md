@@ -12,6 +12,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
       <br>
+      <br>
       Info about best Vantage Points
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">PDF</a></b></font>
       <br>
