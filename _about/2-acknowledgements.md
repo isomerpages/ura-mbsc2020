@@ -24,8 +24,8 @@ permalink: /about/acknowledgements/
 
 **Principal Sponsors**
 
-<div style="width:50%"><a href="https://www.google.com"><img src="/images/logos/dbs-sponsor-logo.png" alt="dbs" /></a></div>
-<div style="width:50%"><a href="https://www.google.com"><img src="/images/logos/fullerton-sponsor-logo.png" alt="fullerton" /></a></div>
+<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/dbs-sponsor-logo.png" alt="dbs" /></a></div>
+<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/fullerton-sponsor-logo.png" alt="fullerton" /></a></div>
 
 **Prime Sponsor**
 
