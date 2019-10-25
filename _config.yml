@@ -9,7 +9,7 @@ collections:
     output: true
   build-a-dream:
     output: true
-  visitors-information:
+  visitor-information:
     output: true
   FAQ:
     output: true
