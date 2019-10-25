@@ -21,9 +21,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b>Connaught Drive</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Connaught Drive </font>
-      <br>  
       <br>TBC
-      <br>
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
       <br>
@@ -38,21 +36,18 @@ third_nav_title: New Year's Eve
      <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/Victoria.jpg" /></a>
       <font color="orangered"><b>Victoria Theatre and Concert Hall (TBC)</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> Victoria Theatre and Concert Hal </font>
-      <br>  
+      <font color="orangered"><br> Victoria Theatre and Concert Hall </font>
       <br> Enjoy lush tunes and exciting melodies with The Philharmonic Orchestra - led by Lin Juan and Edward Tan. There will be champagne in Victoria Concert Hall, and fireworks over Empress Lawn, so dance and sing, and ring in 2020 with us!
-      <br>
       <font color="orangered"><b><br><a href="https://www.sistic.com.sg/events/nye1219">Find out more</a></b></font>
       <br>
+      <br>
     <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/" /></a>
-      <font color="orangered"><b>The Arts House (TBC)</b></font>
+      <font color="orangered"><b>The Arts House</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> The Arts House </font>
-      <br>  
+      <font color="orangered"><br>The Arts House</font>
       <br> What better way to usher in the New Year than to acknowledge the pioneering efforts of Singapore's heritage conservation at the Marjorie Doggett Exhibition! The Arts House's opening hours has been extended to midnight on 31 December 2019. 
       <br>
       <br> Images courtesy of National Archives of Singapore. Copyright 2019 National Archives of Singapore.
-      <br>
       <font color="orangered"><b><br><a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition">Find out more</a></b></font>
       <br>
 
