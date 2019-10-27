@@ -5,7 +5,7 @@ permalink: /build-a-dream/about/yishun-community-hospital
 
 # “Our dream is for Singapore to help our elderly age actively.”  
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/YishunCommmunityHospital.jpg"/></a>
-# Yan, 55 years old and Kassie, 46 years old (Volunteer artists)
+# Yan and Kassie, Volunteer artists
 **About Yan and Kassie**
 <br>
 Yishun Community Hospital, a medical institution under Yishun Health, is one of Singapore's largest community hospitals that provides rehabilitation services. These services focus on helping patients recover and regain their health and daily functions through therapy and education.
