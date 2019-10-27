@@ -35,7 +35,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
+     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/" /></a>
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>7pm - 12.30am</font>
@@ -45,7 +45,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="toggle.sg/letscelebrate2020">Find out more</a></b></font>
       <br>
       <br>      
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
+     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1 - 5 & 9 - 31 December 2019</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
