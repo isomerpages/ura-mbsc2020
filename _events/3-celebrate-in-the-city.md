@@ -24,9 +24,7 @@ permalink: /events/celebrate-in-the-city/
       <br>ChariTrees 15 November 2019 - 26 December 2019 Marina Bay Precinct
       <br>
       <br>Marina Bay comes aglow with over 150 specially-designed physical and digital Christmas trees in celebration of community heroes at ChariTrees 2019. 
-      <br>
       <br>Be dazzeld by Luminous, Art and Traditional Christmas Trees as well as Augmented Reality Christmas Trees of different themes.  Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
-      <br>
       <br>ChariTrees 2019 is organised by The RICE Company Ltd and is a fundraiser for The Business Times Budding Artists Fund.
       <font color="orangered"><b><br><a href="https://www.therice.sg">Find out more</a></b></font>
       <br>
