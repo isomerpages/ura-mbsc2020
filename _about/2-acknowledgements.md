@@ -24,13 +24,13 @@ permalink: /about/acknowledgements/
 
 **Principal Sponsors**
 
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/DBS.png" alt="DBS" /></a></div>
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/Fullerton.png" alt="Fullerton" /></a></div>
+<div style="width:10%"><a href="https://www.google.com"><img src="/images/logos/DBS.png" alt="DBS" /></a></div>
+<div style="width:10%"><a href="https://www.google.com"><img src="/images/logos/Fullerton.png" alt="Fullerton" /></a></div>
 
 **Prime Sponsor**
 
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/MBS.png" alt="marina bay sands" /></a></div>
+<div style="width:10%"><a href="https://www.google.com"><img src="/images/logos/MBS.png" alt="marina bay sands" /></a></div>
 
 **Major Supporter**
 
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/OUE.png" alt="OUE" /></a></div>
+<div style="width:10%"><a href="https://www.google.com"><img src="/images/logos/OUE.png" alt="OUE" /></a></div>
