@@ -3,7 +3,7 @@ title: SHINE Children and Youth Services
 permalink: /build-a-dream/about/shine
 ---
 # “My hope is for youths in Singapore to be able to achieve their dreams.”   
-<a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/Shine.jpg" /></a>
+<a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaDShine.jpg" /></a>
 # Jia En,14 years old
 **About Jia En**
 
