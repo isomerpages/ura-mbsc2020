@@ -4,7 +4,7 @@ permalink: /build-a-dream/about/yishun-community-hospital
 ---
 
 # “Our dream is for Singapore to help our elderly age actively.”  
-<a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaD2.jpg"/></a>
+<a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/YishunCommmunityHospital.jpg"/></a>
 # Yan, 55 years old and Kassie, 46 years old (Volunteer artists)
 **About Yan and Kassie**
 <br>
