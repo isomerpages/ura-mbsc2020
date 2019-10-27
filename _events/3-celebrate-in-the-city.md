@@ -7,7 +7,7 @@ permalink: /events/celebrate-in-the-city/
 <font color="orangered"><b>List of events for Celebrate In The City!</b></font>
 <br>
     <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/PoinsettiaWishes(M).jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
       <font color="orangered"><br>8 November 2019 - 5 January 2020</font>
       <font color="orangered"><br> Gardens by the Bay </font>
@@ -16,7 +16,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.therice.sg"> <img src="/images/ChariTrees2019(M).jpg" /></a>
+     <a href="https://www.therice.sg"> <img src="/images/(M)ChariTrees2019.jpg" /></a>
       <font color="orangered"><b>ChariTrees</b></font>
       <font color="orangered"><br>15 November 2019 - 26 December 2019</font>
       <font color="orangered"><br> Marina Bay Precinct </font>
@@ -31,7 +31,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.therice.sg">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.christmaswonderland.sg"> <img src="/images/ChristmasWonderland(M).jpg" /></a>
+     <a href="https://www.christmaswonderland.sg"> <img src="/images/(M)ChristmasWonderland2019.jpg" /></a>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
       <font color="orangered"><br>29 November 2019 - 26 December 2019</font>
       <font color="orangered"><br> Gardens by the Bay </font>
@@ -40,7 +40,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.christmaswonderland.sg">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/ASM.jpg" /></a>
+     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/(M)ChristmasAtASM.jpg" /></a>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
       <font color="orangered"><br>30 November 2019 - 5 January 2020</font>
       <font color="orangered"><br> ArtScience Museum </font>
@@ -49,7 +49,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.marinabaysands.com/artsciencemuseum">Find out more.</a></b></font>
       <br>
       <br>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/EsplanadePresentsComeTogether(M).jpg" /></a>
+     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1-31 December 2019</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
@@ -58,7 +58,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.esplanade.com/voices"> <img src="/images/Voices.jpg" /></a>
+     <a href="https://www.esplanade.com/voices"> <img src="/images/(M)Esplanade-Voices.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Voices - A Festival of Song</b></font>
       <font color="orangered"><br>6-8 December 2019</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
@@ -67,7 +67,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.esplanade.com/voices">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/futuretogether(M).jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/(M)futuretogether.jpg" /></a>
       <font color="orangered"><b>#futuretogether</b></font>
       <font color="orangered"><br>15 December 2019 - 14 January 2020</font>
       <font color="orangered"><br> Gardens by the Bay </font>
@@ -76,7 +76,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/UncleRingoGCE.jpg" /></a>
+     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Bayfront Event Space </font>
