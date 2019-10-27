@@ -5,18 +5,18 @@ permalink: /about/acknowledgements/
 ## Our Sponsors and Partners
 
 **Presented by**
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/uralogo.png" alt="URA" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/URA.png" alt="URA" /></a></div>
 
 **Managed by**
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/pico.png" alt="pico" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/PicoPro.png" alt="PicoPro" /></a></div>
 
 **Held in**
-<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/mb-sponsor-logo.png" alt="marina" /></a></div>
-<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/stb-sponsor-logo.png" alt="marina" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/MB.png" alt="MarinaBay" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/PMP.png" alt="PassionMadePossible" /></a></div>
 
 **In conjunction with**
 
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/citc.jpg" alt="celebrate-in-the-city" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/CitC.png" alt="celebrate-in-the-city" /></a></div>
 
 **Community Partner**
 
@@ -24,12 +24,12 @@ permalink: /about/acknowledgements/
 
 **Principal Sponsors**
 
-<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/dbs-sponsor-logo.png" alt="dbs" /></a></div>
-<div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/fullerton-sponsor-logo.png" alt="fullerton" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/DBS.png" alt="DBS" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/Fullerton.png" alt="Fullerton" /></a></div>
 
 **Prime Sponsor**
 
-<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/mbs.png" alt="marina bay sands" /></a></div>
+<div style="width:20%"><a href="https://www.google.com"><img src="/images/logos/MBS.png" alt="marina bay sands" /></a></div>
 
 **Major Supporter**
 
