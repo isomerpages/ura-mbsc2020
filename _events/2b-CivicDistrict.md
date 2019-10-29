@@ -26,7 +26,7 @@ third_nav_title: New Year's Eve
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
       <font color="orangered"><b>New Year's Eve@Asian Civilisations Museum, 10am - 10pm</b></font>
-      <font color="orangered"><b>Extended Opening Hours Till 10pm</b></font>
+      <font color="orangered"><br> Extended Opening Hours till 10pm </font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Asian Civilisations Museum </font>  
       <br>Bid goodbye to the old and ring in the new! End the year by exploring ACM’s galleries of exquisite Asian art. For a late night breather, create some fun crafts with the kids, then round off 2019 by catching the New Year’s Eve fireworks from the ACM Green. Families and kids, young and old, all are welcome!
