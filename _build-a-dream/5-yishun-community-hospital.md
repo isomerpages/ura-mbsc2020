@@ -15,7 +15,7 @@ At Yishun Health, Yan, Kassie, and their fellow dedicated volunteers play an act
 <br>
 <br>
 From the Pioneer to Merdeka Generations, our seniors have selflessly given themselves to building and growing our nation. Little gestures can make a big difference. Give back to the community (and to our seniors) by volunteering your time today!
-<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge a Donation</a></b></font>
+<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge to Volunteer</a></b></font>
 <br>
 # About Yishun Community Hospital 
 Opened in 2016, Yishun Community Hospital is one of Singapore's largest community hospitals to provide rehabilitation services. Situated next to acute-care Khoo Teck Puat Hospital, the two hospitals are connected by sky link bridges and bring about an integrated care experience for patients, through connected network of healthcare teams, information flow and treatment plans. 
