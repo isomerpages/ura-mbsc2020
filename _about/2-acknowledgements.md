@@ -16,7 +16,7 @@ permalink: /about/acknowledgements/
 
 **In conjunction with**
 
-<div style="width:10%"><a href="https://www.google.com"><img src="/images/logos/citc.jpg" alt="celebrate-in-the-city" /></a></div>
+<div style="width:5%"><a href="https://www.google.com"><img src="/images/logos/citc.jpg" alt="celebrate-in-the-city" /></a></div>
 
 **Community Partner**
 
