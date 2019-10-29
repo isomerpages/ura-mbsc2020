@@ -44,7 +44,7 @@ Together, let’s Build a Dream
       <br>
      <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/" /></a>
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
-      <font color="orangered"><br>31 December 2019,7pm - 12.30am</font>
+      <font color="orangered"><br>31 December 2019, 7pm - 12.30am</font>
       <font color="orangered"><br>Doors open @ 7pm</font>
       <font color="orangered"><br> The Promontory </font>
       <br>  
@@ -73,7 +73,7 @@ Together, let’s Build a Dream
       <br>      
     <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
-      <font color="orangered"><br>31 December 2019 Museum 10am - 10pm</font>
+      <font color="orangered"><br>31 December 2019 Museum, 10am - 10pm</font>
       <font color="orangered"><br>Extended closing time till 10pm</font>
       <font color="orangered"><br> Red Dot Design Museum </font>
       <br>  
