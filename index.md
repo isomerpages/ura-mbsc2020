@@ -28,36 +28,36 @@ sections:
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title: 
-         subtitle: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
+         subtitle: 
          image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
          alt: Poinsettia Wishes Floral Display
-       - title: 
-         subtitle: ChariTrees 2019
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">ChariTrees 2019</a></b></font>
+         subtitle: 
          image: /images/Carousel-images/(C)ChariTrees2019.jpg
          alt: ChariTrees-2019
-       - title: 
-         subtitle: Christmas Wonderland 2019<br><br>
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Christmas Wonderland 2019</a></b></font>
+         subtitle: 
          image: /images/Carousel-images/(C)ChristmasWonderland2019.jpg
          alt: Christmas-Wonderland-2019
-       - title: 
-         subtitle: Christmas At ArtScience Museum 
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Christmas At ArtScience Museum</a></b></font>
+         subtitle:  
          image: /images/Carousel-images/(C)ChristmasAtASM.jpg
          alt: Christmas-At-ArtScience-Museum
-       - title:  
-         subtitle: Esplanade Presents Come Together 
+       - title:  <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Esplanade Presents Come Together</a></b></font>
+         subtitle:  
          image: /images/Carousel-images/(C)EsplandePresentsComeTogether.jpg
          alt: Esplanade-Presents-Come-Together
-       - title: 
-         subtitle: Esplanade Presents Voices - A Festival of Song 
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Esplanade Presents Voices - A Festival of Song</a></b></font>
+         subtitle:  
          image: /images/Carousel-images/(C)EsplandePresentsVoices.jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: 
-         subtitle: "#futuretogether" 
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">"#futuretogether"</a></b></font>
+         subtitle:  
          image: /images/Carousel-images/(C)futuretogether.jpg
          alt: #futuretogether
-       - title: 
-         subtitle: Uncle Ringo Presents The Great Circus of Europe 
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Uncle Ringo Presents The Great Circus of Europe</a></b></font>
+         subtitle:  
          image: /images/Carousel-images/(C)UncleRingoGCE.jpg
          alt: Ringo's Circus
     - infopic:
