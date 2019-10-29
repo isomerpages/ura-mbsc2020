@@ -7,23 +7,23 @@ permalink: /events/celebrate-in-the-city/
 <font color="orangered"><b>List of events for Celebrate In The City!</b></font>
 <br>
     <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
+     <a href="https://gardensbythebay.com.sg/poinsettia"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
       <font color="orangered"><br>8 November 2019 - 5 January 2020</font>
       <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
       <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called nisse adds to the festive cheer.
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://gardensbythebay.com.sg/poinsettia">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.therice.sg"> <img src="/images/(M)ChariTrees2019.jpg" /></a>
+     <a href="http://facebook.com/BTBAF"> <img src="/images/(M)ChariTrees2019.jpg" /></a>
       <font color="orangered"><b>ChariTrees</b></font>
       <font color="orangered"><br>15 November 2019 - 26 December 2019</font>
       <font color="orangered"><br> Marina Bay Precinct </font>
       <br>  
       <br>Marina Bay comes aglow with over 150 specially-designed physical and digital Christmas trees in celebration of community heroes at ChariTrees 2019.Be dazzeld by Luminous, Art and Traditional Christmas Trees as well as Augmented Reality Christmas Trees of different themes.  Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
       <br>ChariTrees 2019 is organised by The RICE Company Ltd and is a fundraiser for The Business Times Budding Artists Fund.
-      <font color="orangered"><b><br><a href="https://www.therice.sg">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="http://facebook.com/BTBAF">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.christmaswonderland.sg"> <img src="/images/(M)ChristmasWonderland2019.jpg" /></a>
@@ -71,12 +71,12 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
+     <a href="https://www.uncleringo.com.circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
-      <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.uncleringo.com.circus">Find Out More</a></b></font>
       <br>
 
