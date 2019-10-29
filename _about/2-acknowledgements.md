@@ -4,17 +4,17 @@ permalink: /about/acknowledgements/
 ---
 ## Our Sponsors and Partners
 
-**Presented by**
+**Presented By**
 <div style="width:20%"><a href="https://www.ura.gov.sg/Corporate"><img src="/images/logos/uralogo.png" alt="URA" /></a></div>
 
-**Managed by**
+**Managed By**
 <div style="width:20%"><a href="https://www.pico.com/en/"><img src="/images/logos/pico.png" alt="pico" /></a></div>
 
 **Held in**
 <div style="width:30%"><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="/images/logos/PMP.png" alt="stb" /></a></div>
 <div style="width:30%"><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="/images/logos/MB.png" alt="stb" /></a></div>
 
-**In conjunction with**
+**In Conjunction With**
 
 <div style="width:10%"><a href="https://www.google.com"><img src="/images/logos/citc.jpg" alt="celebrate-in-the-city" /></a></div>
 
