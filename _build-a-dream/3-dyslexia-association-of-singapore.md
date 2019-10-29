@@ -13,9 +13,7 @@ Xuan Ying is passionate about art, having developed an interest in drawing and p
 Xuan Ying joined the Dyslexia Association of Singapore (DAS) in 2015, which provided guidance for her individual needs, and helped her lay a foundation in literacy. Her reading and spelling abilities have since soared, providing a welcome boost to her self-esteem. Nowadays, it is common to see her with a book in hand, enjoying a good read.
 <br>
 <br>
-If you want to help Xuan Ying and many others with different learning needs grow in confidence, make a donation today!
-<br>
-##### <font color="orangered"><b><br><a href="www.giving.sg/campaigns/Build_a_Dream_Dyslexia_Association_of_Singapore">Pledge to Donate</a></b></font>
+If you want to help Xuan Ying and many others with different learning needs grow in confidence, make a donation today!<font color="orangered"><b><br><a href="www.giving.sg/campaigns/Build_a_Dream_Dyslexia_Association_of_Singapore">Pledge to Donate</a></b></font>
 <br>
       
 # About Dyslexia Association of Singapore 
