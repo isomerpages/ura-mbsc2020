@@ -4,11 +4,11 @@ permalink: /build-a-dream/about/shine
 ---
 # “My hope is for youths in Singapore to be able to achieve their dreams.”   
 <a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaDShine.jpg" /></a>
-# Jia En,14 years old
-**About Jia En**
-
-
+## Jia En, 14 years old
+**About Jia En**<br>
 Jia En was placed in The Scaffold Programme in 2018, in partnership with SHINE Children and Youth Services. During groupwork sessions, Jia En often shares with her peers and social workers that she aspires to become an artist or art teacher in the future. Through the sessions and her art, Jia En has learnt to better manage her emotions whenever she feels upset or angry. They’ve also allowed her to bond with and better understand her classmates.
+<br>
+<br>
 There are many youths with learning and socio-emotional difficulties in Singapore. SHINE strongly believes that every child has the potential to achieve their dreams and be contributing members of our society if given the right guidance, and you can help by making a donation this festive season!
 <font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge a Donation</a></b></font>
 <br>
