@@ -6,7 +6,7 @@ image: /images/
 permalink: /
 notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Events</a> Page for more details 
 sections:
-  - hero:
+    - hero:
         title: 31 December 2019
         subtitle: Join us as we ring in the new year
         background: /images/HeroBanner2.gif
@@ -21,49 +21,48 @@ sections:
           description: Be a Builder of Dreams
         - title: Events 
           url: /events/whats-on/marina-bay
-          description:
-  - carousel:
-       - title:
-         subtitle: 
+          description:        
+    - carousel:
+       - title:  
          image: /images/CitC(C).jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title:
-         subtitle: Poinsettia Wishes Floral Display
-         image: /images/PoinsettiaWishesC.jpg
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
+         subtitle: Gardens By The Bay
+         image: /images/PoinsettiaWishes(C).jpg
          alt: Poinsettia Wishes Floral Display
-       - title:
-         subtitle: ChariTrees 2019
-         image: /images/ChariTreesC.jpg
+       - title: ChariTrees 2019
+         subtitle: Marina Bay Precinct
+         image: /images/ChariTrees2019(C).jpg
          alt: ChariTrees-2019
-       - title:
-         subtitle: Christmas Wonderland 2019
+       - title: Christmas Wonderland 2019
+         subtitle: Gardens By The Bay 
          image: /images/ChristmasWonderland(C).jpg
          alt: Christmas-Wonderland-2019
-       - title:
-         subtitle: Christmas At ArtScience Museum
-         image: /images/AsmC.jpg
+       - title: Christmas At ArtScience Museum
+         subtitle: ArtScience Museum 
+         image: /images/ChristmasAtASM(C).jpg
          alt: Christmas-At-ArtScience-Museum
-       - title:
-         subtitle: Esplanade Presents Come Together
+       - title: Esplanade Presents Come Together 
+         subtitle: Esplanade - Theatres By The Bay, Singapore 
          image: /images/ComeTogether(C).jpg
          alt: Esplanade-Presents-Come-Together
-       - title:
-         subtitle: Esplanade Presents Voices - A Festival of Song
+       - title: Esplanade Presents Voices - A Festival of Song
+         subtitle: Esplanade - Theatres By The Bay, Singapore 
          image: /images/Voices(C).jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title:#futuretogether
-         subtitle: "#futuretogether"
+       - title: "#futuretogether"
+         subtitle: Gardens By The Bay 
          image: /images/futuretogether(C).jpg
-         alt: future-together
-       - title:
-         subtitle: Uncle Ringo Presents: The Great Circus of Europe
-         image: /images/uncleringoC.jpg
+         alt: #futuretogether
+       - title: Ringo's Circus
+         subtitle: Bayfront Event Space 
+         image: /images/
          alt: Ringo's Circus
-  - infopic:
+    - infopic:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
-         image: /images/SponsorAckHome.png
+         image: /images/SponsorLogo(H).png
          alt: Sponsors  
 ---
