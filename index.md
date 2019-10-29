@@ -24,6 +24,7 @@ sections:
           description:        
     - carousel:
        - title:  Celebrate In The City
+         subtitle:             
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
