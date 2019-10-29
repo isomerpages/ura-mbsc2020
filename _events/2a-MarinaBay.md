@@ -56,11 +56,7 @@ Together, let’s Build a Dream
       <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits <em>Come Together</em> for a time of collaboration, reflection and revelry.  
-<br>
-<br>
 In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.   
-<br>
-<br>
 Apart from free live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays. Special weekend pop-up performances around the centre also await you at <em>Come Together</em>.
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find Out More</a></b></font>
       <br>
