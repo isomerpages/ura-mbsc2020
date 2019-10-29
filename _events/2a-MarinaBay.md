@@ -64,7 +64,7 @@ Together, let’s Build a Dream
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020, TIME TBC</font>
-      <font color="orangered"><br>Two Shows On Weekdays, Three Shows On Weekends</font>
+      <font color="orangered"><br>Refer To Show Schedule</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
