@@ -24,40 +24,40 @@ sections:
           description:        
     - carousel:
        - title:  
-         image: /images/CitC(C).jpg
+         image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
        - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
          subtitle: Gardens By The Bay
-         image: /images/(M)PoinsettiaWishes.jpg
+         image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
          alt: Poinsettia Wishes Floral Display
        - title: ChariTrees 2019
          subtitle: Marina Bay Precinct
-         image: /images/ChariTrees2019(C).jpg
+         image: /images/Carousel-images/(C)ChariTrees2019.jpg
          alt: ChariTrees-2019
        - title: Christmas Wonderland 2019
          subtitle: Gardens By The Bay 
-         image: /images/ChristmasWonderland(C).jpg
+         image: /images/Carousel-images/(C)ChristmasWonderland2019.jpg
          alt: Christmas-Wonderland-2019
        - title: Christmas At ArtScience Museum
          subtitle: ArtScience Museum 
-         image: /images/ChristmasAtASM(C).jpg
+         image: /images/Carousel-images/(C)ChristmasAtASM.jpg
          alt: Christmas-At-ArtScience-Museum
        - title: Esplanade Presents Come Together 
          subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/ComeTogether(C).jpg
+         image: /images/Carousel-images/(C)EsplandePresentsComeTogether.jpg
          alt: Esplanade-Presents-Come-Together
        - title: Esplanade Presents Voices - A Festival of Song
          subtitle: Esplanade - Theatres By The Bay, Singapore 
-         image: /images/Voices(C).jpg
+         image: /images/Carousel-images/(C)EsplandePresentsVoices.jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
        - title: "#futuretogether"
          subtitle: Gardens By The Bay 
-         image: /images/futuretogether(C).jpg
+         image: /images/Carousel-images/(C)futuretogether.jpg
          alt: #futuretogether
        - title: Ringo's Circus
          subtitle: Bayfront Event Space 
-         image: /images/
+         image: /images/Carousel-images/(C)UncleRingoGCE.jpg
          alt: Ringo's Circus
     - infopic:
          title: Sponsors
