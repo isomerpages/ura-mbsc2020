@@ -7,14 +7,14 @@ third_nav_title: New Year's Eve
 # Marina Bay
 <font color="orangered"><b>Join us as we ring in the new year!</b></font>
 <br>      
-    <a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf"> <img src="/images/(MB)MBSC2020.jpg" /></a>
+    <a href="-"> <img src="/images/(MB)MBSC2020.jpg" /></a>
       <font color="orangered"><b>Fireworks</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
       <br>
       <br>
-      Info about best Vantage Points
-      <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Find Out More</a></b></font>
+      Stay Tuned For More Updates!
+      <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Stay Tuned For More Updates!</a></b></font>
       <br>
       <br>
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
@@ -22,11 +22,17 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
       <br>  
-      <br>Info about best Vantage Points
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find Out More</a></b></font>
+      <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
+<br>
+<br>
+Countdown with us to a more inclusive Singapore!
+<br>
+<br>
+Together, let’s Build a Dream
+      <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="www.christmaswonderland.sg"> <img src="/images/" /></a>
+     <a href="https://star-island.sg/"> <img src="/images/" /></a>
       <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
