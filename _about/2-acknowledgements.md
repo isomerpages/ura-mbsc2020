@@ -24,8 +24,8 @@ permalink: /about/acknowledgements/
 
 **Principal Sponsors**
 
-<div style="width:30%"><a href="https://www.dbs.com/default.page?gclsrc=aw.ds&&scp=true&gclid=EAIaIQobChMIv5fMjOnA5QIVRyUrCh1DtAEAEAAYASAAEgI_VfD_BwE"><img src="/images/logos/DBS.png" alt="dbs" /></a></div>
-<div style="width:30%"><a href="https://www.fullertonhotels.com/"><img src="/images/logos/Fullerton.png" alt="fullerton" /></a></div>
+<div style="width:20%"><a href="https://www.dbs.com/default.page?gclsrc=aw.ds&&scp=true&gclid=EAIaIQobChMIv5fMjOnA5QIVRyUrCh1DtAEAEAAYASAAEgI_VfD_BwE"><img src="/images/logos/DBS.png" alt="dbs" /></a></div>
+<div style="width:20%"><a href="https://www.fullertonhotels.com/"><img src="/images/logos/Fullerton.png" alt="fullerton" /></a></div>
 
 **Prime Sponsor**
 
