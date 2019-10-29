@@ -27,8 +27,8 @@ sections:
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title: 
-         subtitle: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
+         subtitle: 
          image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
          alt: Poinsettia Wishes Floral Display
        - title: 
@@ -36,7 +36,7 @@ sections:
          image: /images/Carousel-images/(C)ChariTrees2019.jpg
          alt: ChariTrees-2019
        - title: 
-         subtitle: Christmas Wonderland 2019 
+         subtitle: Christmas Wonderland 2019<br><br>
          image: /images/Carousel-images/(C)ChristmasWonderland2019.jpg
          alt: Christmas-Wonderland-2019
        - title: 
