@@ -23,7 +23,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> Around Marina Bay </font>
       <br>  
       <br>Info about best Vantage Points
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find Out More</a></b></font>
       <br>
       <br>
      <a href="www.christmaswonderland.sg"> <img src="/images/" /></a>
@@ -32,7 +32,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>  
       <br>STAR ISLAND is back in Singapore at The Float @ Marina Bay with a new theme - “A Space Odyssey”. This year’s show will feature the debut of a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of elements.
-      <font color="orangered"><b><br><a href="https://star-island.sg/">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://star-island.sg/">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/" /></a>
@@ -42,7 +42,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> The Promontory </font>
       <br>  
       <br>Let’s Celebrate 2020 by Mediacorp is the biggest party in town, located at The Promontory @ Marina Bay. There will be music, dance and fashion, showcasing Singapore’s best talents. Line up includes Jasmine Sokko, Benjamin Kheng, Dru Chen, Glen Wee, Astronauts and more.
-      <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find Out More</a></b></font>
       <br>
       <br>      
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
@@ -51,7 +51,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits  <em>Come Together</em>  for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
-      <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
@@ -60,7 +60,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
-      <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>
       <br>      
     <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
@@ -69,5 +69,5 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> Red Dot Design Museum </font>
       <br>  
       <br> A boutique museum along the waterfront promenade at the Marina Bay, the Red Dot Design Museum joins the new year party with extended hours on 31 Dec until 12 midnight! Check out the specially curated exhibition "Human-Nature” that explores the nature of humans in a world where we co-exist with robots, big data and machine learning. The museum also has one of the best design shops with a big collection of design products sourced from around the globe. Dine at the museum cafe and replenish your energy while you wait for the fireworks shows. Lounge at the museum outdoor seats with your loved ones for a great view of the waterfront. 
-      <font color="orangered"><b><br><a href="https://www.museum.red-dot.sg">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.museum.red-dot.sg">Find Out More</a></b></font>
       <br>
