@@ -3,7 +3,7 @@ title: Marina Bay Singapore Countdown 2020
 permalink: /about/marina-bay-singapore-countdown/
 ---
 
-# MARINA BAY SINGAPORE COUNTDOWN   
+# Marina Bay Singapore Countdown 
 
 Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has become the nation's largest and most spectacular New Year's Eve Celebration.
   
