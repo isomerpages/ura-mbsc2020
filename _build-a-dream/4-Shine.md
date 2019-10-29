@@ -9,8 +9,7 @@ permalink: /build-a-dream/about/shine
 Jia En was placed in The Scaffold Programme in 2018, in partnership with SHINE Children and Youth Services. During groupwork sessions, Jia En often shares with her peers and social workers that she aspires to become an artist or art teacher in the future. Through the sessions and her art, Jia En has learnt to better manage her emotions whenever she feels upset or angry. They’ve also allowed her to bond with and better understand her classmates.
 <br>
 <br>
-There are many youths with learning and socio-emotional difficulties in Singapore. SHINE strongly believes that every child has the potential to achieve their dreams and be contributing members of our society if given the right guidance, and you can help by making a donation this festive season!
-#### <font color="orangered"><b><br><a href="https://www.giving.sg/campaigns/Build_a_Dream_SHINE_Children_and_Youth_Services">Pledge to Donate</a></b></font>
+There are many youths with learning and socio-emotional difficulties in Singapore. SHINE strongly believes that every child has the potential to achieve their dreams and be contributing members of our society if given the right guidance, and you can help by making a donation this festive season!<font color="orangered"><b><br><a href="https://www.giving.sg/campaigns/Build_a_Dream_SHINE_Children_and_Youth_Services">Pledge to Donate</a></b></font>
 <br>
       
 # About SHINE Children and Youth Services 
