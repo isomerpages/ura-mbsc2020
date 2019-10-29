@@ -5,7 +5,6 @@ third_nav_title: New Year's Eve
 ---
 
 # Marina Bay
-<font color="orangered"><b>Join us as we ring in the new year!</b></font>
 <br>      
     <a href="-"> <img src="/images/(MB)MBSC2020.jpg" /></a>
       <font color="orangered"><b>Fireworks</b></font>
@@ -14,7 +13,6 @@ third_nav_title: New Year's Eve
       <br>
       <br>
       Stay Tuned For More Updates!
-      <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Stay Tuned For More Updates!</a></b></font>
       <br>
       <br>
      <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/"> <img src="/images/" /></a>
@@ -48,7 +46,7 @@ Together, let’s Build a Dream
       <font color="orangered"><br>Doors open @ 7pm</font>
       <font color="orangered"><br> The Promontory </font>
       <br>  
-      <br>Let’s Celebrate 2020 by Mediacorp is the biggest party in town, located at The Promontory @ Marina Bay. There will be music, dance and fashion, showcasing Singapore’s best talents. Line up includes Jasmine Sokko, Benjamin Kheng, Dru Chen, Glen Wee, Astronauts and more.
+      <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory@Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
       <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find Out More</a></b></font>
       <br>
       <br>      
@@ -57,7 +55,13 @@ Together, let’s Build a Dream
       <font color="orangered"><br>1 - 5 & 9 - 31 December 2019, TIME TBC</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
       <br>  
-      <br>Celebrate friendships old and new as artists and kindred spirits  <em>Come Together</em>  for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
+      <br>Celebrate friendships old and new as artists and kindred spirits <em>Come Together</em> for a time of collaboration, reflection and revelry.  
+<br>
+<br>
+In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.   
+<br>
+<br>
+Apart from free live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays. Special weekend pop-up performances around the centre also await you at <em>Come Together</em>.
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find Out More</a></b></font>
       <br>
       <br>
