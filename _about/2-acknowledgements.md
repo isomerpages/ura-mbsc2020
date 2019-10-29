@@ -11,8 +11,8 @@ permalink: /about/acknowledgements/
 <div style="width:30%"><a href="https://www.google.com"><img src="/images/logos/pico.png" alt="pico" /></a></div>
 
 **Held in**
-<div style="width:40%"><a href="https://www.google.com"><img src="/images/logos/PMP.png" alt="stb" /></a></div>
-<div style="width:40%"><a href="https://www.google.com"><img src="/images/logos/MB.png" alt="stb" /></a></div>
+<div style="width:40%"><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="/images/logos/PMP.png" alt="stb" /></a></div>
+<div style="width:40%"><a href="https://www.facebook.com/marinabaysg/"><img src="/images/logos/MB.png" alt="stb" /></a></div>
 
 **In conjunction with**
 
