@@ -64,6 +64,6 @@ sections:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
-         image: /images/SponsorAckHome.png
+         image: /images/SponsorAckPage(H).png
          alt: Sponsors  
 ---
