@@ -7,14 +7,14 @@ third_nav_title: New Year's Eve
 # Marina Bay
 <font color="orangered"><b>Join us as we ring in the new year!</b></font>
 <br>      
-    <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/(MB)MBSC2020.jpg" /></a>
+    <a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf"> <img src="/images/(MB)MBSC2020.jpg" /></a>
       <font color="orangered"><b>Fireworks</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
       <br>
       <br>
       Info about best Vantage Points
-      <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">PDF</a></b></font>
+      <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
@@ -35,14 +35,14 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find out more</a></b></font>
       <br>
       <br>
-     <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/" /></a>
+     <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/" /></a>
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>7pm - 12.30am</font>
       <font color="orangered"><br> The Promontory </font>
       <br>  
       <br>Let’s Celebrate 2020 by Mediacorp is the biggest party in town, located at The Promontory @ Marina Bay. There will be music, dance and fashion, showcasing Singapore’s best talents. Line up includes Jasmine Sokko, Benjamin Kheng, Dru Chen, Glen Wee, Astronauts and more.
-      <font color="orangered"><b><br><a href="toggle.sg/letscelebrate2020">Find out more</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find out more</a></b></font>
       <br>
       <br>      
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
@@ -63,7 +63,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find out more</a></b></font>
       <br>
       <br>      
-    <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
+    <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
       <font color="orangered"><br>31 December 2019 (Museum opens till 10pm)</font>
       <font color="orangered"><br> Red Dot Design Museum </font>
