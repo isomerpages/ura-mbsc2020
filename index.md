@@ -6,7 +6,7 @@ image: /images/
 permalink: /
 notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Events</a> Page for more details 
 sections:
-    - hero:
+  - hero:
         title: 31 December 2019
         subtitle: Join us as we ring in the new year
         background: /images/HeroBanner2.gif
@@ -22,7 +22,7 @@ sections:
         - title: Events 
           url: /events/whats-on/marina-bay
           description:
-    - carousel:
+  - carousel:
        - title:
          subtitle: 
          image: /images/CitC(C).jpg
@@ -60,7 +60,7 @@ sections:
          subtitle: Uncle Ringo Presents: The Great Circus of Europe
          image: /images/uncleringoC.jpg
          alt: Ringo's Circus
-    - infopic:
+  - infopic:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
