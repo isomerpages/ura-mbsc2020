@@ -6,8 +6,7 @@ permalink: /build-a-dream/about/yishun-community-hospital
 # “Our dream is for Singapore to help our elderly age actively.”  
 ### <a href="-"> <img src="/images/BaDYishunCommmunityHospital.jpg"/></a>
 # Yan and Kassie
-Volunteer artists<br>
-**About Yan and Kassie**
+**About Yan and Kassie, Volunteer Artists**
 <br>
 Yishun Community Hospital, a medical institution under Yishun Health, is one of Singapore's largest community hospitals that provides rehabilitation services. These services focus on helping patients recover and regain their health and daily functions through therapy and education.
 <br>
