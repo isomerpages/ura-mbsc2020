@@ -17,7 +17,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Stay Tuned For More Updates!</a></b></font>
       <br>
       <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
+     <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/"> <img src="/images/" /></a>
       <font color="orangered"><b>Build a Dream Light Projections</b></font>
       <font color="orangered"><br>December 2019</font>
       <font color="orangered"><br> Around Marina Bay </font>
