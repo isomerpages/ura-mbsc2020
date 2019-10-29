@@ -4,7 +4,7 @@ permalink: /events/celebrate-in-the-city/
 ---
 
 # Celebrate In The City
-<font color="orangered"><b>List of events for Celebrate In The City!</b></font>
+<font color="orangered"><b>INSERT SHORT WRITE UP HERE</b></font>
 <br>
     <br>
      <a href="https://gardensbythebay.com.sg/poinsettia"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
