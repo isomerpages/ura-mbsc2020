@@ -4,7 +4,7 @@ permalink: /build-a-dream/about/dyslexia-association-of-singapore
 ---
 
 # “My hope is for Singapore to continue supporting students with different learning needs.”  
-<a href="www.marinabaysands.com/artsciencemuseum"> <img src="/images/BaDDyslexiaAssociation.jpg"/></a>
+<a href="www.giving.sg/campaigns/Build_a_Dream_Dyslexia_Association_of_Singapore"> <img src="/images/BaDDyslexiaAssociation.jpg"/></a>
 ## Xuan Ying, 11 years old
 **About Xuan Ying**<br>
 Xuan Ying is passionate about art, having developed an interest in drawing and painting at the age of five. She enjoys the creative process of bringing an idea to life on canvas, deriving great satisfaction upon completion of each artwork. Yet, she faces certain challenges in learning, being unable to read and spell most words. In the past, this resulted in her being reluctant to even attempt tasks, since she found the difficulties insurmountable. 
@@ -14,7 +14,7 @@ Xuan Ying joined the Dyslexia Association of Singapore (DAS) in 2015, which prov
 <br>
 <br>
 If you want to help Xuan Ying and many others with different learning needs grow in confidence, make a donation today!
-<font color="orangered"><b><br><a href="www.marinabaysands.com/artsciencemuseum">Pledge a Donation</a></b></font>
+<font color="orangered"><b><br><a href="www.giving.sg/campaigns/Build_a_Dream_Dyslexia_Association_of_Singapore">Pledge to Donate</a></b></font>
 <br>
       
 # About Dyslexia Association of Singapore 
