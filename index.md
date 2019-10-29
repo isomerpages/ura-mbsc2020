@@ -52,7 +52,7 @@ sections:
          subtitle:  
          image: /images/Carousel-images/(C)EsplandePresentsVoices.jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">"#futuretogether"</a></b></font>
+       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">#futuretogether</a></b></font>
          subtitle:  
          image: /images/Carousel-images/(C)futuretogether.jpg
          alt: #futuretogether
