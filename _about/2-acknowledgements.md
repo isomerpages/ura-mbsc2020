@@ -10,7 +10,7 @@ permalink: /about/acknowledgements/
 **Managed By**
 <div style="width:20%"><a href="https://www.pico.com/en/"><img src="/images/logos/pico.png" alt="pico" /></a></div>
 
-**Held in**
+**Held In**
 <div style="width:30%"><a href="https://www.stb.gov.sg/content/stb/en.html"><img src="/images/logos/PMP.png" alt="stb" /></a></div>
 <div style="width:30%"><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="/images/logos/MB.png" alt="stb" /></a></div>
 
