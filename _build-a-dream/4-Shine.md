@@ -13,7 +13,7 @@ There are many youths with learning and socio-emotional difficulties in Singapor
 #### <font color="orangered"><b><br><a href="https://www.giving.sg/campaigns/Build_a_Dream_SHINE_Children_and_Youth_Services">Pledge to Donate</a></b></font>
 <br>
       
-# About Shine Children and Youth Services 
+# About SHINE Children and Youth Services 
   
 SHINE Children and Youth Services has been serving children and youths with learning and socio-emotional difficulties in Singapore since 1976. We remain committed to enabling them to overcome their challenges and maximise their potential. We do this through providing services in schools, in the community and through our centres, for children and youths disadvantaged by their circumstances, present at-risk profiles but will thrive with support. SHINE strongly believes that every child and youth has the potential to achieve and be contributing members of our society.
 
