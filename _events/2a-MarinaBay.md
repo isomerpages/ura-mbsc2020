@@ -12,7 +12,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> Around Marina Bay </font>
       <br>
       <br>
-      Stay Tuned For More Updates!
+      Stay Tune For More Updates!
       <br>
       <br>
      <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/"> <img src="/images/" /></a>
