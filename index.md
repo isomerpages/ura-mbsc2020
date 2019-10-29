@@ -29,7 +29,7 @@ sections:
          url: /events/celebrate-in-the-city/
        - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
          subtitle: Gardens By The Bay
-         image: /images/PoinsettiaWishes(C).jpg
+         image: /images/(M)PoinsettiaWishes.jpg
          alt: Poinsettia Wishes Floral Display
        - title: ChariTrees 2019
          subtitle: Marina Bay Precinct
