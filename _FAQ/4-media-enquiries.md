@@ -4,7 +4,6 @@ permalink: /FAQ/Media Enquiries
 ---
 
 #### For media enquiries, please contact
-<br>
 ### Cheralyn Tan<br>
 Tate Anzur<br>
 cheralyn.tan@tateanzur.com<br>
