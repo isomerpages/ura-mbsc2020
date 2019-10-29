@@ -17,7 +17,7 @@ permalink: /events/celebrate-in-the-city/
       <br>
       <br>
      <a href="http://facebook.com/BTBAF"> <img src="/images/(M)ChariTrees2019.jpg" /></a>
-      <font color="orangered"><b>ChariTrees</b></font>
+      <font color="orangered"><b>ChariTrees 2019</b></font>
       <font color="orangered"><br>15 November 2019 - 26 December 2019</font>
       <font color="orangered"><br> Marina Bay Precinct </font>
       <br>  
