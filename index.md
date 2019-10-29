@@ -27,36 +27,36 @@ sections:
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
-         subtitle: Gardens By The Bay
+       - title: 
+         subtitle: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Poinsettia Wishes Floral Display</a></b></font>
          image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
          alt: Poinsettia Wishes Floral Display
-       - title: ChariTrees 2019
-         subtitle: Marina Bay Precinct
+       - title: 
+         subtitle: ChariTrees 2019
          image: /images/Carousel-images/(C)ChariTrees2019.jpg
          alt: ChariTrees-2019
-       - title: Christmas Wonderland 2019
-         subtitle: Gardens By The Bay 
+       - title: 
+         subtitle: Christmas Wonderland 2019 
          image: /images/Carousel-images/(C)ChristmasWonderland2019.jpg
          alt: Christmas-Wonderland-2019
-       - title: Christmas At ArtScience Museum
-         subtitle: ArtScience Museum 
+       - title: 
+         subtitle: Christmas At ArtScience Museum 
          image: /images/Carousel-images/(C)ChristmasAtASM.jpg
          alt: Christmas-At-ArtScience-Museum
-       - title: Esplanade Presents Come Together 
-         subtitle: Esplanade - Theatres By The Bay, Singapore 
+       - title: 
+         subtitle: Esplanade Presents Come Together 
          image: /images/Carousel-images/(C)EsplandePresentsComeTogether.jpg
          alt: Esplanade-Presents-Come-Together
-       - title: Esplanade Presents Voices - A Festival of Song
-         subtitle: Esplanade - Theatres By The Bay, Singapore 
+       - title: 
+         subtitle: Esplanade Presents Voices - A Festival of Song 
          image: /images/Carousel-images/(C)EsplandePresentsVoices.jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: "#futuretogether"
-         subtitle: Gardens By The Bay 
+       - title: 
+         subtitle: #futuretogether 
          image: /images/Carousel-images/(C)futuretogether.jpg
          alt: #futuretogether
-       - title: Ringo's Circus
-         subtitle: Bayfront Event Space 
+       - title: 
+         subtitle: Uncle Ringo Presents: The Great Circus of Europe 
          image: /images/Carousel-images/(C)UncleRingoGCE.jpg
          alt: Ringo's Circus
     - infopic:
