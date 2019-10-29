@@ -8,20 +8,20 @@ third_nav_title: New Year's Eve
 
 <br>
       <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
+     <a href="-"> <img src="/images/" /></a>
       <font color="orangered"><b>Empress Lawn</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>Empress Lawn</font>  
       <br>TBC
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://-">Find Out More</a></b></font>
       <br>
       <br />
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/" /></a>
+     <a href="-"> <img src="/images/" /></a>
       <font color="orangered"><b>Connaught Drive</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>Connaught Drive</font>  
       <br>TBC
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="-">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
