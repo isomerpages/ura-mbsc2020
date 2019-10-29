@@ -7,4 +7,4 @@ permalink: /build-a-dream/projection-show-schedule/
 
 <br>
 
-# Stay Tuned For More Updates!
+# Stay Tune For More Updates!
