@@ -36,7 +36,7 @@ Together, let’s Build a Dream.
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/" /></a>
+     <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/(MB)Let'sCelebrate.jpg" /></a>
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
       <font color="orangered"><br>31 December 2019, 7pm - 12.30am</font>
       <font color="orangered"><br>Doors open @ 7pm</font>
