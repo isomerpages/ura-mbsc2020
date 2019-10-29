@@ -12,7 +12,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b>Empress Lawn</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>Empress Lawn</font>  
-      <br>TBC
+      <br>Stay Tune For More Updates!
       <font color="orangered"><b><br><a href="https://-">Find Out More</a></b></font>
       <br>
       <br />
@@ -20,7 +20,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b>Connaught Drive</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>Connaught Drive</font>  
-      <br>TBC
+      <br>Stay Tune For More Updates!
       <font color="orangered"><b><br><a href="-">Find Out More</a></b></font>
       <br>
       <br>
