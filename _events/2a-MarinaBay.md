@@ -21,11 +21,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> The Fullerton Hotel, ArtScience Museum and The Merlion </font>
       <br>  
       <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
-<br>
-<br>
 Countdown with us to a more inclusive Singapore!
-<br>
-<br>
 Together, let’s Build a Dream
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/">Find Out More</a></b></font>
       <br>
