@@ -1,5 +1,5 @@
 ---
-title: Second Press Release
+title: MBSC Second Press Release
 permalink: /news/press-releases/second-press-release/
 image: /images/Christmas@ASM(M).jpg
 description: Testing for resource room for upcoming MBSC newsletters and press reports
