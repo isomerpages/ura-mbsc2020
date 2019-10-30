@@ -63,7 +63,6 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Refer To Find Out More For Show Schedule </font>
-      <font color="orangered"><br>Refer To Show Schedule</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay.Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
@@ -73,7 +72,7 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
     <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
       <font color="orangered"><br>31 December 2019 Museum, 10am - 10pm</font>
-      <font color="orangered"><br>Extended closing time till 10pm</font>
+      <font color="orangered"><br>Extended Closing Time Till 10pm</font>
       <font color="orangered"><br> Red Dot Design Museum </font>
       <br>  
       <br> A boutique museum along the waterfront promenade at the Marina Bay, the Red Dot Design Museum joins the new year party with extended hours on 31 Dec until 12 midnight! Check out the specially curated exhibition "Human-Nature” that explores the nature of humans in a world where we co-exist with robots, big data and machine learning. The museum also has one of the best design shops with a big collection of design products sourced from around the globe. Dine at the museum cafe and replenish your energy while you wait for the fireworks shows. Lounge at the museum outdoor seats with your loved ones for a great view of the waterfront. 
