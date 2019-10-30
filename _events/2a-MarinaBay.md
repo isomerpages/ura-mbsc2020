@@ -27,7 +27,7 @@ Together, let’s Build a Dream.
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://star-island.sg/"> <img src="/images/" /></a>
+     <a href="https://star-island.sg/"> <img src="/images/(MB)StarIsland1.jpg" /></a>
       <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020, Show Starts at 10.40pm</b></font>
       <font color="orangered"><br>Doors will open at 5pm, pre-show F&B and activities</font>
       <font color="orangered"><br>31 December 2019</font>
