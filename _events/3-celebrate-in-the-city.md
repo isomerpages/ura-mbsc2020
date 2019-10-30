@@ -7,13 +7,13 @@ permalink: /events/celebrate-in-the-city/
 <font color="orangered"><b>A plethora of year-end festivities from now till NYE</b></font>
 <br>
     <br>
-     <a href="https://gardensbythebay.com.sg/poinsettia"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
       <font color="orangered"><br>8 November 2019 - 5 January 2020, 9am - 9pm</font>
       <font color="orangered"><br> Gardens by the Bay </font>
       <br>  
       <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called nisse adds to the festive cheer.
-      <font color="orangered"><b><br><a href="https://gardensbythebay.com.sg/poinsettia">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4">Find Out More</a></b></font>
       <br>
       <br>
      <a href="http://facebook.com/BTBAF"> <img src="/images/(M)ChariTrees2019.jpg" /></a>
@@ -65,7 +65,7 @@ permalink: /events/celebrate-in-the-city/
       <font color="orangered"><b><br><a href="https://www.esplanade.com/voices">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.gardensbythebay.com.sg/"> <img src="/images/(M)futuretogether.jpg" /></a>
+     <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/future-together.html?utm_source=CitC&utm_medium=Ad&utm_campaign=FutureTogether&utm_term=All&utm_content=Nov4"> <img src="/images/(M)futuretogether.jpg" /></a>
       <font color="orangered"><b>#futuretogether</b></font>
       <font color="orangered"><br>15 December 2019 - 14 January 2020, 7pm - 11pm</font>
       <font color="orangered"><br> Gardens by the Bay </font>
