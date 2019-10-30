@@ -11,14 +11,16 @@ third_nav_title: New Year's Eve
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: The Food District</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> @ Empress Lawn</font>  
+      <font color="orangered"><br> @ Empress Lawn</font>
+      <br>
       <br>Stay Tuned For More Updates!
       <br>
       <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: NYE Pets Paw-ty</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> @ Connaught Drive</font>  
+      <font color="orangered"><br> @ Connaught Drive</font>
+      <br>
       <br>Stay Tuned For More Updates!
       <br>
       <br>
