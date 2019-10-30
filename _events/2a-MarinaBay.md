@@ -18,7 +18,7 @@ third_nav_title: New Year's Eve
      <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/"> <img src="/images/" /></a>
       <font color="orangered"><b>Build a Dream Light Projections</b></font>
       <font color="orangered"><br>26 - 31 December 2019</font>
-      <font color="orangered"><br> Refer To Website To Find Out More </font>
+      <font color="orangered"><br> Refer to event's website for more information </font>
       <font color="orangered"><br> The Fullerton Hotel, ArtScience Museum and The Merlion </font>
       <br>  
       <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
@@ -50,7 +50,7 @@ Together, let’s Build a Dream.
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1 - 5 & 9 - 31 December 2019</font>
-      <font color="orangered"><br> Refer To Website To Find Out More </font>
+      <font color="orangered"><br> Refer to event's website for more information  </font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay </font>
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits <em>Come Together</em> for a time of collaboration, reflection and revelry.  
@@ -62,7 +62,7 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
-      <font color="orangered"><br> Refer To Website To Find Out More </font>
+      <font color="orangered"><br> Refer to event's website for more information </font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay.Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
