@@ -47,7 +47,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1-5, 9-31 December 2019</font>
-      <font color="orangered"><br>Refer To Website To Find Out More</font>
+      <font color="orangered"><br>Refer to event's website for more information</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
       <br>Celebrate friendships old and new as artists and kindred spirits <i>Come Together</i> for a time of collaboration, reflection and revelry. Catch free live performances every weekday at the Esplanade Concourse and every weekend at the Esplanade Outdoor Theatre.
@@ -57,7 +57,7 @@ permalink: /events/celebrate-in-the-city/
      <a href="https://www.esplanade.com/voices"> <img src="/images/(M)Esplanade-Voices.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Voices - A Festival of Song</b></font>
       <font color="orangered"><br>6-8 December 2019</font>
-      <font color="orangered"><br>Refer To Website To Find Out More</font>
+      <font color="orangered"><br>Refer to event's website for more information</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
         <br>The seventh edition of <i>Voices – A Festival of Song</i> will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
@@ -81,7 +81,7 @@ Admission is free.
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
-      <font color="orangered"><br>Refer To Website To Find Out More</font>
+      <font color="orangered"><br>Refer to event's website for more information</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
