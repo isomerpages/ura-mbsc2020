@@ -69,12 +69,12 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>
       <br>      
-      <img src="/images/MBSC_Placeholder.jpg" /></a>
+      <img src="/images/MBSC_Placeholder.jpg" />
       <font color="orangered"><b>Starlight</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> @ The Lawn </font>
       <br> 
-      <font color="orangered"><br>Stay Tuned For More Updates!</font>
+      <br>Stay Tuned For More Updates!
       <br>      
     <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
