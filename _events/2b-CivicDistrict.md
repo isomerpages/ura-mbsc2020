@@ -45,7 +45,7 @@ third_nav_title: New Year's Eve
      <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/CDTheArtHouse.jpg" /></a>
       <font color="orangered"><b>The Arts House</b></font>
       <font color="orangered"><br>31 December 2019, 10am - 12am</font>
-      <font color="orangered"><br> Extended Opening Hours till 12am </font>
+      <font color="orangered"><br> Extended opening hours till 12am </font>
       <font color="orangered"><br> The Arts House </font>  
       <br>What better way to usher in the New Year than to acknowledge the pioneering efforts of Singapore's heritage conservation at the Marjorie Doggett Exhibition! The Arts House's opening hours will be extended to midnight on 31 December 2019.
       <font color="orangered"><b><br><a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition">Find Out More</a></b></font> 
