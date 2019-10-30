@@ -28,9 +28,9 @@ Together, let’s Build a Dream.
       <br>
       <br>
      <a href="https://star-island.sg/"> <img src="/images/" /></a>
-      <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020, Show Starts at 10.40pm</b></font>
+      <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020</b></font>
+      <font color="orangered"><br>31 December 2019, Show starts at 10.40pm</font>
       <font color="orangered"><br>Doors will open at 5pm, pre-show F&B and activities</font>
-      <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>  
       <br>Star Island is back for its sophomore running in Singapore at The Float @ Marina Bay, for an elevated Countdown Show with a brand-new theme - “A Space Odyssey”. This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances. Boasting futuristic show elements and over the top, dynamic performances, audiences are guaranteed multisensory and multi-angle entertainment, no matter where they’re seated - making Star Island a unique, one of a kind futuristic immersive experience.
