@@ -37,7 +37,8 @@ permalink: /events/celebrate-in-the-city/
       <br>
      <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/(M)ChristmasAtASM.jpg" /></a>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
-      <font color="orangered"><br>30 November 2019 - 5 January 2020, TIME TBC</font>
+      <font color="orangered"><br>30 November 2019 - 5 January 2020</font>
+      <font color="orangered"><br> Refer To Find Out More For Show Schedule </font>
       <font color="orangered"><br> ArtScience Museum </font>
       <br>  
       <br>Celebrate this festive season with a special interactive installation in <i>Future World: Where Art Meets Science</i> - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
@@ -56,8 +57,8 @@ permalink: /events/celebrate-in-the-city/
       <br>
      <a href="https://www.esplanade.com/voices"> <img src="/images/(M)Esplanade-Voices.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Voices - A Festival of Song</b></font>
-      <font color="orangered"><b>Refer To Find Out More For Show Schedule</b></font>
-      <font color="orangered"><br>6-8 December 2019, Time TBC</font>
+      <font color="orangered"><br>6-8 December 2019</font>
+      <font color="orangered"><br>Refer To Find Out More For Show Schedule</font>
       <font color="orangered"><br> Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
         <br>The seventh edition of <i>Voices – A Festival of Song</i> will continue to feature a diverse range of forms and styles of singing, including choral, a cappella, musical theatre, show and pop choir, classical singing, jazz and more.
@@ -81,7 +82,7 @@ Admission is free.
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
-      <font color="orangered"><br> Refer To Show Schedule </font>
+      <font color="orangered"><br>Refer To Find Out More For Show Schedule</font>
       <font color="orangered"><br> Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
