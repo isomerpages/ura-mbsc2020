@@ -9,16 +9,18 @@ third_nav_title: New Year's Eve
 <br>
       <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
-      <font color="orangered"><b>Starlight</b></font>
+      <font color="orangered"><b>Unwind @ Civic District: The Food District</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> @ The Lawn</font>  
+      <font color="orangered"><br> @ Empress Lawn</font>  
       <br>Stay Tuned For More Updates!
-      <br />
+      <br>
+      <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
-      <font color="orangered"><b>Unwind</b></font>
+      <font color="orangered"><b>Unwind @ Civic District: NYE Pets Paw-ty</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> @ Civic District</font>  
+      <font color="orangered"><br> @ Connaught Drive</font>  
       <br>Stay Tuned For More Updates!
+      <br>
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
       <font color="orangered"><b>New Year's Eve @ Asian Civilisations Museum, 10am - 10pm</b></font>
