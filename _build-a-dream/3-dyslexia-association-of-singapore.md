@@ -5,7 +5,7 @@ permalink: /build-a-dream/about/dyslexia-association-of-singapore
 
 # “My hope is for Singapore to continue supporting students with different learning needs.”  
 <a href="https://www.giving.sg/campaigns/Build_a_Dream_Dyslexia_Association_of_Singapore"> <img src="/images/BaDDyslexiaAssociation.jpg"/></a>
-## Xuan Ying, 11 years old
+## Xuan Ying, 11 Years Old
 **About Xuan Ying**<br>
 Xuan Ying is passionate about art, having developed an interest in drawing and painting at the age of five. She enjoys the creative process of bringing an idea to life on canvas, deriving great satisfaction upon completion of each artwork. Yet, she faces certain challenges in learning, being unable to read and spell most words. In the past, this resulted in her being reluctant to even attempt tasks, since she found the difficulties insurmountable. 
 <br>
