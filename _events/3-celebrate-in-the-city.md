@@ -1,9 +1,9 @@
 ---
-title: Celebrate In The City 
+title: Celebrate in the City 
 permalink: /events/celebrate-in-the-city/
 ---
 
-# Celebrate In The City
+# Celebrate in the City
 <font color="orangered"><b>A plethora of year-end festivities from now till NYE</b></font>
 <br>
     <br>
