@@ -36,7 +36,7 @@ third_nav_title: New Year's Eve
      <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/CDVictoriaTheaterandConcert.jpg" /></a>
       <font color="orangered"><b>Victoria Theatre and Concert Hall</b></font>
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> Refer To Find Out More For Show Schedule </font>
+      <font color="orangered"><br> Refer To Website To Find Out More </font>
       <font color="orangered"><br> Victoria Theatre and Concert Hall </font>  
       <br>Enjoy lush tunes and exciting melodies with The Philharmonic Orchestra - led by Lin Juan and Edward Tan. There will be champagne in Victoria Concert Hall, and fireworks over Empress Lawn, so dance and sing, and ring in 2020 with us!
       <font color="orangered"><b><br><a href="https://www.sistic.com.sg/events/nye1219">Find Out More</a></b></font>      
