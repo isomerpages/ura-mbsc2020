@@ -28,8 +28,8 @@ Together, let’s Build a Dream.
       <br>
       <br>
      <a href="https://star-island.sg/"> <img src="/images/" /></a>
-      <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020, 5pm - 1150pm</b></font>
-      <font color="orangered"><br>Doors open @ 5pm</font>
+      <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020, Show Starts at 10.40pm</b></font>
+      <font color="orangered"><br>Doors will open at 5pm, pre-show F&B and activities</font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>  
