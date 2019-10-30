@@ -28,7 +28,7 @@ sections:
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
-       - title: <font color="orangered"><b><a href="https://gardensbythebay.com.sg/poinsettia">Poinsettia Wishes Floral Display</a></b></font>
+       - title: <font color="orangered"><b><a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4">Poinsettia Wishes Floral Display</a></b></font>
          subtitle: 
          image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
          alt: Poinsettia Wishes Floral Display
@@ -52,7 +52,7 @@ sections:
          subtitle:  
          image: /images/Carousel-images/(C)EsplandePresentsVoices.jpg
          alt: Esplanade-Presents-Voices-A-Festival-of-Song
-       - title: <font color="orangered"><b><a href="https://www.gardensbythebay.com.sg/">#futuretogether</a></b></font>
+       - title: <font color="orangered"><b><a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/future-together.html?utm_source=CitC&utm_medium=Ad&utm_campaign=FutureTogether&utm_term=All&utm_content=Nov4">#futuretogether</a></b></font>
          subtitle:  
          image: /images/Carousel-images/(C)futuretogether.jpg
          alt: #futuretogether
