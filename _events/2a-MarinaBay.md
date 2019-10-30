@@ -72,7 +72,7 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
     <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
       <font color="orangered"><br>31 December 2019 Museum, 10am - 10pm</font>
-      <font color="orangered"><br>Extended Closing Time Till 10pm</font>
+      <font color="orangered"><br>Extended closing time till 10pm</font>
       <font color="orangered"><br> Red Dot Design Museum </font>
       <br>  
       <br> A boutique museum along the waterfront promenade at the Marina Bay, the Red Dot Design Museum joins the new year party with extended hours on 31 Dec until 12 midnight! Check out the specially curated exhibition "Human-Nature” that explores the nature of humans in a world where we co-exist with robots, big data and machine learning. The museum also has one of the best design shops with a big collection of design products sourced from around the globe. Dine at the museum cafe and replenish your energy while you wait for the fireworks shows. Lounge at the museum outdoor seats with your loved ones for a great view of the waterfront. 
