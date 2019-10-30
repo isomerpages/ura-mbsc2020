@@ -8,7 +8,7 @@ third_nav_title: New Year's Eve
 
 <br>
       <br>
-     <a href="-"> <img src="/images/" /></a>
+     <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Empress Lawn</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>Empress Lawn</font>  
@@ -16,7 +16,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b><br><a href="https://-">Find Out More</a></b></font>
       <br>
       <br />
-     <a href="-"> <img src="/images/" /></a>
+     <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Connaught Drive</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br>Connaught Drive</font>  
