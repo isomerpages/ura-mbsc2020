@@ -5,7 +5,7 @@ permalink: /_visitors-information/getting-there
 
 # Event Map  
 
-Events and Happenings All Around Marina Bay for MBSC 2020
+Events and hppenings all around Marina Bay for MBSC 2020
 
 <img src="/images/SampleMap.jpg" />
 <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Stay Tuned For More Updates!</a></b></font>
