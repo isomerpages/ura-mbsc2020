@@ -13,16 +13,12 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> @ The Lawn</font>  
       <br>Stay Tuned For More Updates!
-      <font color="orangered"><b><br><a href="https://-">Find Out More</a></b></font>
-      <br>
       <br />
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Unwind</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> @ Civic District</font>  
       <br>Stay Tuned For More Updates!
-      <font color="orangered"><b><br><a href="-">Find Out More</a></b></font>
-      <br>
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
       <font color="orangered"><b>New Year's Eve @ Asian Civilisations Museum, 10am - 10pm</b></font>
