@@ -24,8 +24,8 @@ sections:
           description:        
     - carousel:
        - title:  <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/celebrate-in-the-city/">Celebrate In The City</a></b></font>
-         subtitle:             
-         image: /images/Carousel-images/(C)CitC.jpg
+         subtitle:                     
+       - image: <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/celebrate-in-the-city/">/images/Carousel-images/(C)CitC.jpg</a></b></font>
          alt: Celebrate-In-The-City
          url: /events/celebrate-in-the-city/
        - title: <font color="orangered"><b><a href="https://gardensbythebay.com.sg/poinsettia">Poinsettia Wishes Floral Display</a></b></font>
