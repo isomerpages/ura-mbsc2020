@@ -3,4 +3,4 @@ title: Traffic Advisory
 permalink: /_visitor-information/traffic-advisory
 ---
 
-## Stay Tune For More Updates!
+## Stay Tuned For More Updates!
