@@ -4,18 +4,18 @@ title: Marina Bay Singapore Countdown
 description: A Bay of Hopes and Dreams
 image: /images/
 permalink: /
-notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Events</a> Page for more details 
+notification: Check Out Our <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Events</a> Page For More Details 
 sections:
     - hero:
         title: 31 December 2019
-        subtitle: Join us as we ring in the new year
+        subtitle: Join Us As We Ring In The New Year
         background: /images/HeroBanner2.gif
         button: What's On
         url: /events/whats-on/marina-bay
         key_highlights:
         - title: Fireworks 
           url: /events/fireworks%20display/
-          description: Click here for vantage points
+          description: Click Here For Vantage Points
         - title: Build A Dream
           url: /build-a-dream/
           description: Be a Builder of Dreams
