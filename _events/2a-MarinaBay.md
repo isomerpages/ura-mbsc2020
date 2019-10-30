@@ -62,7 +62,7 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
-      <font color="orangered"><br> Refer to event's website for more information </font>
+      <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
       <br>  
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay.Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
