@@ -12,6 +12,8 @@ links:
     collection: about
   - title: Events
     collection: events
+  - title: Celebrate In The City
+    collection: CITC
   - title: Build A Dream
     collection: build-a-dream
   - title: Visitor Information
@@ -20,5 +22,4 @@ links:
     collection: FAQ
   - title: News
     resource_room: true
-  - title: Celebrate In The City
-    collection: CITC
+
