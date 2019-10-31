@@ -40,7 +40,7 @@ Together, let’s Build a Dream.
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
       <font color="orangered"><br>31 December 2019 | 7.30pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 7pm</font>
-      <font color="orangered"><br> @ The Promontory </font>
+      <font color="orangered"><br> The Promontory @ Marina Bay </font>
       <br>  
       <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory@Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
       <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find Out More</a></b></font>
@@ -59,7 +59,7 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
       <br>
       <br>
      <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
-      <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
+      <font color="orangered"><b>Uncle Ringo Presents The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020</font>
       <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
@@ -69,16 +69,16 @@ Apart from free live performances every day at the Esplanade Concourse, there wi
       <br>
       <br>      
       <img src="/images/MBSC_Placeholder.jpg" />
-      <font color="orangered"><b>Starlight</b></font>
-      <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> @ The Lawn </font>
+      <font color="orangered"><b>Starlight @ The Lawn</b></font>
+      <font color="orangered"><br>31 December 2019 | 4.00pm - 1.00am</font>
+      <font color="orangered"><br> The Lawn @ Marina Bay </font>
       <br> 
       <br>Stay Tuned For More Updates!
       <br>      
     <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
-      <font color="orangered"><br>31 December 2019 Museum, 10am - 10pm</font>
-      <font color="orangered"><br>Extended closing time till 10pm</font>
+      <font color="orangered"><br>31 December 2019 | 10.00am - 12.00am</font>
+      <font color="orangered"><br>Extended hours till Midnight</font>
       <font color="orangered"><br> @ Red Dot Design Museum </font>
       <br>  
       <br> A boutique museum along the waterfront promenade at the Marina Bay, the Red Dot Design Museum joins the new year party with extended hours on 31 Dec until 12 midnight! Check out the specially curated exhibition "Human-Nature” that explores the nature of humans in a world where we co-exist with robots, big data and machine learning. The museum also has one of the best design shops with a big collection of design products sourced from around the globe. Dine at the museum cafe and replenish your energy while you wait for the fireworks shows. Lounge at the museum outdoor seats with your loved ones for a great view of the waterfront. 
