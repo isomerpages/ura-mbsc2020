@@ -1,6 +1,6 @@
 ---
 title: About MBSC & Celebrate In The City
-permalink: /FAQ/About MBSC
+permalink: /faq/about-mbsc
 ---
 
 #### 1. What is the Marina Bay Singapore Countdown? 
