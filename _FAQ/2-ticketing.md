@@ -3,9 +3,9 @@ title: Ticketing
 permalink: /FAQ/Ticketing
 ---
 
-#### 1. Do I need a ticket to attend the Countdown?
+#### 1. Do I need a ticket to attend MBSC?
 
-The Countdown comprises many different activities. While some events, such as STAR ISLAND Singapore Countdown Edition at The Float, and Uncle Ringo Presents: The Great European Circus at Bayfront Event Space are ticketed, there are many other activities that are free for the public to enjoy. These include Mediacorp Let's Celebrate 2020 concert at The Promontory and Night Out @ Civic District. Entry to the Marina Bay area itself is free. Click <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">here</a>  for the full list of events and activities.
+MBSC 2020 comprises many different activities. While some events, such as STAR ISLAND Singapore Countdown Edition at The Float, and Uncle Ringo Presents The Great Circus of Europe at Bayfront Event Space are ticketed, there are many other activities that are free for the public to enjoy. These include Mediacorp Let's Celebrate 2020 concert at The Promontory and Unwind @ Civic District. Entry to the Marina Bay area itself is free. 
 
 #### 2. How much are the tickets?
 
@@ -17,7 +17,7 @@ Tickets can be purchased via the links on the individual event pages.
 
 #### 4. Will there be an actual countdown to midnight? 
 
-Yes, there will be a final countdown to 2020. At the stroke of midnight, there will be a grand finale fireworks display to usher in the new year so don't leave your seats just yet! 
+Yes, there will be a final countdown to 2020. At the stroke of midnight, there will be a grand finale fireworks display to usher in the New Year so don't leave your seats just yet! 
 
 #### 5. Will I be refunded if I am not able to attend or if there are unforeseen circumstances (e.g. Inclement weather)? 
 
