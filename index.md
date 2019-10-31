@@ -23,11 +23,10 @@ sections:
           url: /events/whats-on/marina-bay/
           description: New Year's Eve events and more     
     - carousel:
-       - title: <a href="/events/celebrate-in-the-city/">Celebrate In The City</a></b></font>
+       - title: <a href="/events/citc/">Celebrate In The City</a></b></font>
          subtitle:             
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-in-the-City
-         url: /events/citc/
        - title: <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4">Poinsettia Wishes Floral Display</a>
          subtitle: 
          image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
