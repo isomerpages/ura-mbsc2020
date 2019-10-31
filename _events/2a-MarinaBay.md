@@ -31,7 +31,9 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>
-      <br>STAR ISLAND is back for its sophomore running in Singapore at The Float @ Marina Bay, for an elevated Countdown Show with a brand-new theme - “A Space Odyssey”. This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances. Boasting futuristic show elements and over the top, dynamic performances, audiences are guaranteed multisensory and multi-angle entertainment, no matter where they’re seated - making STAR ISLAND a unique, one of a kind futuristic immersive experience.
+      <br>Fireworks musical show, STAR ISLAND Singapore returns this New Year’s Eve as part of the Marina Bay Singapore Countdown 2020. 
+Step into the centre of a grand multi-sensory fireworks musical show that marries the latest technologies with the most stunning Japanese-designed fireworks, larger-than-life pyrotechnics, 3D surround sound and a stellar cast of artists into a single, seamless
+performance. Complete with pre-show activities for the whole family, live DJ performances, roving acts and delectable delights at the food village.
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find Out More</a></b></font>
       <br>
       <br>
