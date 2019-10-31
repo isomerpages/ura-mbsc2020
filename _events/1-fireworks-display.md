@@ -4,6 +4,6 @@ permalink: /events/fireworks display/
 ---
 
 # Fireworks Display
-<font color="orangered"><b>Stay Tuned For More Updates!</b></font>
+<font color="orangered"><b>Stay tuned for more updates!</b></font>
 <br>
 <img src="/images/HeroBannerKVF.jpg" />
