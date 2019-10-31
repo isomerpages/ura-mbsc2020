@@ -14,7 +14,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Empress Lawn</font>
       <br>
       <br>Stay tuned for more updates!
-      <hr width="50%" align=center>
+      ---
       <br>
       <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
@@ -33,7 +33,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Asian Civilisations Museum </font>  
       <br>Bid goodbye to the old and ring in the new! End the year by exploring ACM’s galleries of exquisite Asian art. For a late night breather, create some fun crafts with the kids, then round off 2019 by catching the New Year’s Eve fireworks from the ACM Green. Families and kids, young and old, all are welcome!
       <font color="orangered"><b><br><a href="https://www.acm.org.sg/">Find Out More</a></b></font>
-      <hr style="border: 1px solid#8C8C8C;" />
+      ---
       <br>
       <br>      
      <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/CDVictoriaTheaterandConcert.jpg" /></a>
@@ -43,7 +43,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Victoria Theatre and Concert Hall </font>  
       <br>Enjoy lush tunes and exciting melodies with The Philharmonic Orchestra - led by Lin Juan and Edward Tan. There will be champagne in Victoria Concert Hall, and fireworks over Empress Lawn, so dance and sing, and ring in 2020 with us!
       <font color="orangered"><b><br><a href="https://www.sistic.com.sg/events/nye1219">Find Out More</a></b></font>
-      <hr style="border: 1px solid#8C8C8C;" />
+      ---
       <br>
       <br>
      <a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition"> <img src="/images/CDTheArtHouse.jpg" /></a>
