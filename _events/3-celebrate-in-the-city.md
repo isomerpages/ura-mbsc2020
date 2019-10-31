@@ -5,6 +5,7 @@ permalink: /events/citc/
 
 # Celebrate in the City
 <font color="orangered"><b>A plethora of year-end festivities from now till New Year's Eve</b></font>
+<br>
     <br>
      <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
@@ -82,4 +83,4 @@ Admission is free.
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus">Find Out More</a></b></font>
       <br>
-      
+
