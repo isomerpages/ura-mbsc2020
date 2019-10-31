@@ -46,7 +46,6 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory @ Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
       <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find Out More</a></b></font>
       <br>      
-      <br>
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1 - 31 December 2019 (excluding 6 - 8 December) | Various timings</font>
@@ -65,8 +64,7 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay.Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
-      <br>
-      <br>      
+      <br>  
       <img src="/images/MBSC_Placeholder.jpg" />
       <font color="orangered"><b>Starlight @ The Lawn</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
