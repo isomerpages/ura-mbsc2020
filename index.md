@@ -20,7 +20,7 @@ sections:
           url: /build-a-dream/
           description: Make a difference today
         - title: Events 
-          url: /events/whats-on/marina-bay
+          url: /events/whats-on/marina-bay/
           description: New Year's Eve events and more     
     - carousel:
        - title: <a href="/events/celebrate-in-the-city/">Celebrate In The City</a></b></font>
