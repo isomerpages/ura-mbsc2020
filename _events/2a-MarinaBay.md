@@ -39,11 +39,14 @@ Countdown with us to a more inclusive Singapore!
       <br>
      <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/(MB)Let'sCelebrate.jpg" /></a>
       <br>
+      <br>
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
       <font color="orangered"><br>31 December 2019 | 7.30pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 7pm</font>
       <font color="orangered"><br> The Promontory @ Marina Bay </font>
-      <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory @ Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
+      <br>
+      <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory @ Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. 
+      <br>Doors open at 7pm. Admission is free.
       <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find Out More</a></b></font>
       <br>
       <br>      
@@ -54,9 +57,7 @@ Countdown with us to a more inclusive Singapore!
       <font color="orangered"><br> Refer to event website for more information  </font>
       <font color="orangered"><br> @ Esplanade - Theatres on the Bay </font>
       <br>  
-      <br>Celebrate friendships old and new as artists and kindred spirits <em>Come Together</em> for a time of collaboration, reflection and revelry.  
-In the spirit of our theme for Dec, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings.   
-Apart from free live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays. Special weekend pop-up performances around the centre also await you at <em>Come Together</em>.
+      <br>Celebrate friendships old and new as artists and kindred spirits <em>Come Together</em> for a time of collaboration, reflection and revelry. In the spirit of our theme for December, one can look forward to fresh collaborations between artists and reunion shows, before joining in the celebrations as we count down to new beginnings. Apart from free live performances every day at the Esplanade Concourse, there will be free shows at the Esplanade Outdoor Theatre on weekends, public holidays and eve of public holidays. Special weekend pop-up performances around the centre also await you at <em>Come Together</em>.
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find Out More</a></b></font>
       <br>
       <br>
