@@ -14,11 +14,11 @@ Due to road closures around Marina Bay and Civic District on New Year’s Eve, t
 #### <ins>By Car</ins>
 Due to road closures around Marina Bay and Civic District on New Year’s Eve, the public is encouraged to take the train. 
 
-Please refer to our map for more information 
+Please refer to our map for more information. 
 
 #### 2. How can I keep updated about the crowd situation? 
 
-You can follow the Marina Bay Singapore Facebook Account <a href="https://www.facebook.com/marinabaysg/">(@marinabaysg)</a> page for updates on the crowd situation on event day.
+You can follow the Marina Bay Singapore Facebook page <a href="https://www.facebook.com/marinabaysg/">(@marinabaysg)</a> for updates on the crowd situation on event day.
 
 #### 3. What are the best vantage points to view the fireworks? 
 
