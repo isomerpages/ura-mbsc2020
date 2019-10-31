@@ -55,7 +55,7 @@ sections:
        - title: <font color="orangered"><b><a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/future-together.html?utm_source=CitC&utm_medium=Ad&utm_campaign=FutureTogether&utm_term=All&utm_content=Nov4">#futuretogether</a></b></font>
          subtitle:  
          image: /images/Carousel-images/(C)futuretogether.jpg
-         alt: #futuretogether
+         alt: "#futuretogether"
        - title: <font color="orangered"><b><a href="https://www.uncleringo.com/circus">Uncle Ringo Presents The Great Circus of Europe</a></b></font>
          subtitle:  
          image: /images/Carousel-images/(C)UncleRingoGCE.jpg
