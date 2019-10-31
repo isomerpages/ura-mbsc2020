@@ -14,8 +14,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Empress Lawn</font>
       <br>
       <br>Stay tuned for more updates!
-      <br>
-      <hr style="border: 1px solid#8C8C8C;" />
+      <p>Normal horizontal line.</p>
       <br>
       <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
