@@ -14,7 +14,7 @@ sections:
         url: /events/whats-on/marina-bay
         key_highlights:
         - title: Fireworks 
-          url: /events/fireworks%20display/
+          url: /events/fireworks/
           description: Click here for more info
         - title: Build A Dream
           url: /build-a-dream/
