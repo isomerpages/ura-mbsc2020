@@ -42,11 +42,11 @@ Countdown with us to a more inclusive Singapore!
       <font color="orangered"><br>31 December 2019 | 7.30pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 7pm</font>
       <font color="orangered"><br> The Promontory @ Marina Bay </font>
-      <br>  
-      <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory@Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
+      <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory @ Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
       <font color="orangered"><b><br><a href="https://www.toggle.sg/letscelebrate2020">Find Out More</a></b></font>
       <br>
       <br>      
+      <br>
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
       <font color="orangered"><br>1 - 31 December 2019 (excluding 6 - 8 December) | Various timings</font>
