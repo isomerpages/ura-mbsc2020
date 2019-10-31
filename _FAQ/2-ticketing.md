@@ -9,11 +9,11 @@ MBSC 2020 comprises many different activities. While some events, such as STAR I
 
 #### 2. How much are the tickets?
 
-The prices for ticketed events vary. Refer to the individual event pages for more information. 
+The prices for ticketed events vary. Refer to the individual <a href="/events/whats-on/marina-bay">event pages</a> for more information. 
 
 #### 3. Where can I buy tickets? 
 
-Tickets can be purchased via the links on the individual event pages. 
+Tickets can be purchased via the links on the individual <a href="/events/whats-on/marina-bay">event pages</a>. 
 
 #### 4. Will there be an actual countdown to midnight? 
 
