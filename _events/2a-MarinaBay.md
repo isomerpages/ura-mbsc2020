@@ -19,11 +19,9 @@ third_nav_title: New Year's Eve
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
-      <br>  
-      <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
-Countdown with us to a more inclusive Singapore!
       <br>
-      Together, let’s Build a Dream.
+      <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
+Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream.
       <font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/">Find Out More</a></b></font>
       <br>
       <br>
@@ -32,7 +30,7 @@ Countdown with us to a more inclusive Singapore!
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
-      <br>  
+      <br>
       <br>STAR ISLAND is back for its sophomore running in Singapore at The Float @ Marina Bay, for an elevated Countdown Show with a brand-new theme - “A Space Odyssey”. This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances. Boasting futuristic show elements and over the top, dynamic performances, audiences are guaranteed multisensory and multi-angle entertainment, no matter where they’re seated - making STAR ISLAND a unique, one of a kind futuristic immersive experience.
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find Out More</a></b></font>
       <br>
@@ -62,7 +60,7 @@ Countdown with us to a more inclusive Singapore!
       <font color="orangered"><br>20 December 2019 - 1 January 2020 | Various timings</font>
       <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
-      <br>  
+      <br>
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay.Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>
@@ -79,7 +77,7 @@ Countdown with us to a more inclusive Singapore!
       <font color="orangered"><br>31 December 2019 | 10am - 12mn</font>
       <font color="orangered"><br>Extended hours till Midnight</font>
       <font color="orangered"><br> @ Red Dot Design Museum </font>
-      <br>  
+      <br>
       <br> A boutique museum along the waterfront promenade at the Marina Bay, the Red Dot Design Museum joins the new year party with extended hours on 31 Dec until 12 midnight! Check out the specially curated exhibition "Human-Nature” that explores the nature of humans in a world where we co-exist with robots, big data and machine learning. The museum also has one of the best design shops with a big collection of design products sourced from around the globe. Dine at the museum cafe and replenish your energy while you wait for the fireworks shows. Lounge at the museum outdoor seats with your loved ones for a great view of the waterfront. 
       <font color="orangered"><b><br><a href="https://www.museum.red-dot.sg">Find Out More</a></b></font>
       <br>
