@@ -5,11 +5,11 @@ permalink: /FAQ/About MBSC
 
 #### 1. What is the Marina Bay Singapore Countdown? 
 
-Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has become the nation’s largest and most spectacular New Year’s Eve celebration. 
+Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has become the nation’s largest New Year’s Eve celebration. 
 
 Proudly presented by the Urban Redevelopment Authority (URA), this iconic event allows everyone to enjoy the unique cityscape and vibrant atmosphere as we usher in the New Year. MBSC 2020 presents an exciting line-up of activities such as light projection shows, carnival rides and games, and a spectacular fireworks display for family and friends to enjoy!
 
-With the theme "Bay of Hopes & Dreams", MBSC 2020 also presents the Build A Dream initiative, a collective effort to support the underserved in fufilling their dreams and personal development. Members of the public may click <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/">here</a> to help the talented individuals from the nominated social service organisations fufil their dreams.
+With the theme "Bay of Hopes & Dreams", MBSC 2020 also presents the *Build a Dream* initiative, a collective effort to support the underserved in fufilling their dreams and personal development. Members of the public can click <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/">here</a> to help the talented individuals from the nominated social service organisations fufil their dreams.
 
 #### 2. What is Celebrate in the City?
 
