@@ -14,6 +14,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Empress Lawn</font>
       <br>
       <br>Stay tuned for more updates!
+      <hr></hr>
       <br>
       <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
