@@ -14,6 +14,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Empress Lawn</font>
       <br>
       <br>Stay tuned for more updates!
+      <hr>
       <hr style="border: 1px solid#8C8C8C;" />
       <br>
       <br>
