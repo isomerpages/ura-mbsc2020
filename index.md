@@ -40,7 +40,7 @@ sections:
          subtitle: 
          image: /images/Carousel-images/(C)ChristmasWonderland2019.jpg
          alt: Christmas-Wonderland-2019
-       - title: <font color="orangered"><b><a href="https://www.marinabaysands.com/artsciencemuseum">Christmas At ArtScience Museum</a></b></font>
+       - title: <font color="orangered"><b><a href="https://www.marinabaysands.com/artsciencemuseum">Christmas at ArtScience Museum</a></b></font>
          subtitle:  
          image: /images/Carousel-images/(C)ChristmasAtASM.jpg
          alt: Christmas-At-ArtScience-Museum
