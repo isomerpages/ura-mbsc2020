@@ -7,7 +7,6 @@ third_nav_title: New Year's Eve
 # Civic District
 
 <br>
-      <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: The Food District</b></font>
       <font color="orangered"><br>31 December 2019</font>
