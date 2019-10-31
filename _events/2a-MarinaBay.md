@@ -26,14 +26,12 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <br>
       <br>
      <a href="https://star-island.sg/"> <img src="/images/StarIsland.jpg" /></a>
-      <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020</b></font>
+      <font color="orangered"><b>STAR ISLAND SINGAPORE COUNTDOWN EDITION 2019 - 2020</b></font>
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>
-      <br>Fireworks musical show, STAR ISLAND Singapore returns this New Year’s Eve as part of the Marina Bay Singapore Countdown 2020. 
-Step into the centre of a grand multi-sensory fireworks musical show that marries the latest technologies with the most stunning Japanese-designed fireworks, larger-than-life pyrotechnics, 3D surround sound and a stellar cast of artists into a single, seamless
-performance. Complete with pre-show activities for the whole family, live DJ performances, roving acts and delectable delights at the food village.
+      <br>Come New Year’s Eve,  STAR ISLAND SINGAPORE COUNTDOWN EDITION will return to The Float @ Marina Bay for its sophomore edition, whisking visitors off on an intergalactic adventure with a new theme - A Space Odyssey. The show will see a drone performance involving 500 drones, synchronised with Japanese hanabi fireworks, pyrotechnics, 3D surround sound and stage performances, all interfused into a single, seamless immersive experience
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find Out More</a></b></font>
       <br>
       <br>
