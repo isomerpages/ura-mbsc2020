@@ -46,7 +46,7 @@ permalink: /events/citc/
       <br>
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
-      <font color="orangered"><br>1 December 2019 - 31 December 2019 (excluding 6 - 8 December) | Various timings</font>
+      <font color="orangered"><br>1 - 31 December 2019 (excluding 6 - 8 December) | Various timings</font>
       <font color="orangered"><br>Refer to event website for more information</font>
       <font color="orangered"><br> @ Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
@@ -56,7 +56,7 @@ permalink: /events/citc/
       <br>
      <a href="https://www.esplanade.com/voices"> <img src="/images/(M)Esplanade-Voices.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Voices - A Festival of Song</b></font>
-      <font color="orangered"><br>6 December 2019 - 8 December 2019 | Various timings</font>
+      <font color="orangered"><br>6 - 8 December 2019 | Various timings</font>
       <font color="orangered"><br>Refer to event website for more information</font>
       <font color="orangered"><br> @ Esplanade - Theatres on the Bay, Singapore </font>
       <br>  
