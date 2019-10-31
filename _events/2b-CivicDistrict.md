@@ -30,7 +30,6 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Asian Civilisations Museum </font>  
       <br>Bid goodbye to the old and ring in the new! End the year by exploring ACM’s galleries of exquisite Asian art. For a late night breather, create some fun crafts with the kids, then round off 2019 by catching the New Year’s Eve fireworks from the ACM Green. Families and kids, young and old, all are welcome!
       <font color="orangered"><b><br><a href="https://www.acm.org.sg/">Find Out More</a></b></font>
-      <br>
       <br>      
      <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/CDVictoriaTheaterandConcert.jpg" /></a>
       <font color="orangered"><b>The Philharmonic Orchestra presents New Year’s Eve Countdown Concert 2020</b></font>
