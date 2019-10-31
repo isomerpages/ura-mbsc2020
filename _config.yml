@@ -1,7 +1,7 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
+title: '#MBSC2020'
+url: "https://www.marinabaycountdown.sg" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/MBSC2020logo-170x50.svg
+favicon: /images/mbsc.ico
 collections:
   about:
     output: true
@@ -9,6 +9,13 @@ collections:
     output: true
   build-a-dream:
     output: true
+  visitor-information:
+    output: true
+  FAQ:
+    output: true
+resources_name: news
+google-analytics: UA-56383423-1
+
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

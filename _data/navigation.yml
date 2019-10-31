@@ -4,16 +4,20 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/MBSC2020logo-170x50.png
+
 
 links:
   - title: About
     collection: about
   - title: Events
     collection: events
-  - title: Getting Around
-    url: /getting-around/
   - title: Build A Dream
     collection: build-a-dream
+  - title: Visitor Information
+    collection: visitor-information
   - title: FAQ
-    url: /faq/
+    collection: FAQ
+  - title: News
+    resource_room: true
+
