@@ -10,6 +10,7 @@ Since its inception in 2005, the Marina Bay Singapore Countdown (MBSC) has becom
 Proudly presented by the Urban Redevelopment Authority (URA), this iconic event allows everyone to enjoy the unique cityscape and vibrant atmosphere as we usher in the New Year. MBSC 2020 presents an exciting line-up of activities such as light projection shows, carnival rides and games, and a spectacular fireworks display for family and friends to enjoy!
 
 With the theme "Bay of Hopes & Dreams", MBSC 2020 also presents the *Build a Dream* initiative, a collective effort to support the underserved in fufilling their dreams and personal development. Members of the public can click <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/">here</a> to help the talented individuals from the nominated social service organisations fufil their dreams.
+<hr style="border: 2px solid#5b9aa0;" />
 
 #### 2. What is Celebrate in the City?
 
