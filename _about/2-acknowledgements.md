@@ -30,3 +30,7 @@ permalink: /about/acknowledgements/
 **Prime Sponsor**
 
 <div style="width:20%"><a href="https://www.marinabaysands.com/"><img src="/images/logos/mbs.png" alt="marina-bay-sands" /></a></div>
+
+**Major Supporter**
+
+<div style="width:20%"><a href="https://oue.com.sg/"><img src="/images/logos/OUE.png" alt="OUE" /></a></div>
