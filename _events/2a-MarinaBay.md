@@ -18,7 +18,7 @@ third_nav_title: New Year's Eve
      <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
-      <font color="orangered"><br> @ The Fullerton Hotel, ArtScience Museum and The Merlion </font>
+      <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
       <br>  
       <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
 Countdown with us to a more inclusive Singapore!
