@@ -5,7 +5,7 @@ permalink: /_visitors-information/getting-there
 
 # Event Map  
 <img src="/images/MBSC_Map_Directory_R5-02.jpg" />
-<font color="orangered"><b><br><a href="https://ura-mbsc2020-staging.netlify.com/news/press-releases/files/Random_test_to_check_for_MBSC_Press_Release.pdf">Stay tuned for more updates!</a></b></font>
+# Stay tuned for more updates!
 
 ## Transport
 #### <ins>By Train</ins>
