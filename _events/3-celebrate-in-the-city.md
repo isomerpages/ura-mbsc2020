@@ -5,7 +5,6 @@ permalink: /events/citc/
 
 # Celebrate in the City
 <font color="orangered"><b>A plethora of year-end festivities from now till New Year's Eve</b></font>
-<br>
     <br>
      <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4"> <img src="/images/(M)PoinsettiaWishes.jpg" /></a>
       <font color="orangered"><b>Poinsettia Wishes Floral Display</b></font>
