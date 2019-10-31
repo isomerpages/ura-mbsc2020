@@ -4,7 +4,7 @@ permalink: /FAQ/Planning Your Visit
 ---
 
 #### 1.  How do I get to Marina Bay? 
-
+ 
 #### <ins>By Train</ins>
 Visitors can make their way to Marina Bay via MRT using the East-West Line, North-South Line, Downtown Line and Circle Line. The nearest stations are Raffles Place (EW14, NS26), City Hall (EW13, NS25), Bayfront (DT16, CE1), Esplanade (CC3), Promenade (DT15, CC4) and Downtown (DT17). Train services will be extended to 1 January, 2am. 
 
@@ -14,7 +14,7 @@ Due to road closures around Marina Bay and Civic District on New Year’s Eve, t
 #### <ins>By Car</ins>
 Due to road closures around Marina Bay and Civic District on New Year’s Eve, the public is encouraged to take the train. 
 
-Please refer to our map for more information. 
+Please refer to our <a href="https://ura-mbsc2020-staging.netlify.com/_visitors-information/getting-there">map</a> for more information. 
 
 #### 2. How can I keep updated about the crowd situation? 
 
