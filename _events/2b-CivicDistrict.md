@@ -23,7 +23,7 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Connaught Drive</font>
       <br>
       <br>Stay tuned for more updates!
-      ---
+      ***
       <br>
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
