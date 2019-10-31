@@ -14,7 +14,7 @@ Due to road closures around Marina Bay and Civic District on New Year’s Eve, t
 #### <ins>By Car</ins>
 Due to road closures around Marina Bay and Civic District on New Year’s Eve, the public is encouraged to take the train. 
 
-Please refer to our <a href="https://ura-mbsc2020-staging.netlify.com/_visitors-information/getting-there">map</a> for more information. 
+Please refer to our <a href="/_visitors-information/getting-there">map</a> for more information. 
 
 #### 2. How can I keep updated about the crowd situation? 
 
@@ -22,7 +22,7 @@ You can follow the Marina Bay Singapore Facebook page <a href="https://www.faceb
 
 #### 3. What are the best vantage points to view the fireworks? 
 
-The fireworks are designed such that they can be viewed and enjoyed from all around Marina Bay. Click <a href="https://ura-mbsc2020-staging.netlify.com/events/fireworks%20display/">here</a> for more information about this year's fireworks.  
+The fireworks are designed such that they can be viewed and enjoyed from all around Marina Bay. Click <a href="/events/fireworks/">here</a> for more information about this year's fireworks.  
 
 #### 4. Will there be food and drinks available?
 
