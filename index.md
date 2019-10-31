@@ -8,7 +8,7 @@ notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/ev
 sections:
     - hero:
         title: 31 December 2019
-        subtitle: JOIN US TO RING IN THE NEW YEAR
+        subtitle: Join us to ring in the New Year
         background: /images/HeroBanner2.gif
         button: What's On
         url: /events/whats-on/marina-bay
