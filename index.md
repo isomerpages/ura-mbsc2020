@@ -4,7 +4,7 @@ title: Marina Bay Singapore Countdown
 description: A Bay of Hopes and Dreams
 image: /images/
 permalink: /
-notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/events/whats-on/marina-bay">Events</a> page for more details 
+notification: Check out our <a href="/events/whats-on/marina-bay">Events</a> page for more details 
 sections:
     - hero:
         title: 31 December 2019
@@ -27,7 +27,7 @@ sections:
          subtitle:             
          image: /images/Carousel-images/(C)CitC.jpg
          alt: Celebrate-In-The-City
-         url: /events/celebrate-in-the-city/
+         url: /events/citc/
        - title: <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4">Poinsettia Wishes Floral Display</a>
          subtitle: 
          image: /images/Carousel-images/(C)PoinsettiaWishes.jpg
