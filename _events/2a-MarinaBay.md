@@ -12,13 +12,12 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Marina Bay </font>
       <br>
       <br>
-      Stay Tuned For More Updates!
+      Stay tuned for more updates!
       <br>
       <br>
      <a href="https://ura-mbsc2020-staging.netlify.com/build-a-dream/projection-show-schedule/"> <img src="/images/MBSC_Placeholder.jpg" /></a>
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019</font>
-      <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ The Fullerton Hotel, ArtScience Museum and The Merlion </font>
       <br>  
       <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
@@ -29,18 +28,18 @@ Together, let’s Build a Dream.
       <br>
      <a href="https://star-island.sg/"> <img src="/images/StarIsland.jpg" /></a>
       <font color="orangered"><b>STAR ISLAND Singapore Countdown Edition 2019 - 2020</b></font>
-      <font color="orangered"><br>31 December 2019, Show starts at 10.40pm</font>
-      <font color="orangered"><br>Doors will open at 5pm, pre-show F&B and activities</font>
+      <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
+      <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>  
-      <br>Star Island is back for its sophomore running in Singapore at The Float @ Marina Bay, for an elevated Countdown Show with a brand-new theme - “A Space Odyssey”. This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances. Boasting futuristic show elements and over the top, dynamic performances, audiences are guaranteed multisensory and multi-angle entertainment, no matter where they’re seated - making Star Island a unique, one of a kind futuristic immersive experience.
+      <br>STAR ISLAND is back for its sophomore running in Singapore at The Float @ Marina Bay, for an elevated Countdown Show with a brand-new theme - “A Space Odyssey”. This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances. Boasting futuristic show elements and over the top, dynamic performances, audiences are guaranteed multisensory and multi-angle entertainment, no matter where they’re seated - making STAR ISLAND a unique, one of a kind futuristic immersive experience.
       <font color="orangered"><b><br><a href="https://star-island.sg/">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.toggle.sg/letscelebrate2020"> <img src="/images/(MB)Let'sCelebrate.jpg" /></a>
       <font color="orangered"><b>Mediacorp : Let's Celebrate 2020</b></font>
-      <font color="orangered"><br>31 December 2019, 7pm - 12.30am</font>
-      <font color="orangered"><br>Doors open @ 7pm</font>
+      <font color="orangered"><br>31 December 2019 | 7.30pm - 12.30am</font>
+      <font color="orangered"><br>Doors open at 7pm</font>
       <font color="orangered"><br> @ The Promontory </font>
       <br>  
       <br>Count down to the new year with Singapore’s brightest stars at the biggest party in town at The Promontory@Marina Bay! Let’s Celebrate 2020 by Mediacorp will be a celebration of music, dance and fashion, spotlighting the best talents from Singapore. From 7.30pm, the Republic Poly’s Electronic Music Production will spin music and get the party going. And from 10pm, revellers can groove to performances by next-generation Singapore talents such as Dru Chen, Glen Wee and Astronauts. The exciting lineup continues into the night which will include sizzling performances from electronic music singer-songwriter Jasmine Sokko, Benjamin Kheng, as well as singer Aisyah Aziz, “Papa Rock” Ramli Sarip and Mediacorp artistes, to usher in the new year. Doors open at 7pm. Admission is free.
