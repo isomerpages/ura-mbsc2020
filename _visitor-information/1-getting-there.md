@@ -5,7 +5,7 @@ permalink: /_visitors-information/getting-there
 
 # Event Map  
 <img src="/images/MBSC_Map_Directory_R5-02.jpg" />
-# Stay tuned for more updates!
+
 
 ## Transport
 #### <ins>By Train</ins>
