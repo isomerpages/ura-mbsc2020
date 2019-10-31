@@ -15,7 +15,6 @@ third_nav_title: New Year's Eve
       <br>
       <br>Stay tuned for more updates!
       <hr>
-      <hr size="5">
       <br>
       <br>
      <a href="-"> <img src="/images/MBSC_Placeholder.jpg" /></a>
