@@ -8,20 +8,20 @@ notification: Check out our <a href="https://ura-mbsc2020-staging.netlify.com/ev
 sections:
     - hero:
         title: 31 December 2019
-        subtitle: Join Us As We Ring In The New Year
+        subtitle: JOIN US TO RING IN THE NEW YEAR
         background: /images/HeroBanner2.gif
         button: What's On
         url: /events/whats-on/marina-bay
         key_highlights:
         - title: Fireworks 
           url: /events/fireworks%20display/
-          description: Click Here For Vantage Points
+          description: Click here for more info
         - title: Build A Dream
           url: /build-a-dream/
-          description: Be a Builder of Dreams
+          description: Make a difference today
         - title: Events 
           url: /events/whats-on/marina-bay
-          description:        
+          description: Year-end events and more       
     - carousel:
        - title:  <font color="orangered"><b><a href="https://ura-mbsc2020-staging.netlify.com/events/celebrate-in-the-city/">Celebrate In The City</a></b></font>
          subtitle:             
