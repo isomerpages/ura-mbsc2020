@@ -35,7 +35,7 @@ permalink: /events/citc/
       <font color="orangered"><b><br><a href="https://www.christmaswonderland.sg">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/(M)ChristmasAtASM.jpg" /></a>
+     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/(M)ChristmasAtAsm.jpg" /></a>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
       <font color="orangered"><br>30 November 2019 - 5 January 2020 | 10am - 7pm daily</font>
       <font color="orangered"><br> @ ArtScience Museum </font>
