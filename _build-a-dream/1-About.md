@@ -4,7 +4,7 @@ permalink: /build-a-dream/
 ---
 
 # Build a Dream
-<a href="/build-a-dream/projection-show-schedule/"> <img src="/images/MBSC_Placeholder.jpg" /></a>
+<a href="/build-a-dream/projection-show-schedule/"> <img src="/images/build-a-dream.jpg" /></a>
       <br>
       <br>
       <font color="orangered"><b>About Build a Dream</b></font>
