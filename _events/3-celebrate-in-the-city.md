@@ -29,9 +29,16 @@ permalink: /events/citc/
      <a href="https://www.christmaswonderland.sg"> <img src="/images/(M)ChristmasWonderland2019.jpg" /></a>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
       <font color="orangered"><br>29 November 2019 - 26 December 2019 | 4pm - 11pm daily</font>
+      <font color="orangered"><br>Monday to Thursday: 5pm - 11pm | Friday to Sunday and Publich Holidays: 4pm - 11pm | Christmas Eve, 24 December 2019: 4pm - 11pm</font>
       <font color="orangered"><br> @ Gardens by the Bay </font>
       <br>
-      <br>Revel in the festivities at Singapore’s most popular year-end event, Christmas Wonderland at Gardens by the Bay! Magical luminarie lights transform the fairground into a stunning wonderland complete with Yuletide favourites and festive fun for everyone. Meet Santa, experience ‘snow’ in the tropics, enjoy carnival games and rides, shop at the charming Christmas Village and so much more!
+      <br>Singapore’s most popular year-end event, Christmas Wonderland, returns to Gardens by the Bay featuring exciting new highlights with plenty to amaze visitors of all ages. Its sixth edition will mark the debut of the Christmas Parade, a brand new interactive Santa’s Workshop, a riveting mix of international theatrical productions, and more three-dimensional light installations, in addition to the event’s traditional games and rides as well as shopping and dining spaces.
+      <br>
+      <br>
+Admission to Christmas Wonderland starts from S$6. Purchase your admission tickets online and enjoy savings of up to 40%.
+      <br>
+      <br>
+Additional charges for some attractions within the event grounds as well as into the Conservatories apply.
       <font color="orangered"><b><br><a href="https://www.christmaswonderland.sg">Find Out More</a></b></font>
       <br>
       <br>
