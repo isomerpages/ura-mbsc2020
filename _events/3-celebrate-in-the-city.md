@@ -40,7 +40,11 @@ permalink: /events/citc/
       <font color="orangered"><br>30 November 2019 - 5 January 2020 | 10am - 7pm daily</font>
       <font color="orangered"><br> @ ArtScience Museum </font>
       <br>
-      <br>Celebrate this festive season with a special interactive installation in <i>Future World: Where Art Meets Science</i> - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
+      <br>Led by his trusted reindeer, Santa Claus will be flying his magical sleigh into FUTURE WORLD: Where Art Meets Science! Bask in the festivity cheers as the iconic Sketch Town installation transforms into Sketch Christmas, a virtual Christmas Wonderland.
+<br>
+<br>
+Bring your favourite Santa Claus to life and he will deliver special gifts to everyone in the winter wonderland! 
+Touch Santa in Sketch Christmas and watch him deliver presents!
       <font color="orangered"><b><br><a href="https://www.marinabaysands.com/artsciencemuseum">Find Out More</a></b></font>
       <br>
       <br>
