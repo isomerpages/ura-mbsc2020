@@ -15,7 +15,7 @@ third_nav_title: New Year's Eve
       Stay tuned for more updates!
       <br>
       <br>
-     <a href="/build-a-dream/projection-show-schedule/"> <img src="/images/MBSC_Placeholder.jpg" /></a>
+     <a href="/build-a-dream/projection-show-schedule/"> <img src="/images/build-a-dream.jpg" /></a>
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
