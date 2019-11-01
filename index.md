@@ -37,7 +37,7 @@ sections:
          alt: ChariTrees-2019
        - title: <a href="https://www.christmaswonderland.sg">Christmas Wonderland 2019</a>
          subtitle: 
-         image: /images/Carousel-images/ChristmasAtASM.jpg
+         image: /images/Carousel-images/(C)ChristmasWonderland2019.jpg
          alt: Christmas-Wonderland-2019
        - title: <a href="https://www.marinabaysands.com/artsciencemuseum">Christmas at ArtScience Museum</a>
          subtitle:  
