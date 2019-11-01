@@ -30,7 +30,6 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
-      <br>
       <br>Fireworks musical extravaganza, STAR ISLAND Singapore returns this New Year’s Eve as part of the Marina Bay Singapore Countdown. Sold out in its first year, STAR ISLAND is back even bigger and grander.
 Step into the centre of a grand multi-sensory fireworks musical show that marries the latest technologies with the most stunning Japanese-designed fireworks, larger-than-life pyrotechnics, 3D surround sound and a stellar cast of artists into a single, seamless performance. 
 Complete with pre-show activities for the whole family, live DJ performances, roving acts and delectable delights at the food village, STAR ISLAND is the ultimate fuss-free one-stop destination to countdown to the New Year.
