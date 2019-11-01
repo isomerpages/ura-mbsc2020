@@ -29,24 +29,35 @@ permalink: /events/citc/
      <a href="https://www.christmaswonderland.sg"> <img src="/images/(M)ChristmasWonderland2019.jpg" /></a>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
       <font color="orangered"><br>29 November 2019 - 26 December 2019 | 4pm - 11pm daily</font>
+      <font color="orangered"><br>Monday to Thursday: 5pm - 11pm | Friday to Sunday and Publich Holidays: 4pm - 11pm | Christmas Eve, 24 December 2019: 4pm - 11pm</font>
       <font color="orangered"><br> @ Gardens by the Bay </font>
       <br>
-      <br>Revel in the festivities at Singapore’s most popular year-end event, Christmas Wonderland at Gardens by the Bay! Magical luminarie lights transform the fairground into a stunning wonderland complete with Yuletide favourites and festive fun for everyone. Meet Santa, experience ‘snow’ in the tropics, enjoy carnival games and rides, shop at the charming Christmas Village and so much more!
+      <br>Singapore’s most popular year-end event, Christmas Wonderland, returns to Gardens by the Bay featuring exciting new highlights with plenty to amaze visitors of all ages. Its sixth edition will mark the debut of the Christmas Parade, a brand new interactive Santa’s Workshop, a riveting mix of international theatrical productions, and more three-dimensional light installations, in addition to the event’s traditional games and rides as well as shopping and dining spaces.
+      <br>
+      <br>
+Admission to Christmas Wonderland starts from S$6. Purchase your admission tickets online and enjoy savings of up to 40%.
+      <br>
+      <br>
+Additional charges for some attractions within the event grounds as well as into the Conservatories apply.
       <font color="orangered"><b><br><a href="https://www.christmaswonderland.sg">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/(M)ChristmasAtASM.jpg" /></a>
+     <a href="https://www.marinabaysands.com/artsciencemuseum"> <img src="/images/(M)ChristmasAtAsm.jpg" /></a>
       <font color="orangered"><b>Christmas at ArtScience Museum</b></font>
       <font color="orangered"><br>30 November 2019 - 5 January 2020 | 10am - 7pm daily</font>
       <font color="orangered"><br> @ ArtScience Museum </font>
       <br>
-      <br>Celebrate this festive season with a special interactive installation in <i>Future World: Where Art Meets Science</i> - Sketch Christmas! Colour a building, a car or Santa Claus and watch them magically come to life in a fictitious Christmas town with local landmarks like ArtScience Museum, the Merlion and the Singapore Flyer. 
+      <br>Led by his trusted reindeer, Santa Claus will be flying his magical sleigh into FUTURE WORLD: Where Art Meets Science! Bask in the festivity cheers as the iconic Sketch Town installation transforms into Sketch Christmas, a virtual Christmas Wonderland.
+<br>
+<br>
+Bring your favourite Santa Claus to life and he will deliver special gifts to everyone in the winter wonderland! 
+Touch Santa in Sketch Christmas and watch him deliver presents!
       <font color="orangered"><b><br><a href="https://www.marinabaysands.com/artsciencemuseum">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
-      <font color="orangered"><br>1 - 31 December 2019 (excluding 6 - 8 December) | Various timings</font>
+      <font color="orangered"><br>1 – 5, 9 – 31  December 2019 | Various timings</font>
       <font color="orangered"><br>Refer to event website for more information</font>
       <font color="orangered"><br> @ Esplanade - Theatres on the Bay, Singapore </font>
       <br>
@@ -66,7 +77,7 @@ permalink: /events/citc/
       <br>
      <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/future-together.html?utm_source=CitC&utm_medium=Ad&utm_campaign=FutureTogether&utm_term=All&utm_content=Nov4"> <img src="/images/(M)futuretogether.jpg" /></a>
       <font color="orangered"><b>#futuretogether</b></font>
-      <font color="orangered"><br>15 December 2019 - 14 January 2020 | 7pm - 11pm</font>
+      <font color="orangered"><br>15 December 2019 - 14 January 2020 | 7pm - 12am</font>
       <font color="orangered"><br> @ Gardens by the Bay, Bayfront Plaza </font>
       <br>
       <br>Take a peek into the #futuretogether – an immersive art exhibition jointly presented by Gardens by the Bay and GIC, designed by teamLab in support of the Singapore Bicentennial. From 15 Dec 2019, catch a glimpse of three out of the seven exhibits ahead of its public opening on 16 January 2020. Expect the magical interactivity that art collective teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.

@@ -15,7 +15,7 @@ third_nav_title: New Year's Eve
       Stay tuned for more updates!
       <br>
       <br>
-     <a href="/build-a-dream/projection-show-schedule/"> <img src="/images/MBSC_Placeholder.jpg" /></a>
+     <a href="/build-a-dream/projection-show-schedule/"> <img src="/images/build-a-dream.jpg" /></a>
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
@@ -30,7 +30,6 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
-      <br>
       <br>Fireworks musical extravaganza, STAR ISLAND Singapore returns this New Year’s Eve as part of the Marina Bay Singapore Countdown. Sold out in its first year, STAR ISLAND is back even bigger and grander.
 Step into the centre of a grand multi-sensory fireworks musical show that marries the latest technologies with the most stunning Japanese-designed fireworks, larger-than-life pyrotechnics, 3D surround sound and a stellar cast of artists into a single, seamless performance. 
 Complete with pre-show activities for the whole family, live DJ performances, roving acts and delectable delights at the food village, STAR ISLAND is the ultimate fuss-free one-stop destination to countdown to the New Year.
@@ -48,7 +47,7 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>      
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
-      <font color="orangered"><br>1 - 31 December 2019 (excluding 6 - 8 December) | Various timings</font>
+      <font color="orangered"><br>1 – 5, 9 – 31  December 2019 | Various timings</font>
       <font color="orangered"><br> Refer to event website for more information  </font>
       <font color="orangered"><br> @ Esplanade - Theatres on the Bay </font>
       <br>

@@ -1,9 +1,12 @@
 contact_us: /contact-us/
-feedback: https://form.gov.sg/#!/5a9ce876b3a3b6006e6b8335
-faq: /faq/about-mbsc
+FAQ: /faq/about-mbsc
 social_media:
     facebook: https://www.facebook.com/marinabaysg/
     twitter:
     youtube:
     instagram: https://www.instagram.com/marinabaysg/?hl=en
     linkedin:
+
+links:
+    title: Rate this website
+    url: https://form.gov.sg/5dbba9a179b19800124fea22
