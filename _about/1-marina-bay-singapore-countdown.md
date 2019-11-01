@@ -12,3 +12,6 @@ Proudly presented by the Urban Redevelopment Authority (URA), Singapore's annual
 With the theme of "Bay of Hopes and Dreams", MBSC 2020 also presents the Build a Dream initiative, a collective effort to support the under-served in fufilling their dreams and personal development. Members of the public who wish to help the talented individuals from various schools and social service organisations fufill their dreams can do so at this <a href="/build-a-dream/">link</a>.
 
 <img src="/images/HeroBannerKVF.jpg" />
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/KYo6lUn25gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
