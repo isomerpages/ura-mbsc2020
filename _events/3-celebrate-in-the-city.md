@@ -78,6 +78,7 @@ Touch Santa in Sketch Christmas and watch him deliver presents!
      <a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/future-together.html?utm_source=CitC&utm_medium=Ad&utm_campaign=FutureTogether&utm_term=All&utm_content=Nov4"> <img src="/images/(M)futuretogether.jpg" /></a>
       <font color="orangered"><b>#futuretogether</b></font>
       <font color="orangered"><br>15 December 2019 - 14 January 2020 | 7pm - 12am</font>
+      <font color="orangered"><br>31 December 2019 | 7pm - 1am</font>
       <font color="orangered"><br> @ Gardens by the Bay, Bayfront Plaza </font>
       <br>
       <br>Take a peek into the #futuretogether – an immersive art exhibition jointly presented by Gardens by the Bay and GIC, designed by teamLab in support of the Singapore Bicentennial. From 15 Dec 2019, catch a glimpse of three out of the seven exhibits ahead of its public opening on 16 January 2020. Expect the magical interactivity that art collective teamLab is renowned for through the simple means of touch, which will trigger aural and visual shifts in the hundreds of spheres floating on Dragonfly Lake, and spur the blooming and scattering of flowers over the lattice structure at Bayfront Plaza.
