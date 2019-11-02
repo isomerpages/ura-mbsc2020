@@ -61,12 +61,12 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
       <br>
-      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay.Coming directly from the UK, every act will be appearing for the very FIRST TIME in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
+      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay. Coming directly from the UK, every act will be appearing for the very first time in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>  
       <img src="/images/MBSC_Placeholder.jpg" />
       <font color="orangered"><b>Starlight @ The Lawn</b></font>
-      <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
+      <font color="orangered"><br>31 December 2019 | 5pm - 1am</font>
       <font color="orangered"><br> The Lawn @ Marina Bay </font>
       <br> 
       <br>Stay Tuned For More Updates!
