@@ -1,5 +1,5 @@
 contact_us: /contact-us/
-FAQ: /faq/about-mbsc
+faq: /faq/about-mbsc
 social_media:
     facebook: https://www.facebook.com/marinabaysg/
     twitter:
@@ -8,5 +8,5 @@ social_media:
     linkedin:
 
 links:
-    title: Rate this website
-    url: https://form.gov.sg/5dbba9a179b19800124fea22
+ - title: Rate this website
+   url: https://form.gov.sg/5dbba9a179b19800124fea22

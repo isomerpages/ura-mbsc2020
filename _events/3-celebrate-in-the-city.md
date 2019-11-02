@@ -12,7 +12,7 @@ permalink: /events/citc/
       <font color="orangered"><br>8 November 2019 - 5 January 2020 | 9am - 9pm daily</font>
       <font color="orangered"><br> @ Gardens by the Bay, Flower Dome </font>
       <br>
-      <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay's Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called nisse adds to the festive cheer.
+      <br>Embark on a whimsical journey through the Nordic countries at Gardens by the Bay’s Poinsettia Wishes floral display this Christmas. Amidst a landscape of poinsettias and winter blooms in shades of red, blue, yellow and white, a charming choir of Nordic gnomes called nisse adds to the festive cheer.
       <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/en/whats-on/calendar-of-events/poinsettia-wishes-2019.html?utm_source=CitC&utm_medium=Ad&utm_campaign=Poinsettia2019&utm_term=All&utm_content=Nov4">Find Out More</a></b></font>
       <br>
       <br>
@@ -21,15 +21,15 @@ permalink: /events/citc/
       <font color="orangered"><br>15 November 2019 - 26 December 2019</font>
       <font color="orangered"><br> @ Marina Bay Precinct </font>
       <br>
-      <br>Marina Bay comes aglow with over 150 specially-designed physical and digital Christmas trees in celebration of community heroes at ChariTrees 2019. Be dazzeld by Luminous, Art and Traditional Christmas Trees as well as Augmented Reality Christmas Trees of different themes.  Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
+      <br>Marina Bay comes aglow with over 200 specially-designed physical and digital Christmas trees in celebration of community heroes at ChariTrees 2019. Be dazzeld by Luminous, Art and Traditional Christmas Trees as well as Augmented Reality Christmas Trees of different themes.  Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
       <br>ChariTrees 2019 is organised by The RICE Company Ltd and is a fundraiser for The Business Times Budding Artists Fund.
       <font color="orangered"><b><br><a href="http://facebook.com/BTBAF">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.christmaswonderland.sg"> <img src="/images/(M)ChristmasWonderland2019.jpg" /></a>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
-      <font color="orangered"><br>29 November 2019 - 26 December 2019 | 4pm - 11pm daily</font>
-      <font color="orangered"><br>Monday to Thursday: 5pm - 11pm | Friday to Sunday and Publich Holidays: 4pm - 11pm | Christmas Eve, 24 December 2019: 4pm - 11pm</font>
+      <font color="orangered"><br>29 November 2019 - 26 December 2019</font>
+      <font color="orangered"><br>Monday to Thursday: 5pm - 11pm | Friday to Sunday, 25 Dec & 26 Dec 2019: 4pm - 11pm | 24 December 2019: 4pm - 12.30pm</font>
       <font color="orangered"><br> @ Gardens by the Bay </font>
       <br>
       <br>Singapore’s most popular year-end event, Christmas Wonderland, returns to Gardens by the Bay featuring exciting new highlights with plenty to amaze visitors of all ages. Its sixth edition will mark the debut of the Christmas Parade, a brand new interactive Santa’s Workshop, a riveting mix of international theatrical productions, and more three-dimensional light installations, in addition to the event’s traditional games and rides as well as shopping and dining spaces.
