@@ -47,7 +47,7 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>      
      <a href="https://www.esplanade.com/festivals-and-series/come-together/2019"> <img src="/images/(M)Esplanade-ComeTogether.jpg" /></a>
       <font color="orangered"><b>Esplanade Presents: Come Together</b></font>
-      <font color="orangered"><br>1 – 5, 9 – 31  December 2019 | Various timings</font>
+      <font color="orangered"><br>1 – 5, 9 – 31  December 2019 | Various  timings</font>
       <font color="orangered"><br> Refer to event website for more information  </font>
       <font color="orangered"><br> @ Esplanade - Theatres on the Bay </font>
       <br>
