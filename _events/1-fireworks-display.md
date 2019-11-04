@@ -4,4 +4,4 @@ permalink: /events/fireworks/
 ---
 
 # Fireworks
-<font color="orangered"><b>Stay tuned for more updates!</b></font>
+### <font color="orangered"><b>Stay tuned for more updates!</b></font>
