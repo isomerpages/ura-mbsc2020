@@ -30,8 +30,8 @@ permalink: /events/citc/
      <a href="https://www.christmaswonderland.sg"> <img src="/images/(M)ChristmasWonderland2019.jpg" /></a>
       <font color="orangered"><b>Christmas Wonderland 2019</b></font>
       <font color="orangered"><br>29 November 2019 - 26 December 2019</font>
-      <font color="orangered"><br>Monday to Thursday | 5pm - 11pm
-      <font color="orangered"><br>Friday to Sunday, 25 Dec & 26 Dec 2019 | 4pm - 11pm
+      <font color="orangered"><br>Monday to Thursday | 5pm - 11pm</font>
+      <font color="orangered"><br>Friday to Sunday, 25 Dec & 26 Dec 2019 | 4pm - 11pm</font>
       <font color="orangered"><br>24 December 2019 | 4pm - 12.30am</font>
       <font color="orangered"><br> @ Gardens by the Bay </font>
       <br>
