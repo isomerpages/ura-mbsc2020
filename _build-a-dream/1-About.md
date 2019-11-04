@@ -4,7 +4,7 @@ permalink: /build-a-dream/
 ---
 
 # Build a Dream
-<a href="/build-a-dream/projection-show-schedule/"> <img src="/images/build-a-dream.jpg" /></a>
+<a href="https://www.giving.sg/mbsc-build-a-dream"> <img src="/images/build-a-dream.jpg" /></a>
       <br>
       <br>
       <font color="orangered"><b>About Build a Dream</b></font>
@@ -13,3 +13,4 @@ permalink: /build-a-dream/
       <br>From 26 to 31 December 2019, beautiful artworks by beneficiaries from these organisations will light up Marina Bay’s iconic landmarks, transforming the Fullerton Hotel Singapore, the Merlion and ArtScience Museum into a delightful bay full of hopes and dreams.
 Head down to Marina Bay for all this and more, as we welcome the New Year!
       <br>
+
