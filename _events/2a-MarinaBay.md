@@ -30,6 +30,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
+      <br>
       <br>Fireworks musical extravaganza, STAR ISLAND Singapore returns this New Year’s Eve as part of the Marina Bay Singapore Countdown. Sold out in its first year, STAR ISLAND is back even bigger and grander.
 Step into the centre of a grand multi-sensory fireworks musical show that marries the latest technologies with the most stunning Japanese-designed fireworks, larger-than-life pyrotechnics, 3D surround sound and a stellar cast of artists into a single, seamless performance. 
 Complete with pre-show activities for the whole family, live DJ performances, roving acts and delectable delights at the food village, STAR ISLAND is the ultimate fuss-free one-stop destination to countdown to the New Year.
@@ -61,7 +62,7 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
       <br>
-      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the Marina Bay. Coming directly from the UK, every act will be appearing for the very first time in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
+      <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very first time in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>  
       <img src="/images/MBSC_Placeholder.jpg" />

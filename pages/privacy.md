@@ -2,7 +2,6 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-
 1. This is a Government Agency website.
 <br>
 <br>
@@ -13,9 +12,9 @@ permalink: /privacy/
 <br>
 <br>
 4. If you provide us with personally identifiable data
-<br>a.     We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.
-<br>b.     We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
-<br>c.      For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
+a.     We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.<br>
+b.     We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.<br>
+c.      For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 <br>
 <br>
 5. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
@@ -24,3 +23,6 @@ permalink: /privacy/
 6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
 <br>
 <br>
+7. Please contact our Quality Service Manager at write to us or 1800 221 2616 if you :
+a.     have any enquires or feedback on our data protection policies and procedures,<br>
+b.     need more information on or access to data which you have provided to us in the past.

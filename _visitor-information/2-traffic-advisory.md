@@ -3,4 +3,4 @@ title: Traffic Advisory
 permalink: /_visitor-information/traffic-advisory
 ---
 
-Coming soon.
+More details will be available at a later date.
