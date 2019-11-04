@@ -23,6 +23,7 @@ permalink: /events/citc/
       <br>
       <br>Marina Bay comes aglow with over 200 specially-designed physical and digital Christmas trees in celebration of community heroes at ChariTrees 2019. Be dazzeld by Luminous, Art and Traditional Christmas Trees as well as Augmented Reality Christmas Trees of different themes. Learn the stories of our community heroes and help grant a wish at the Wishing Trees.
       <br>
+      <br>
       <br>ChariTrees 2019 is organised by The RICE Company Ltd and is a fundraiser for The Business Times Budding Artists Fund.
       <font color="orangered"><b><br><a href="http://facebook.com/BTBAF">Find Out More</a></b></font>
       <br>
@@ -33,7 +34,7 @@ permalink: /events/citc/
       <font color="orangered"><br>Monday to Thursday | 5pm - 11pm</font>
       <font color="orangered"><br>Friday to Sunday, 25 Dec & 26 Dec 2019 | 4pm - 11pm</font>
       <font color="orangered"><br>24 December 2019 | 4pm - 12.30am</font>
-      <font color="orangered"><br> @ Gardens by the Bay </font>
+      <font color="orangered"><br> @ Gardens by the Bay</font>
       <br>
       <br>Singapore’s most popular year-end event, Christmas Wonderland, returns to Gardens by the Bay featuring exciting new highlights with plenty to amaze visitors of all ages. Its sixth edition will mark the debut of the Christmas Parade, a brand new interactive Santa’s Workshop, a riveting mix of international theatrical productions, and more three-dimensional light installations, in addition to the event’s traditional games and rides as well as shopping and dining spaces.
       <br>
