@@ -9,11 +9,11 @@ MBSC 2020 comprises many different activities. The public can choose to particip
 
 #### 2. How much are the tickets?
 
-The prices for ticketed events vary. Refer to the individual <a href="/events/whats-on/marina-bay">event pages</a> for more information. 
+The prices for ticketed events vary. Refer to the respective <a href="/events/whats-on/marina-bay">event website</a> for more information. 
 
 #### 3. Where can I buy tickets? 
 
-Tickets can be purchased via the links on the individual <a href="/events/whats-on/marina-bay">event pages</a>. 
+Tickets can be purchased via the links on the respective <a href="/events/whats-on/marina-bay">event website</a>. 
 
 #### 4. Will there be an actual countdown to midnight? 
 
@@ -21,4 +21,4 @@ Yes, there will be a final countdown to 2020. At the stroke of midnight, there w
 
 #### 5. Will I be refunded if I am not able to attend or if there are unforeseen circumstances (e.g. Inclement weather)? 
 
-All tickets are non-refundable.
+Please refer to the ticketing terms and conditions for the respective event.
