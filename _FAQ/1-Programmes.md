@@ -36,4 +36,8 @@ Marina Bay Singapore Countdown 2020 will include a wide variety of activities su
 #### 3. Where are the best vantage points to view the fireworks from?
 
 The fireworks are designed such that they can be viewed and enjoyed from all around Marina Bay. Click <a href="/events/fireworks/">here</a> for more information about this year's fireworks. 
- 
+
+
+#### 4. Will there be an actual countdown to midnight? 
+
+Yes, there will be a countdown to 2020. At the stroke of midnight, there will be a grand finale fireworks display to usher in the New Year so don't leave your seats just yet! 

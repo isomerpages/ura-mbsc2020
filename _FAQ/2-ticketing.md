@@ -15,10 +15,6 @@ The prices for ticketed events vary. Refer to the respective <a href="/events/wh
 
 Tickets can be purchased via the links on the respective <a href="/events/whats-on/marina-bay">event website</a>. 
 
-#### 4. Will there be an actual countdown to midnight? 
-
-Yes, there will be a final countdown to 2020. At the stroke of midnight, there will be a grand finale fireworks display to usher in the New Year so don't leave your seats just yet! 
-
-#### 5. Will I be refunded if I am not able to attend or if there are unforeseen circumstances (e.g. Inclement weather)? 
+#### 4. Will I be refunded if I am not able to attend or if there are unforeseen circumstances (e.g. Inclement weather)? 
 
 Please refer to the ticketing terms and conditions for the respective event.
