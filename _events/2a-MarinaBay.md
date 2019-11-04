@@ -25,7 +25,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <font color="orangered"><b><br><a href="/build-a-dream/">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://star-island.sg/"> <img src="/images/StarIsland.jpg" /></a>
+      <img src="/images/StarIsland.jpg" /></a>
       <font color="orangered"><b>STAR ISLAND SINGAPORE COUNTDOWN EDITION 2019 - 2020</b></font>
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
@@ -55,14 +55,14 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <font color="orangered"><b><br><a href="https://www.esplanade.com/festivals-and-series/come-together/2019">Find Out More</a></b></font>
       <br>
       <br>
-     <a href="https://www.uncleringo.com/circus"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
+     <a href="http://www.uncleringo.com/circus/"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
       <font color="orangered"><b>Uncle Ringo Presents The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020 | Various timings</font>
       <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
       <br>
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very first time in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
-      <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus/">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="http://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>  
       <img src="/images/MBSC_Placeholder.jpg" />
       <font color="orangered"><b>Starlight @ The Lawn</b></font>

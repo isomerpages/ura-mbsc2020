@@ -95,6 +95,6 @@ Admission is free.
       <font color="orangered"><br> @ Bayfront Event Space </font>
       <br>
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational, mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very first time in Singapore! The producers have toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
-      <font color="orangered"><b><br><a href="https://www.uncleringo.com/circus">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="http://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>
 
