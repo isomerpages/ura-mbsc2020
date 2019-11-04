@@ -17,4 +17,4 @@ Tickets can be purchased via the links on the respective <a href="/events/whats-
 
 #### 4. Will I be refunded if I am not able to attend or if there are unforeseen circumstances (e.g. Inclement weather)? 
 
-Please refer to the ticketing terms and conditions for the respective event.
+Please refer to the ticketing terms and conditions for the respective events.
