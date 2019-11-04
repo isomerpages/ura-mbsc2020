@@ -5,7 +5,7 @@ permalink: /FAQ/Ticketing
 
 #### 1. Do I need a ticket to attend MBSC?
 
-MBSC 2020 comprises many different activities. While some events, such as STAR ISLAND SINGAPORE COUNTDOWN EDITION at The Float, and Uncle Ringo Presents The Great Circus of Europe at Bayfront Event Space are ticketed, there are many other activities that are free for the public to enjoy. These include Mediacorp Let's Celebrate 2020 concert at The Promontory and Unwind @ Civic District. Entry to the Marina Bay area itself is free. 
+MBSC 2020 comprises many different activities. The public can choose to participate in free activities at Unwind @ Civic District or Let’s Celebrate 2020 by Mediacorp at The Promontory, or view fireworks for free around the bay. They can also attend ticketed events such as STAR ISLAND SINGAPORE COUNTDOWN EDITION at The Float @ Marina Bay or Uncle Ringo Presents The Great Circus of Europe at Bayfront Event Space. Entry to the Marina Bay area itself is free
 
 #### 2. How much are the tickets?
 
