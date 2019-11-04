@@ -7,4 +7,4 @@ permalink: /news/press-release/mbsc-media-release/
 USHER IN A NEW DECADE WITH SINGAPORE’S BIGGEST COUNTDOWN CELEBRATION AT MARINA BAY.
 <br>
 <br>
-[PDF](/news/press-release/files/)
+[PDF](/news/press-release/files/media-release-for-mbsc.pdf)
