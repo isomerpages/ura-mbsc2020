@@ -40,4 +40,4 @@ The fireworks are designed such that they can be viewed and enjoyed from all aro
 
 #### 4. Will there be an actual countdown to midnight? 
 
-Yes, there will be a countdown to 2020. At the stroke of midnight, there will be a grand finale fireworks display to usher in the New Year so don't leave your seats just yet! 
+Yes, there will be a countdown to 2020. At the stroke of midnight, there will be a grand finale fireworks display to usher in the New Year so don't leave your seats just yet
