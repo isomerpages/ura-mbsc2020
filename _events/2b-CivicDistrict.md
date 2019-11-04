@@ -33,7 +33,7 @@ third_nav_title: New Year's Eve
       <br>      
      <a href="https://www.sistic.com.sg/events/nye1219"> <img src="/images/CDVictoriaTheaterandConcert.jpg" /></a>
       <font color="orangered"><b>The Philharmonic Orchestra presents New Year’s Eve Countdown Concert 2020</b></font>
-      <font color="orangered"><br>31 December 2019 | 10pm - 12mn</font>
+      <font color="orangered"><br>31 December 2019 | 10pm - 12m</font>
       <font color="orangered"><br> @ Victoria Theatre and Concert Hall </font>  
       <br>Enjoy lush tunes and exciting melodies with The Philharmonic Orchestra - led by Lin Juan and Edward Tan. There will be champagne in Victoria Concert Hall, and fireworks over Empress Lawn, so dance and sing, and ring in 2020 with us!
       <font color="orangered"><b><br><a href="https://www.sistic.com.sg/events/nye1219">Find Out More</a></b></font>
