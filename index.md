@@ -55,7 +55,7 @@ sections:
          subtitle:  
          image: /images/Carousel-images/(C)futuretogether.jpg
          alt: "#futuretogether"
-       - title: <a href="https://www.uncleringo.com/circus">Uncle Ringo Presents The Great Circus of Europe</a>
+       - title: <a href="http://www.uncleringo.com/circus/">Uncle Ringo Presents The Great Circus of Europe</a>
          subtitle:  
          image: /images/Carousel-images/(C)UncleRingoGCE.jpg
          alt: Ringo's Circus
