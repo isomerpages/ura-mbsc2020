@@ -15,7 +15,7 @@ third_nav_title: New Year's Eve
       <br>Stay tuned for more updates!
       <br>
       <br>
-     <a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p"> <img src="/images/MBSC_Placeholder.jpg" /></a>
+     <a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p"> <img src="/images/pets-pawty-kv.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: NYE Pets Paw-ty</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> @ Connaught Drive</font>
