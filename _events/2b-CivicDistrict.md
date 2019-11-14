@@ -23,6 +23,7 @@ third_nav_title: New Year's Eve
       <br>Join us as we count down to the New Year together with our beloved companions be they furry, feathery, scaly or slimy! Visitors can look forward to pets merchandise/treats booths, dog runs and agility area, chicken coop, picnic areas, interactive/ petting sessions and other fringe activities. Treat your best buddy to a pet-focused night!
       <font color="orangered"><b><br><a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p">Find Out More</a></b></font>
       <br>
+      <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
       <font color="orangered"><b>New Year's Eve @ Asian Civilisations Museum</b></font>
       <font color="orangered"><br>31 December 2019 | 10am - 10pm</font>
