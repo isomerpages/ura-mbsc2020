@@ -4,7 +4,7 @@ permalink: /_visitors-information/getting-there
 ---
 
 # Event Map  
-<img src="/images/MBSC2020.jpg" />
+<img src="/images/updated_mbsc_map.jpg" />
 
 
 ## Transport

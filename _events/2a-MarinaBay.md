@@ -25,7 +25,7 @@ Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream
       <font color="orangered"><b><br><a href="/build-a-dream/">Find Out More</a></b></font>
       <br>
       <br>
-    <a href="https://star-island.sg/"> <img src="/images/StarIsland.jpg" /></a>
+    <a href="https://star-island.sg/"> <img src="/images/NYE_STARISLAND.jpg" /></a>
       <font color="orangered"><b>STAR ISLAND SINGAPORE COUNTDOWN EDITION 2019 - 2020</b></font>
       <font color="orangered"><br>31 December 2019 | 10.40pm - 12.30am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
@@ -70,9 +70,18 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <font color="orangered"><br>31 December 2019 | 5pm - 1am</font>
       <font color="orangered"><br> The Lawn @ Marina Bay </font>
       <br> 
-      <br>Stay Tuned For More Updates!
+      <br>Stay tuned for more updates!
       <br>      
-    <a href="https://https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
+    <a href="http://www.vomg.sg/GWR"> <img src="/images/VOMG-kv.jpg" /></a>
+      <font color="orangered"><b>VOMG Rock Band NYE Party @ Singapore Flyer</b></font>
+      <font color="orangered"><br>31 December 2019 | TIME TBC</font>
+      <font color="orangered"><br>EXTRA INFO TBC</font>
+      <font color="orangered"><br> @ Singapore Flyer </font>
+      <br>
+      <br> Let's break old traditions and new records as VOMG presents the largest performing rock band to hit our sunny shores! As the 1000-strong band comprised of local youth musicians take the stage, watch as they attempt to break a Guinness World Record with a medley of songs and fireworks to usher in the new year and showcase the next generation of empowered youths in Singapore. 
+      <font color="orangered"><b><br><a href="http://www.vomg.sg/GWR">Find Out More</a></b></font>
+      <br>      
+    <a href="https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
       <font color="orangered"><br>31 December 2019 | 10am - 12mn</font>
       <font color="orangered"><br>Extended hours till Midnight</font>
