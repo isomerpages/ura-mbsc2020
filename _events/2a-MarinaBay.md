@@ -80,7 +80,6 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>
       <br> Let's break old traditions and new records as VOMG presents the largest performing rock band to hit our sunny shores! As the 1000-strong band comprised of local youth musicians take the stage, watch as they attempt to break a Guinness World Record with a medley of songs and fireworks to usher in the new year and showcase the next generation of empowered youths in Singapore. 
       <font color="orangered"><b><br><a href="http://www.vomg.sg/GWR">Find Out More</a></b></font>
-      <br>
       <br>      
     <a href="https://www.museum.red-dot.sg//"> <img src="/images/(MB)RedDotMuseum.jpg" /></a>
       <font color="orangered"><b>Red Dot Design Museum</b></font>
