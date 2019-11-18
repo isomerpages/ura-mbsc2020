@@ -74,8 +74,7 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>      
     <a href="http://www.vomg.sg/GWR"> <img src="/images/VOMG-kv.jpg" /></a>
       <font color="orangered"><b>VOMG Rock Band NYE Party @ Singapore Flyer</b></font>
-      <font color="orangered"><br>31 December 2019 | TIME TBC</font>
-      <font color="orangered"><br>EXTRA INFO TBC</font>
+      <font color="orangered"><br>31 December 2019 | 9am - 1am</font>
       <font color="orangered"><br> @ Singapore Flyer </font>
       <br>
       <br> Let's break old traditions and new records as VOMG presents the largest performing rock band to hit our sunny shores! As the 1000-strong band comprised of local youth musicians take the stage, watch as they attempt to break a Guinness World Record with a medley of songs and fireworks to usher in the new year and showcase the next generation of empowered youths in Singapore. 
