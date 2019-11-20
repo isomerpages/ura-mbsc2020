@@ -7,7 +7,7 @@ third_nav_title: New Year's Eve
 # Civic District
 
 <br>
-     <a href="-"> <img src="/images/(CD)-eats-and-beats-kv.jpg" /></a>
+      <img src="/images/(CD)-eats-and-beats-kv.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: Eats & Beats</b></font>
       <font color="orangered"><br>31 December 2019</font>
       <font color="orangered"><br> @ Empress Lawn</font>
