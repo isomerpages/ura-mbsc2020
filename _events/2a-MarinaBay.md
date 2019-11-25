@@ -65,12 +65,12 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <br>The Great Circus of Europe is coming to Singapore to entertain you with a sensational mind-blowing show, with never before seen acts that are sure to light up the night. Coming directly from the UK, every act will be appearing for the very first time in Singapore! The producers had toured the world to find this spectacular array of international circus superstars to wow everyone with their performances.
       <font color="orangered"><b><br><a href="http://www.uncleringo.com/circus/">Find Out More</a></b></font>
       <br>  
-      <img src="/images/MBSC_Placeholder.jpg" />
+      <img src="/images/starlight-at-the-lawn-website-kv.jpg" />
       <font color="orangered"><b>Starlight @ The Lawn</b></font>
       <font color="orangered"><br>31 December 2019 | 5pm - 1am</font>
       <font color="orangered"><br> The Lawn @ Marina Bay </font>
       <br> 
-      <br>Stay tuned for more updates!
+      <br>Round up 2019 with some quality time alongside your kith and kin at Starlight @ The Lawn in Marina Bay! With tons of family-friendly activities and delicious grub aplenty, your New Year plans just got a whole lot better! Bouncy castles, live performances and fringe activities amidst a charming food village teeming with liveliness.
       <br>      
     <a href="http://www.vomg.sg/GWR"> <img src="/images/VOMG-kv.jpg" /></a>
       <font color="orangered"><b>VOMG Rock Band NYE Party @ Singapore Flyer</b></font>
