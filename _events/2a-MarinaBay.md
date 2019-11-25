@@ -70,7 +70,7 @@ Complete with pre-show activities for the whole family, live DJ performances, ro
       <font color="orangered"><br>31 December 2019 | 5pm - 1am</font>
       <font color="orangered"><br> The Lawn @ Marina Bay </font>
       <br> 
-      <br>Round up 2019 with some quality time alongside your kith and kin at Starlight @ The Lawn in Marina Bay! With tons of family-friendly activities and delicious grub aplenty, your New Year plans just got a whole lot better! Bouncy castles, live performances and fringe activities amidst a charming food village teeming with liveliness.
+      <br>Round up 2019 with some quality time alongside your kith and kin at Starlight @ The Lawn in Marina Bay! With tons of family-friendly activities and delicious grub aplenty, your New Year plans just got a whole lot better! Bouncy castles, live performances and fringe activities amidst a charming food village teeming with liveliness
       <br>      
     <a href="http://www.vomg.sg/GWR"> <img src="/images/VOMG-kv.jpg" /></a>
       <font color="orangered"><b>VOMG Rock Band NYE Party @ Singapore Flyer</b></font>
