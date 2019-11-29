@@ -7,13 +7,13 @@ third_nav_title: New Year's Eve
 # Civic District
 
 <br>
-      <img src="/images/(CD)-eats-and-beats-kv-website.jpg">
+      <a href="https://silentdisco-countdown2020.peatix.com/"> <img src="/images/(CD)-eats-and-beats-kv-website.jpg" /></a>    
       <font color="orangered"><b>Unwind @ Civic District: Eats & Beats</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
       <font color="orangered"><br> @ Empress Lawn</font>
       <br>
       <br>Eat, drink and be merry with your loved ones at the Civic District! For one night only, Empress Lawn will be transformed into a chill out zone, replete with delicious treats, and capped with a disco party to dance in the New Year! Oh, did we mention you can customise your drinks? Come have a crack at it at the MIX bar as you mingle and make new friends!
-      <font color="orangered"><b><br><a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>
       <br>
 Ease into 2020 with us. Unwind @ Civic District.
@@ -25,7 +25,7 @@ Ease into 2020 with us. Unwind @ Civic District.
       <font color="orangered"><br> @ Connaught Drive</font>
       <br>
       <br>Join us as we count down to the New Year together with our beloved companions be they furry, feathery, scaly or slimy! Visitors can look forward to pets merchandise/treats booths, dog runs and agility area, chicken coop, picnic areas, interactive/ petting sessions and other fringe activities. Treat your best buddy to a pet-focused night!
-      <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
