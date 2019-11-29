@@ -13,12 +13,14 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br> @ Empress Lawn</font>
       <br>
       <br>Eat, drink and be merry with your loved ones at the Civic District! For one night only, Empress Lawn will be transformed into a chill out zone, replete with delicious treats, and capped with a disco party to dance in the New Year! Oh, did we mention you can customise your drinks? Come have a crack at it at the MIX bar as you mingle and make new friends!
-      <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>
       <br>
 Ease into 2020 with us. Unwind @ Civic District.
       <br>
       <br>
+      <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
+      <br>
+      <br>      
      <a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p"> <img src="/images/pets-pawty-kv.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: Pets Pawty</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
