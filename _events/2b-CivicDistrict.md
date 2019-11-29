@@ -16,8 +16,6 @@ third_nav_title: New Year's Eve
       <br>
       <br>
 Ease into 2020 with us. Unwind @ Civic District.
-      <br>
-      <br>
       <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>
       <br>      
