@@ -10,7 +10,7 @@ permalink: /build-a-dream/projection-show-schedule/
     <td>
      <font color="orangered"><b>The Fullerton Hotel Singapore</b></font>
      <br>
-     <font color="orangered"><b>Every 15 minutes</b></font>
+     <font color="orangered"><b>(Every 15 minutes)</b></font>
     </td>
     <td>
       <font color="orangered">26 - 30 December 2019</font>
@@ -24,7 +24,7 @@ permalink: /build-a-dream/projection-show-schedule/
     <td>
      <font color="orangered"><b>The Merlion</b></font>
      <br>
-     <font color="orangered"><b>Every 15 minutes</b></font>
+     <font color="orangered"><b>(Every 15 minutes)</b></font>
     </td>
     <td>
       <font color="orangered">29 - 30 December 2019</font>
@@ -38,7 +38,7 @@ permalink: /build-a-dream/projection-show-schedule/
     <td>
      <font color="orangered"><b>ArtScience Museum</b></font>
      <br>
-     <font color="orangered"><b>7 minutes projection show</b></font>        
+     <font color="orangered"><b>(7 minutes projection show)</b></font>        
     </td>
     <td>
       <font color="orangered">29 - 30 December 2019  </font> 
