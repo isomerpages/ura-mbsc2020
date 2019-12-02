@@ -1,7 +1,7 @@
 ---
-title: Fireworks
-permalink: /events/fireworks/
+title: Fireworks Vantage Points
+permalink: /events/Fireworks/
 ---
 
-# Fireworks
+# Vantage Points
 ### <font color="orangered"><b>Stay tuned for more updates!</b></font>

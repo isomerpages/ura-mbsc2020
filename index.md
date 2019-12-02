@@ -13,9 +13,9 @@ sections:
         button: What's On
         url: /events/whats-on/marina-bay
         key_highlights:
-        - title: Fireworks 
+        - title: New Year's Eve Fireworks 
           url: /events/fireworks/
-          description: Click here for more info
+          description: Click here for vantage points
         - title: Build A Dream
           url: /build-a-dream/
           description: Make a difference today

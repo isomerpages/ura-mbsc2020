@@ -6,15 +6,6 @@ third_nav_title: New Year's Eve
 
 # Marina Bay
 <br> 
-    <a href="https://ura-mbsc2020-staging.netlify.com/events/fireworks%20display/"> <img src="/images/(MB)MBSC2020.jpg" /></a>
-      <font color="orangered"><b>Fireworks</b></font>
-      <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br> @ Marina Bay </font>
-      <br>
-      <br>
-      Stay tuned for more updates!
-      <br>
-      <br>
      <a href="/build-a-dream/"> <img src="/images/build-a-dream.jpg" /></a>
       <font color="orangered"><b>Build a Dream Light Projection Shows</b></font>
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>

@@ -7,7 +7,7 @@ third_nav_title: New Year's Eve
 # Civic District
 
 <br>
-      <img src="/images/(CD)-eats-and-beats-kv-website.jpg">
+      <a href="https://silentdisco-countdown2020.peatix.com/"> <img src="/images/(CD)-eats-and-beats-kv-website.jpg" /></a>    
       <font color="orangered"><b>Unwind @ Civic District: Eats & Beats</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
       <font color="orangered"><br> @ Empress Lawn</font>
@@ -16,8 +16,8 @@ third_nav_title: New Year's Eve
       <br>
       <br>
 Ease into 2020 with us. Unwind @ Civic District.
-      <br>
-      <br>
+      <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
+      <br>     
      <a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p"> <img src="/images/pets-pawty-kv.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: Pets Pawty</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
