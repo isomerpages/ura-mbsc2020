@@ -37,10 +37,10 @@ permalink: /build-a-dream/projection-show-schedule/
      <font color="orangered"><b>ArtScience Museum</b></font>
     </td>
     <td>
-      <font color="orangered">29 - 30 December 2019</font>
+      <font color="orangered">29 - 30 December 2019 (7 minutes projection show) </font> 
       <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
       <br>  
-      <font color="orangered"><br>31 December 2019 </font>
+      <font color="orangered"><br>31 December 2019 (7 minutes projection show) </font>
       <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
       <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
