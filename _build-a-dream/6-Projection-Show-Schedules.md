@@ -8,39 +8,43 @@ permalink: /build-a-dream/projection-show-schedule/
 <table style="width:100%">
 <tr>
     <td>
-     <font color="orangered"><b>The Fullerton Hotel</b></font>
+     <font color="orangered"><b>The Fullerton Hotel Singapore</b></font>
      <br>
-     <font color="orangered"><b>Singapore</b></font>
+     <font color="orangered"><b>Every 15 minutes</b></font>
     </td>
     <td>
       <font color="orangered">26 - 30 December 2019</font>
-      <font color="orangered"><br>8PM - 10.30PM (Every 15 Minutes) </font>
+      <font color="orangered"><br>8PM - 10.30PM </font>
       <br>  
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br>8PM - 11.30PM (Every 15 Minutes) </font>
+      <font color="orangered"><br>8PM - 11.30PM </font>
       <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
 <tr>
     <td>
      <font color="orangered"><b>The Merlion</b></font>
+     <br>
+     <font color="orangered"><b>Every 15 minutes</b></font>
     </td>
     <td>
       <font color="orangered">29 - 30 December 2019</font>
-      <font color="orangered"><br>8PM - 10.30PM (Every 15 Minutes) </font>
+      <font color="orangered"><br>8PM - 10.30PM </font>
       <br>  
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br>8PM - 11.30PM (Every 15 Minutes) </font>
+      <font color="orangered"><br>8PM - 11.30PM </font>
       <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
 <tr>
     <td>
      <font color="orangered"><b>ArtScience Museum</b></font>
+     <br>
+     <font color="orangered"><b>7 minutes projection show</b></font>        
     </td>
     <td>
-      <font color="orangered">29 - 30 December 2019 (7 minutes projection show) </font> 
+      <font color="orangered">29 - 30 December 2019  </font> 
       <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
       <br>  
-      <font color="orangered"><br>31 December 2019 (7 minutes projection show) </font>
+      <font color="orangered"><br>31 December 2019 </font>
       <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
       <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
