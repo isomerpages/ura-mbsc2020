@@ -23,7 +23,7 @@ Ease into 2020 with us. Unwind @ Civic District.
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
       <font color="orangered"><br> @ Connaught Drive</font>
       <br>
-      <br>Join us as we count down to the New Year together with our beloved companions be they furry, feathery, scaly or slimy! Visitors can look forward to pets merchandise/treats booths, dog runs and agility area, chicken coop, picnic areas, interactive/ petting sessions and other fringe activities. Treat your best buddy to a pet-focused night!
+      <br>Join us as we count down to the New Year together with our beloved companions be they furry, feathery, scaly or slimy! Pawty-goers can look forward to an evening picnic together with your pet(s) and various programmes and contests including an agility trial, obstacle race, frisbee competition and even a doggy “beer” drinking contest. Everybody put your paws up and ring in 2020 with a pet-centric night!
       <font color="orangered"><b><br><a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p">Find Out More</a></b></font>
       <br>
       <br>
