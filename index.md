@@ -15,7 +15,7 @@ sections:
         key_highlights:
         - title: New Year's Eve Fireworks 
           url: /events/fireworks/
-          description: Vantage Points
+          description: Click here for vantage points
         - title: Build A Dream
           url: /build-a-dream/
           description: Make a difference today
