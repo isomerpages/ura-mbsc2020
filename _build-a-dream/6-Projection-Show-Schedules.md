@@ -14,11 +14,11 @@ permalink: /build-a-dream/projection-show-schedule/
     </td>
     <td>
       <font color="orangered">26 - 30 December 2019</font>
-      <font color="orangered"><br>8PM - 10.30PM</font>
+      <font color="orangered"><br>8PM - 10.30PM (Every 15 Minutes) </font>
       <br>  
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br>8PM - 11.30PM</font>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <font color="orangered"><br>8PM - 11.30PM (Every 15 Minutes) </font>
+      <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
 <tr>
     <td>
@@ -26,23 +26,23 @@ permalink: /build-a-dream/projection-show-schedule/
     </td>
     <td>
       <font color="orangered">29 - 30 December 2019</font>
-      <font color="orangered"><br>8PM - 10.30PM</font>
+      <font color="orangered"><br>8PM - 10.30PM (Every 15 Minutes) </font>
       <br>  
       <font color="orangered"><br>31 December 2019</font>
-      <font color="orangered"><br>8PM - 11.30PM</font>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <font color="orangered"><br>8PM - 11.30PM (Every 15 Minutes) </font>
+      <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
 <tr>
     <td>
      <font color="orangered"><b>ArtScience Museum</b></font>
     </td>
     <td>
-      <font color="orangered">29 - 31 December 2019</font>
-      <font color="orangered"><br>8PM - 10.30PM</font>
+      <font color="orangered">29 - 30 December 2019</font>
+      <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
       <br>  
-      <font color="orangered"><br>DD/MM/YYYY - DD/MM/YYYY</font>
-      <font color="orangered"><br>2PM - 10PM</font>
-      <font color="orangered"><b><br><a href="https://www.gardensbythebay.com.sg/">Find out more</a></b></font>
+      <font color="orangered"><br>31 December 2019 </font>
+      <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
+      <font color="orangered"><b><br><a href="/build-a-dream/">Find out more</a></b></font>
       <br>
      </td>
     </tr>
