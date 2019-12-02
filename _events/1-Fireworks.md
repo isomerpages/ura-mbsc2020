@@ -1,6 +1,6 @@
 ---
-title: New Year's Eve Fireworks
-permalink: /events/New-Year's-Eve-Fireworks/
+title: Fireworks Vantage Points
+permalink: /events/Fireworks/
 ---
 
 # Vantage Points
