@@ -22,13 +22,12 @@ sections:
         - title: Events 
           url: /events/whats-on/marina-bay/
           description: New Year's Eve events and more     
-        - infopic:
-      title: Build a Dream
-      subtitle: -
-      description: >-
-        Make a difference today
-      button: Explore it Here
-      url: /build-a-dream/
-      image: /images/BaDBeyondSocialServices.jpg
-      alt: Build-a-Dream
+    - infopic:
+        title: Build a Dream
+        subtitle: -
+        description: Make a difference today
+        button: Explore it Here
+        url: /build-a-dream/
+        image: /images/BaDBeyondSocialServices.jpg
+        alt: build-a-dream
 ---
