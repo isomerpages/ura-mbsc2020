@@ -7,13 +7,7 @@ permalink: /build-a-dream/
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o2OWGkAi2tU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-<table>
-      <tr>
-    <td>
-      <br>
-      <br>
-          
- ### About Build a Dream 
+### About Build a Dream 
  <br>
  Join us in making the dream of an inclusive society come true. Now in its second year, the Build a Dream campaign started as a joint initiative by Marina Bay Singapore Countdown (MBSC) and the National Volunteer & Philanthropy Centre (NVPC) to support those in need. This festive season, we’re bringing cheer to four organisations. From fostering a caring community to providing financial aid, learn how you can contribute to their hopes and dreams for Singapore!
       <br>
