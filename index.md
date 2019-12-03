@@ -13,15 +13,15 @@ sections:
         button: What's On
         url: /events/whats-on/marina-bay
         key_highlights:
+        - title: Celebrate in the City 
+          url: /events/citc/
+          description: Celebrate in the City's events 
+        - title: Events
+          url: /events/whats-on/marina-bay/
+          description: New Year's Eve events and more
         - title: New Year's Eve Fireworks 
           url: /events/fireworks/
-          description: Click here for vantage points
-        - title: Build A Dream
-          url: /build-a-dream/
-          description: Make a difference today
-        - title: Events 
-          url: /events/whats-on/marina-bay/
-          description: New Year's Eve events and more     
+          description: Click here for vantage points     
     - carousel:
        - title: <a href="/events/citc/">Celebrate In The City</a></b></font>
          subtitle:             
