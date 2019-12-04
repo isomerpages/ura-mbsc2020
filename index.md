@@ -31,7 +31,7 @@ sections:
          image: /images/build-a-dream.jpg
          alt: Build a Dream 
     - infopic:
-         title: /images/SponsorAckPage(H).png
+         title: <font color="orangered"><b><br><a href="/about/acknowledgements/">Sponsors</a></b></font>
          button: Learn More
          url: /about/acknowledgements/   
          image: /images/SponsorAckPage(H).png
