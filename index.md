@@ -26,6 +26,7 @@ sections:
          title: Build a Dream
          button: Learn More
          description: Be a builder of dreams
+         description: Donate/Volunteer today!
          url: /build-a-dream/
          image: /images/build-a-dream.jpg
          alt: Build a Dream 
