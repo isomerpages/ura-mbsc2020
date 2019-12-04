@@ -23,6 +23,12 @@ sections:
           url: /events/fireworks/
           description: Click here for vantage points     
     - infopic:
+         title: Build a Dream
+         button: Learn More
+         url: /build-a-dream/
+         image: /images/build-a-dream.jpg
+         alt: Build a Dream 
+    - infopic:
          title: Sponsors
          button: Learn More
          url: /about/acknowledgements/
