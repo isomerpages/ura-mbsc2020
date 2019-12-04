@@ -24,8 +24,9 @@ sections:
           description: Click here for vantage points     
     - infopic:
          title: Build a Dream
+         subtitle: Be a builder of dreams
          button: Learn More
-         description: Be a builder of dreams. Donate / Volunteer today!
+         description: Donate / Volunteer today!
          url: /build-a-dream/
          image: /images/build-a-dream.jpg
          alt: Build a Dream 
