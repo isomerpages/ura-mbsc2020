@@ -31,6 +31,9 @@ sections:
          image: /images/build-a-dream.jpg
          alt: Build a Dream 
     - infopic:
+         title: /images/SponsorAckPage(H).png
+         button: Learn More
+         url: /about/acknowledgements/   
          image: /images/SponsorAckPage(H).png
          alt: Sponsors  
 ---
