@@ -4,7 +4,7 @@ permalink: /events/Fireworks/
 ---
 
 # Vantage Points
-### The best spots to view the fireworks display
+### Some of the key vantage points from which to watch the fireworks on New Year’s Eve
 <br>
 <img src="/images/vantage-point-map.jpg">
 
