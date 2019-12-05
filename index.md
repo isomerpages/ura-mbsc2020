@@ -15,7 +15,7 @@ sections:
         key_highlights:
         - title: Celebrate in the City 
           url: /events/citc/
-          description: Celebrate in the City's events 
+          description: Find out more 
         - title: Events
           url: /events/whats-on/marina-bay/
           description: New Year's Eve events and more
