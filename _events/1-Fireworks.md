@@ -4,4 +4,8 @@ permalink: /events/Fireworks/
 ---
 
 # Vantage Points
-### <font color="orangered"><b>Stay tuned for more updates!</b></font>
+### The best spots to view the fireworks display
+<br>
+<img src="/images/vantage-point-map.jpg">
+
+
