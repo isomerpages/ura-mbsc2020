@@ -48,6 +48,6 @@ Ease into 2020 with us. Unwind @ Civic District.
       <font color="orangered"><br>31 December 2019 | 10am - 12mn</font>
       <font color="orangered"><br> Extended hours till 12mn </font>
       <font color="orangered"><br> @ The Arts House </font>  
-      <br>What better way to usher in the New Year than to acknowledge the pioneering efforts of Singapore's heritage conservation at the Marjorie Doggett Exhibition! The Arts House's opening hours will be extended to midnight on 31 December 2019.
+      <br>What better way to usher in the New Year than to experience Singapore through the lens of the pioneer local photographer, Marjorie Doggett. The Arts House's opening hours has been extended to midnight on 31 December 2019.
       <font color="orangered"><b><br><a href="https://www.theartshouse.sg/whats-on/marjorie-doggett-exhibition">Find Out More</a></b></font>
       <br>
