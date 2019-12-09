@@ -18,13 +18,13 @@ third_nav_title: New Year's Eve
 Ease into 2020 with us. Unwind @ Civic District.
       <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>     
-     <a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p"> <img src="/images/pets-pawty-kv-updated.jpg" /></a>
+     <a href="https://petspawty.sg/"> <img src="/images/pets-pawty-kv-updated.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: Pets Pawty</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
       <font color="orangered"><br> @ Connaught Drive</font>
       <br>
       <br>Join us as we count down to the New Year together with our beloved companions be they furry, feathery, scaly or slimy! Pawty-goers can look forward to an evening picnic together with your pet(s) and various programmes and contests including an agility trial, obstacle race, frisbee competition and even a doggy “beer” drinking contest. Everybody put your paws up and ring in 2020 with a pet-centric night!
-      <font color="orangered"><b><br><a href="https://instagram.com/petspawty?igshid=ldd4qvpivf4p">Find Out More</a></b></font>
+      <font color="orangered"><b><br><a href="https://petspawty.sg/">Find Out More</a></b></font>
       <br>
       <br>
      <a href="https://www.acm.org.sg/"> <img src="/images/CDAsianCivilisationsMuseum.jpg" /></a>
