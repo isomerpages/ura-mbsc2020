@@ -14,8 +14,7 @@ collections:
   FAQ:
     output: true
 resources_name: news
-google-analytics: UA-56383423-1
-
+google_analytics: UA-56383423-1
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
