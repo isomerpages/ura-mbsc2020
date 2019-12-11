@@ -18,7 +18,7 @@ third_nav_title: New Year's Eve
 Ease into 2020 with us. Unwind @ Civic District.
       <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>     
-     <a href="https://petspawty.sg/"> <img src="/images/pets-pawty-kv-updated.jpg" /></a>
+     <a href="https://petspawty.sg/"> <img src="/images/pets_pawty_kv_latest_update.jpg" /></a>
       <font color="orangered"><b>Unwind @ Civic District: Pets Pawty</b></font>
       <font color="orangered"><br>31 December 2019 | 4pm - 1am</font>
       <font color="orangered"><br> @ Connaught Drive</font>
