@@ -48,7 +48,7 @@ Complete with pre-show activities for the whole family, live DJ performances and
       <br>
       <br>
      <a href="http://www.uncleringo.com/circus/"> <img src="/images/(M)UncleRingoGCE.jpg" /></a>
-      <font color="orangered"><b>Uncle Ringo Presents The Great Circus of Europe</b></font>
+      <font color="orangered"><b>Uncle Ringo Presents: The Great Circus of Europe</b></font>
       <font color="orangered"><br>20 December 2019 - 1 January 2020 | Various timings</font>
       <font color="orangered"><br> Refer to event website for more information </font>
       <font color="orangered"><br> @ Bayfront Event Space </font>
