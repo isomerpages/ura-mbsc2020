@@ -36,5 +36,5 @@ permalink: /about/acknowledgements/
 <div style="width:20%"><a href="https://oue.com.sg/"><img src="/images/logos/OUE.png" alt="OUE" /></a></div>
 
 **Partners**
-<div style="width:20%"><a href="https://www.ura.gov.sg/Corporate/Get-Involved/Shape-A-Distinctive-City/Explore-Our-City/Marina-Bay"><img src="/images/pbid_sponsor_logo.png" alt="stb" /></a></div>
+<div style="width:20%"><a href="https://marinabayalliance.com/"><img src="/images/pbid_sponsor_logo.png" alt="stb" /></a></div>
 <div style="width:20%"><a href="https://www.singaporeflyer.com/"><img src="/images/sg_flyer_sponsor_lgo.png" alt="stb" /></a></div>
