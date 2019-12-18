@@ -37,4 +37,4 @@ permalink: /about/acknowledgements/
 
 **Partners**
 <div style="width:20%"><a href="https://marinabayalliance.com/"><img src="/images/pbid_sponsor_logo.png" alt="stb" /></a></div>
-<div style="width:30%"><a href="https://www.singaporeflyer.com/"><img src="/images/updated_sgflyersponsor_logo.png" alt="stb" /></a></div>
+<div style="width:25%"><a href="https://www.singaporeflyer.com/"><img src="/images/updated_sgflyersponsor_logo.png" alt="stb" /></a></div>
