@@ -33,6 +33,6 @@ sections:
     - infopic:
          title: <font color="orangered"><b><br><a href="/about/acknowledgements/">Sponsors</a></b></font>
          url: /about/acknowledgements/   
-         image: /images/SponsorAckPage(H).png
+         image: /images/updated_sponsor_logo.png
          alt: Sponsors  
 ---
