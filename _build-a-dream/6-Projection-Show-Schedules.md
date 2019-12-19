@@ -9,7 +9,7 @@ permalink: /build-a-dream/projection-show-schedule/
 
 # Schedule for Build a Dream Light Projection Shows
 
-**Click <a href="https://www.giving.sg/mbsc-build-a-dream">here</a> to find out how you can do your part for the community**
+**Be a Builder Of Dreams, <a href="https://www.giving.sg/mbsc-build-a-dream">Donate / Volunteer </a> today**
 
 <table class="table-v">
 
