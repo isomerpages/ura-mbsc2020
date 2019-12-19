@@ -11,14 +11,14 @@ third_nav_title: New Year's Eve
       <font color="orangered"><br>26 - 31 December 2019 | Various timings</font>
       <font color="orangered"><br> @ The Fullerton Hotel Singapore, ArtScience Museum and The Merlion </font>
       <br>
-      <br>Build a Dream returns to bring cheers to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hope and dreams.
+      <br>Build a Dream returns to bring cheer to 4 social service organisations this festive season! Be inspired as beautiful artworks from these non-profits are projected on The Fullerton Hotel Singapore, the ArtScience Museum, and the Merlion. Come see their artworks light up our city skyline as Marina Bay transforms into a delightful bay of hopes and dreams.
 Countdown with us to a more inclusive Singapore! Together, let’s Build a Dream.
       <font color="orangered"><b><br><a href="/build-a-dream/">Find Out More</a></b></font>
       <br>
       <br>
     <a href="https://star-island.sg/"> <img src="/images/NYE_STARISLAND.jpg" /></a>
       <font color="orangered"><b>STAR ISLAND SINGAPORE COUNTDOWN EDITION 2019 - 2020</b></font>
-      <font color="orangered"><br>31 December 2019 | 10.40pm - 12.10am</font>
+      <font color="orangered"><br>31 December 2019 | 10.30pm - 12.10am</font>
       <font color="orangered"><br>Doors open at 5pm; pre-show F&B and activities</font>
       <font color="orangered"><br> The Float @ Marina Bay </font>
       <br>
