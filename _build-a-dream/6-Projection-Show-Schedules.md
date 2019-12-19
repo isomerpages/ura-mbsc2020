@@ -9,10 +9,12 @@ permalink: /build-a-dream/projection-show-schedule/
 
 # Schedule for Build a Dream Light Projection Shows
 
+## Click <a href="https://www.giving.sg/mbsc-build-a-dream">here</a> to find out how you can do your part for the community
+
 <table class="table-v">
 
 <table style="width:100%">
-Click <a href="https://www.giving.sg/mbsc-build-a-dream">here</a>to find out how you can do your part for the community
+    
 <tr>
     <td>
      <font color="orangered"><b>The Fullerton Hotel Singapore</b></font>
