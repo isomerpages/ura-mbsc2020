@@ -49,10 +49,8 @@ Click <a href="https://www.giving.sg/mbsc-build-a-dream">here</a>to find out how
      <br>      
     </td>
     <td>
-      <font color="orangered">29 - 31 December 2019  </font>
-      <br>      
+      <font color="orangered">29 - 31 December 2019  </font>  
       <font color="orangered"><br>8.15pm, 8.30pm, 8.45pm, 9.15pm, 9.30pm, 9.45pm, 10.15pm, 10.30pm</font>
-      <br>
       <br>
      </td>
     </tr>
