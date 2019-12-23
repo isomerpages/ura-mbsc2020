@@ -49,7 +49,7 @@ permalink: /_visitor-information/traffic-advisory
       <b>Period of Closure</b>
 <tr>
     <td>
-     Bayfront Ave towards Temasek Avenue</
+     Bayfront Ave towards Temasek Avenue
      <br>
     </td>
     <td>
