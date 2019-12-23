@@ -10,16 +10,16 @@ permalink: /_visitor-information/traffic-advisory
 <table style="width:100%">
  <tr>
     <td>
-     <font color="orangered"><b>Civic District</b></font>
+     <b>Civic District</b></font>
 <tr>
     <td> 
 <tr>
     <td>
-     <font color="orangered"><b>Roads Affected</b></font>
+     <b>Roads Affected</b></font>
      <br>
     </td>
     <td>
-      <font color="orangered"><b>Period of Closure</b></font>
+      <b>Period of Closure</b></font>
 <tr>    
     <td>
      <font color="orangered">- Part of Parliament Place & St Andrew’s Road<br>- Connaught Drive<br>- Fullerton Road 
@@ -27,7 +27,7 @@ permalink: /_visitor-information/traffic-advisory
      <br>
     </td>
     <td>
-      <font color="orangered">Full road closure from 4pm on 31 Dec 2019 to 5am on 1 Jan 20209</font>
+      Full road closure from 4pm on 31 Dec 2019 to 5am on 1 Jan 20209</font>
       <br>
      </td>
     </tr>
@@ -37,33 +37,33 @@ permalink: /_visitor-information/traffic-advisory
 <table style="width:100%">
 <tr>
     <td>
-     <font color="orangered"><b>Marina Bay and Raffles Place</b></font>
+     <b>Marina Bay and Raffles Place</b></font>
 <tr>
     <td>
 <tr>
     <td>
-     <font color="orangered"><b>Roads Affected</b></font>
+     <b>Roads Affected</b></font>
      <br>
     </td>
     <td>
-      <font color="orangered"><b>Period of Closure</b></font>
+      <b>Period of Closure</b></font>
 <tr>
     <td>
-     <font color="orangered">Bayfront Ave towards Temasek Avenue</font>
+     Bayfront Ave towards Temasek Avenue</font>
      <br>
     </td>
     <td>
       <font color="orangered">Full road closure from 6pm on 31 Dec 2019 to 5am on 1 Jan 2020</font>
 <tr>
     <td>
-     <font color="orangered">Bayfront Ave towards Marina Blvd</font>
+     Bayfront Ave towards Marina Blvd</font>
      <br>
     </td>
     <td>
       <font color="orangered">Full road closure from 6pm on 31 Dec 2019 to 2am on 1 Jan 2020</font>
 <tr>
     <td>
-     <font color="orangered">Raffles Ave<br>Collyer Quay towards Shenton Way</font>
+     Raffles Ave<br>Collyer Quay towards Shenton Way</font>
      <br>
     </td>
     <td>
@@ -71,21 +71,21 @@ permalink: /_visitor-information/traffic-advisory
 </font>
 <tr>
     <td>
-     <font color="orangered">Esplanade Drive (Nicoll Highway towards Collyer Quay)<br>Marina Blvd</font>
+     Esplanade Drive (Nicoll Highway towards Collyer Quay)<br>Marina Blvd</font>
      <br>
     </td>
     <td>
       <font color="orangered">Full road closure from 10pm on 31 Dec 2019 to 2am on 1 Jan 2020</font>
 <tr>
     <td>
-     <font color="orangered">Republic Blvd towards Raffles Avenue<br>Slip road at Junction of Raffles Blvd / Republic Blvd / Raffles Ave<br>Temasek Ave (Both Carriageways)<br>Esplanade Drive (Collyer Quay towards Nicoll Highway)<br>Collyer Quay towards Fullerton Road<br>Fullerton Square<br>Battery Road<br>Flint Street<br>Bonham Street<br></font>
+     Republic Blvd towards Raffles Avenue<br>Slip road at Junction of Raffles Blvd / Republic Blvd / Raffles Ave<br>Temasek Ave (Both Carriageways)<br>Esplanade Drive (Collyer Quay towards Nicoll Highway)<br>Collyer Quay towards Fullerton Road<br>Fullerton Square<br>Battery Road<br>Flint Street<br>Bonham Street<br></font>
      <br>
     </td>
     <td>
       <font color="orangered">Full road closure from 11pm on 31 Dec 2019 to 2am on 1 Jan 2020</font>
 <tr>
     <td>
-     <font color="orangered">Marina Way<br>Finlayson Green towards Marina Blvd</font>
+     Marina Way<br>Finlayson Green towards Marina Blvd</font>
      <br>
     </td>
     <td>
