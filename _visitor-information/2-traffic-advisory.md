@@ -10,16 +10,16 @@ permalink: /_visitor-information/traffic-advisory
 <table style="width:100%">
  <tr>
     <td>
-     <b>Civic District</b></font>
+     <b>Civic District</b>
 <tr>
     <td> 
 <tr>
     <td>
-     <b>Roads Affected</b></font>
+     <b>Roads Affected</b>
      <br>
     </td>
     <td>
-      <b>Period of Closure</b></font>
+      <b>Period of Closure</b>
 <tr>    
     <td>
      <font color="orangered">- Part of Parliament Place & St Andrew’s Road<br>- Connaught Drive<br>- Fullerton Road 
@@ -37,12 +37,12 @@ permalink: /_visitor-information/traffic-advisory
 <table style="width:100%">
 <tr>
     <td>
-     <b>Marina Bay and Raffles Place</b></font>
+     <b>Marina Bay and Raffles Place</b>
 <tr>
     <td>
 <tr>
     <td>
-     <b>Roads Affected</b></font>
+     <b>Roads Affected</b>
      <br>
     </td>
     <td>
