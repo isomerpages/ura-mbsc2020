@@ -3,7 +3,7 @@ title: Traffic Advisory
 permalink: /_visitor-information/traffic-advisory
 ---
 
-<a href="https://www.giving.sg/campaigns/Build_a_Dream_SHINE_Children_and_Youth_Services"> <img src="/images/BaDShine.jpg" /></a>
+<a href="police.gov.sg/Media-Room/News/20191220_OTHERS_Security_and_Traffic_Arrangements_for_the_MBSC2020"> <img src="/images/road-closure-map.png" /></a>
 
 <table class="table-v">
 
