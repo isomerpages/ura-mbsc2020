@@ -10,8 +10,6 @@ permalink: /_visitor-information/traffic-advisory
 <table style="width:100%">
 
 <tr>
-    <td> 
-<tr>
     <td>
      <b>Roads Affected [Civic District] </b>
      <br>
@@ -34,8 +32,6 @@ permalink: /_visitor-information/traffic-advisory
 
 <table style="width:100%">
    
-<tr>
-    <td>
 <tr>
     <td>
      <b>Roads Affected [Marina Bay and Raffles Place]</b>
