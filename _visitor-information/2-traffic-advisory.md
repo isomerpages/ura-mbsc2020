@@ -5,13 +5,11 @@ permalink: /_visitor-information/traffic-advisory
 
 <a href="https://www.police.gov.sg/Media-Room/News/20191220_OTHERS_Security_and_Traffic_Arrangements_for_the_MBSC2020"> <img src="/images/road-closure-map.png" /></a>
 
+   <b>Civic District</b>
+   
 <table class="table-v">
-
+ 
 <table style="width:100%">
- <tr>
-    <td>
-     <b>Civic District</b>
-<tr>
     <td> 
 <tr>
     <td>
@@ -32,14 +30,12 @@ permalink: /_visitor-information/traffic-advisory
      </td>
     </tr>
 
+   <b>Marina Bay and Raffles Place</b>
+   
 <table class="table-v">
 
 <table style="width:100%">
-<tr>
-    <td>
-     <b>Marina Bay and Raffles Place</b>
-<tr>
-    <td>
+ 
 <tr>
     <td>
      <b>Roads Affected</b>
