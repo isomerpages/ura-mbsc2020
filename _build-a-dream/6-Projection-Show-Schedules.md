@@ -51,7 +51,7 @@ permalink: /build-a-dream/projection-show-schedule/
      <br>      
     </td>
     <td>
-      <font color="orangered">29 - 31 December 2019  </font>  
+      <font color="orangered">29 - 30 December 2019  </font>  
       <font color="orangered"><br>8.15PM, 8.30PM, 8.45PM, 9.15PM, 9.30PM, 9.45PM, 10.15PM, 10.30pm</font>
       <br> 
       <font color="orangered"><br>31 December 2019</font>
