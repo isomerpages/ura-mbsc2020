@@ -1,9 +1,9 @@
 ---
-title: SECURITY AND TRAFFIC ARRANGEMENTS FOR MBSC 2020
-permalink: /news/press-release/security-and-traffic-arrangements-for-mbsc2020/
+title: Ring in 2020 with endless fun from day till night at the Marina Bay Singapore Countdown 2020
+permalink: /news/press-release/mbsc2020-media-release/
 ---
 
-# **Marina Bay Singapore Countdown 2020 Security and Traffic Arrangements**
-23rd December 2019
+# **Ring in 2020 with endless fun from day till night at the Marina Bay Singapore Countdown 2020**
+19th December 2019
 <br>
-[PDF](/news/press-release/files/security-and-traffic-arrangements-for-mbsc2020.pdf)
+[PDF](/news/press-release/files/mbsc2020-media-release.pdf)
