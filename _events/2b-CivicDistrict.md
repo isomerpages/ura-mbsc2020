@@ -14,8 +14,9 @@ third_nav_title: New Year's Eve
       <br>
       <br>Eat, drink and be merry with your loved ones at the Civic District! For one night only, Empress Lawn will be transformed into a chill out zone, replete with delicious treats, and capped with a disco party to dance in the New Year! Oh, did we mention you can customise your drinks? Come have a crack at it at the MIX bar as you mingle and make new friends!
       <br>
-      <br>
 Ease into 2020 with us. Unwind @ Civic District.
+      <br>      
+Bring your own picnic mats!
       <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>     
      <a href="https://petspawty.sg/"> <img src="/images/pets_pawty_kv_latest_update.jpg" /></a>
@@ -24,9 +25,11 @@ Ease into 2020 with us. Unwind @ Civic District.
       <font color="orangered"><br> @ Connaught Drive</font>
       <br>
       <br>Join us as we count down to the New Year together with our beloved companions be they furry, feathery, scaly or slimy! Pawty-goers can look forward to an evening picnic together with your pet(s) and various programmes and contests including an agility trial, obstacle race, frisbee competition and even a doggy “beer” drinking contest. Everybody put your paws up and ring in 2020 with a pet-centric night!
-      <font color="orangered"><b><br><a href="https://petspawty.sg/">Find Out More</a></b></font>
-      <br>
-      <br>
+      <br>   
+Bring your own picnic mats! 
+      <br> 
+      <font color="orangered"><b><a href="https://petspawty.sg/">Find Out More</a></b></font>
+      <br>      
      <a href="https://www.acm.org.sg/"> <img src="/images/ACM_KV_10122019.jpg" /></a>
       <font color="orangered"><b>New Year's Eve @ Asian Civilisations Museum</b></font>
       <font color="orangered"><br>31 December 2019 | 10am - 10pm</font>
