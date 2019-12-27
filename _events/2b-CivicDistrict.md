@@ -17,6 +17,7 @@ third_nav_title: New Year's Eve
 Ease into 2020 with us. Unwind @ Civic District.
       <br>      
 Bring your own picnic mats!
+      <br> 
       <font color="orangered"><b><br><a href="https://silentdisco-countdown2020.peatix.com/">Find Out More</a></b></font>
       <br>     
      <a href="https://petspawty.sg/"> <img src="/images/pets_pawty_kv_latest_update.jpg" /></a>
@@ -29,7 +30,6 @@ Bring your own picnic mats!
 Bring your own picnic mats!      
       <font color="orangered"><b><br><a href="https://petspawty.sg/">Find Out More</a></b></font>
       <br>
-      <br>      
      <a href="https://www.acm.org.sg/"> <img src="/images/ACM_KV_10122019.jpg" /></a>
       <font color="orangered"><b>New Year's Eve @ Asian Civilisations Museum</b></font>
       <font color="orangered"><br>31 December 2019 | 10am - 10pm</font>
