@@ -4,7 +4,7 @@ title: Marina Bay Singapore Countdown
 description: A Bay of Hopes and Dreams
 image: /images/
 permalink: /
-notification: Click <a href="https://www.facebook.com/marinabaysg/">here</a> for traffic updates. 
+notification: We have migrated to www.marinabaycountdown.gov.sg. Please bookmark the new domain name and thank you for visiting our website. 
 sections:
     - hero:
         title: 31 December 2019
