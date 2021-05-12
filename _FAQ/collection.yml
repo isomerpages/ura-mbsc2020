@@ -1,0 +1,8 @@
+collections:
+  FAQ:
+    output: true
+    order:
+      - about-mbsc-celebrate-in-the-city.md
+      - programmes.md
+      - ticketing.md
+      - planning-your-visit.md

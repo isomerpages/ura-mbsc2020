@@ -1,0 +1,10 @@
+collections:
+  build-a-dream:
+    output: true
+    order:
+      - about.md
+      - beyond-social-services.md
+      - dyslexia-association-of-singapore.md
+      - shine-children-and-youth-services.md
+      - yishun-community-hospital.md
+      - projection-show-schedule.md

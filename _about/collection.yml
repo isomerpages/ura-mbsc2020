@@ -1,0 +1,6 @@
+collections:
+  about:
+    output: true
+    order:
+      - marina-bay-singapore-countdown-2020.md
+      - acknowledgements.md

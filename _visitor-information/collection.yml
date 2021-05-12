@@ -1,0 +1,6 @@
+collections:
+  visitor-information:
+    output: true
+    order:
+      - getting-there.md
+      - traffic-advisory.md

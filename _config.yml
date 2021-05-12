@@ -2,17 +2,6 @@ title: '#MBSC2020'
 url: "https://www.marinabaycountdown.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/MBSC2020logo-170x50.svg
 favicon: /images/mbsc.ico
-collections:
-  about:
-    output: true
-  events:
-    output: true
-  build-a-dream:
-    output: true
-  visitor-information:
-    output: true
-  FAQ:
-    output: true
 resources_name: news
 google_analytics: UA-56383423-1
 
@@ -34,10 +23,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://ura-mbsc2020-staging.netlify.com
+prod: https://ura-mbsc2020-prod.netlify.com
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

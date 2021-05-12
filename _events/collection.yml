@@ -1,0 +1,9 @@
+collections:
+  events:
+    output: true
+    order:
+      - fireworks-vantage-points.md
+      - new-year-s-eve/.keep
+      - new-year-s-eve/marina-bay.md
+      - new-year-s-eve/civic-district.md
+      - celebrate-in-the-city.md
