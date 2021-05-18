@@ -5,6 +5,21 @@ favicon: /images/mbsc.ico
 resources_name: news
 google_analytics: UA-56383423-1
 
+colors:
+  primary-color: '#360a87'
+  secondary-color: '#e9531b'
+  media-colors:
+    - title: media-color-one
+      color: '#8C8C8C'
+    - title: media-color-two
+      color: '#8C8C8C'
+    - title: media-color-three
+      color: '#e9531b'
+    - title: media-color-four
+      color: '#e9531b'
+    - title: media-color-five
+      color: '#e9531b'
+
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
